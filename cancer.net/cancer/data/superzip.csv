@@ -1,0 +1,2036 @@
+zip_code,centile,superzip,place,province_or_county,community,latitude,longitude,all_cancer_sites,tongue,mouth,breast,lungs,stomach,bladder,sex
+600019,99.99999,1,Shanmugapuram,Tiruvallur,Ambattur,13.1582,80.3018,731,131,186,12,188,184,30,M
+600037,99.99359,1,Mogappair West,Tiruvallur,Ambattur,13.0659,80.2365,731,131,186,12,188,184,30,M
+600049,99.98998,1,Villivakkam,Tiruvallur,Ambattur,13.1228,80.1703,731,131,186,12,188,184,30,M
+600050,99.98444,1,Korattur,Tiruvallur,Ambattur,13.1063,80.1734,731,131,186,12,188,184,30,M
+600051,99.98334,1,Madhavaram Milk Colony,Tiruvallur,Ponneri,13.1501,80.242,731,131,186,12,188,184,30,M
+600052,99.98116,1,Vilangadupakkam,Tiruvallur,Ponneri,13.1961,80.2156,731,131,186,12,188,184,30,M
+600053,99.95969,1,Oragadam,Tiruvallur,Ambattur,13.2431,79.94,974,41,85,647,78,107,16,F
+600054,99.93846,1,Avadi,Tiruvallur,Ambattur,13.2431,79.94,974,41,85,647,78,107,16,F
+600055,99.92861,1,Palavedu,Tiruvallur,Poonamallee,13.1547,80.0694,974,41,85,647,78,107,16,F
+600056,99.89934,1,Poonamallee,Tiruvallur,Poonamalee,13.2431,79.94,974,41,85,647,78,107,16,F
+600057,99.89091,1,Ennore RS,Tiruvallur,Ambattur,13.0252,79.8562,974,41,85,647,78,107,16,F
+600058,99.86842,1,Ambattur Indl Estate,Tiruvallur,Ambattur,13.0252,79.8562,731,131,186,12,188,184,30,M
+600060,99.85355,1,Moolakadai,Tiruvallur,Gummidipoondi,13.1269,80.2467,731,131,186,12,188,184,30,M
+600062,99.82313,1,Vellanur,Tiruvallur,Poonamallee,13.158,80.1063,731,131,186,12,188,184,30,M
+600066,99.75265,1,Kadirvedu,Tiruvallur,Ambattur,13.0063,79.8869,731,131,186,12,188,184,30,M
+600067,99.7291,1,Nayar,Tiruvallur,Ponneri,13.2626,80.2194,731,131,186,12,188,184,30,M
+600068,99.687,1,Manali (Tiruvallur),Tiruvallur,Ambattur,13.0063,79.8869,731,131,186,12,188,184,30,M
+600071,99.68106,1,Paruthipattu,Tiruvallur,Poonamallee,12.9591,80.1436,731,131,186,12,188,184,30,M
+600072,99.67003,1,Kolappancheri,Tiruvallur,Poonamallee,12.9591,80.1436,731,131,186,12,188,184,30,M
+600076,99.63454,1,Korattur RS,Tiruvallur,Ambattur,12.9591,80.1436,731,131,186,12,188,184,30,M
+600077,99.63304,1,Numbal,Tiruvallur,Poonamallee,12.9591,80.1436,731,131,186,12,188,184,30,M
+600087,99.60468,1,Valasaravakkam,Tiruvallur,Poonamalee,13.0439,80.1725,731,131,186,12,188,184,30,M
+600095,99.59599,1,Maduravoyal,Tiruvallur,Poonamalee,13.0675,80.1632,731,131,186,12,188,184,30,M
+600099,99.5876,1,Kolathur,Tiruvallur,Ambattur,13.2431,79.94,731,131,186,12,188,184,30,M
+600103,99.58385,1,Andarkuppam,Tiruvallur,Ambattur,13.3062,80.1565,731,131,186,12,188,184,30,M
+600107,99.54424,1,Nerkundram,Tiruvallur,Chennai Corporation,13.0722,80.2014,731,131,186,12,188,184,30,M
+600110,99.52798,1,Ponniammanmedu,Tiruvallur,Ambattur,13.13,80.2311,731,131,186,12,188,184,30,M
+600120,99.51097,1,Vallur,Tiruvallur,Ambattur,13.256,80.2818,731,131,186,12,188,184,30,M
+600123,99.49184,1,Sembarambakkam,Tiruvallur,Poonamallee,13.2431,79.94,731,131,186,12,188,184,30,M
+600124,99.46548,1,Kuttambakkam,Tiruvallur,Poonamallee,13.2431,79.94,731,131,186,12,188,184,30,M
+600128,99.43073,1,Kovur,Tiruvallur,Poonamallee,13.2431,79.94,731,131,186,12,188,184,30,M
+601101,99.42176,1,Arni CPT,Tiruvallur,Ponneri,13.3364,80.0846,731,131,186,12,188,184,30,M
+601102,99.3998,1,Majankaranai,Tiruvallur,Uttukottai,13.1879,79.7968,974,41,85,647,78,107,16,F
+601103,99.37475,1,Meyyur,Tiruvallur,Tiruvallur,13.2425,79.944,974,41,85,647,78,107,16,F
+601201,99.33241,1,Tervali,Tiruvallur,Gummidipundii,13.4274,80.1388,731,131,186,12,188,184,30,M
+601202,99.24898,1,Pallavada,Tiruvallur,Gummidipundi,13.4759,80.0222,731,131,186,12,188,184,30,M
+601203,99.20985,1,Nallur,Tiruvallur,Ponneri,13.2431,79.94,731,131,186,12,188,184,30,M
+601204,99.16124,1,Medur,Tiruvallur,Ponneri,13.3842,80.2183,731,131,186,12,188,184,30,M
+601205,99.12652,1,Kolur,Tiruvallur,Ponneri,13.4304,80.2252,731,131,186,12,188,184,30,M
+601206,99.09166,1,Puvalambedu,Tiruvallur,Ponneri,13.4077,80.0404,731,131,186,12,188,184,30,M
+602001,99.07595,1,Tiruvallur Nethaji Road,Tiruvallur,Thiruvallur,13.0553,79.906,731,131,186,12,188,184,30,M
+602002,99.06966,1,Nungambakkam,Tiruvallur,Tiruvallur,13.0667,79.8946,731,131,186,12,188,184,30,M
+602003,99.02061,1,Kakalur Ind Estate,Tiruvallur,Tiruvallur,13.0553,79.906,731,131,186,12,188,184,30,M
+602021,99.01231,1,Monnavedu,Tiruvallur,Tiruvallur,13.2144,79.9414,731,131,186,12,188,184,30,M
+602023,98.97039,1,Neiveli,Tiruvallur,Tiruvallur,13.2431,79.94,731,131,186,12,188,184,30,M
+602024,98.9043,1,Kottamedu,Tiruvallur,Tiruvallur,13.2431,79.94,731,131,186,12,188,184,30,M
+602025,98.84264,1,Putlur,Tiruvallur,Tiruvallur,13.1128,79.9404,974,41,85,647,78,107,16,F
+602026,98.82337,1,Perandur,Tiruvallur,Uttukottai,13.3172,79.9428,974,41,85,647,78,107,16,F
+602105,98.78012,1,Ulundai,Tiruvallur,Thiruvallur,13.0084,79.8978,974,41,85,647,78,107,16,F
+631201,98.76967,1,Arungolam,Tiruvallur,Tirutani,12.9783,79.6172,974,41,85,647,78,107,16,F
+631202,98.76401,1,Kodivalasa,Tiruvallur,Tirutani,13.2547,79.4249,974,41,85,647,78,107,16,F
+631203,98.72816,1,Pandur,Tiruvallur,Tiruvallur,13.1556,79.8488,974,41,85,647,78,107,16,F
+631204,98.68438,1,Illuppur,Tiruvallur,Tiruttani,13.2431,79.94,731,131,186,12,188,184,30,M
+631205,98.62663,1,Mambakkam,Tiruvallur,Tiruttani,13.1433,79.5516,731,131,186,12,188,184,30,M
+631206,98.57519,1,Ramasamudram,Tiruvallur,Tiruttani,13.2279,79.5156,731,131,186,12,188,184,30,M
+631207,98.54367,1,Pallipat,Tiruvallur,Pallipattu,13.3386,79.4449,731,131,186,12,188,184,30,M
+631208,98.49564,1,Kakalur,Tiruvallur,Pallipat,13.267,79.4857,731,131,186,12,188,184,30,M
+631209,98.43779,1,Pattabiramapuram,Tiruvallur,Tiruttani,13.1834,79.6329,731,131,186,12,188,184,30,M
+631210,98.36923,1,Tiruvelangadu,Tiruvallur,Tirutani,13.1304,79.7772,731,131,186,12,188,184,30,M
+631211,98.29675,1,Karthikeyapuram,Tiruvallur,Tirutani,13.0989,79.7233,974,41,85,647,78,107,16,F
+631212,98.27714,1,Thalavedu,Tiruvallur,Tirutani,13.0989,79.7233,974,41,85,647,78,107,16,F
+631213,98.26258,1,Ponpadi,Tiruvallur,Tirutani,13.2303,79.5986,974,41,85,647,78,107,16,F
+631301,98.25553,1,Kadananagaram,Tiruvallur,Tirutani,13.1456,79.3701,731,131,186,12,188,184,30,M
+631302,98.22585,1,Rangapuram,Tiruvallur,Pallipat,13.1448,79.3977,731,131,186,12,188,184,30,M
+631303,98.18027,1,Ammaneri,Tiruvallur,Pallipattu,13.1426,79.4577,731,131,186,12,188,184,30,M
+631304,98.15637,1,Vanganur,Tiruvallur,Tirutani,13.1829,79.4553,974,41,85,647,78,107,16,F
+631402,98.12177,1,Perambakkam,Tiruvallur,Sriperumbudur,13.1449,79.8975,974,41,85,647,78,107,16,F
+600001,98.10563,1,Chennai G.P.O.,Chennai,Chennai,13.0914,80.2828,1116,218,262,15,294,248,79,M
+600002,98.06577,1,Chintadripet,Chennai,Chennai,13.0744,80.2714,1689,53,101,1259,132,132,12,F
+600003,98.05009,1,Park Town H.O,Chennai,Tondiarpet Fort St George,13.0754,80.2737,1689,53,101,1259,132,132,12,F
+600004,98.02567,1,Vivekananda College Madras,Chennai,Chennai,13.0754,80.2737,1689,53,101,1259,132,132,12,F
+600005,97.99634,1,Chepauk,Chennai,Chennai,13.0594,80.2789,1689,53,101,1259,132,132,12,F
+600006,97.97018,1,Shastri Bhavan,Chennai,Chennai,13.0754,80.2737,1689,53,101,1259,132,132,12,F
+600007,97.94895,1,Vepery,Chennai,Perambur Purasawalkam,13.0847,80.2675,1116,218,262,15,294,248,79,M
+600008,97.94725,1,Egmore,Chennai,Perambur Purasawalkam,13.0717,80.2556,1116,218,262,15,294,248,79,M
+600009,97.93916,1,Fort St George,Chennai,Tondiarpet Fort St George,13.0754,80.2737,1116,218,262,15,294,248,79,M
+600010,97.93479,1,Kilpauk,Chennai,Perambur Purasawalkam,13.08,80.2408,1116,218,262,15,294,248,79,M
+600011,97.90517,1,Perambur,Chennai,Perambur Purasawalkam,13.1103,80.2425,1116,218,262,15,294,248,79,M
+600012,97.87393,1,Venkatesapuram,Chennai,Perambur Purasawalkam,13.0647,80.2523,1116,218,262,15,294,248,79,M
+600013,97.85892,1,Rayapuram,Chennai,Egmore Nungambakkam,13.1141,80.2947,1116,218,262,15,294,248,79,M
+600014,97.85648,1,Royapettah,Chennai,Chennai,13.0506,80.2642,1116,218,262,15,294,248,79,M
+600015,97.8499,1,Guindy North,Chennai,Chennai City Corporation,13.1096,80.2146,1116,218,262,15,294,248,79,M
+600017,97.83234,1,Thygarayanagar H.O,Chennai,Chennai,13.1096,80.2146,1689,53,101,1259,132,132,12,F
+600018,97.80305,1,Teynampet,Chennai,Chennai,13.0433,80.2528,1689,53,101,1259,132,132,12,F
+600020,97.79362,1,Shastri Nagar (Chennai),Chennai,Chennai City Corporation,12.9967,80.2603,1689,53,101,1259,132,132,12,F
+600021,97.77891,1,Washermanpet East,Chennai,Tondiarpet Fort St George,13.121,80.285,1689,53,101,1259,132,132,12,F
+600022,97.77534,1,Rajbhavan (Chennai),Chennai,Chennai City Corporation,13.0484,80.2473,1689,53,101,1259,132,132,12,F
+600023,97.77225,1,Aynavaram,Chennai,Perambur Purasawalkam,13.0484,80.2473,1689,53,101,1259,132,132,12,F
+600024,97.76474,1,Kodambakkam,Chennai,Chennai City Corporation,13.0481,80.2214,1689,53,101,1259,132,132,12,F
+600025,97.75809,1,Engineering College (Chennai),Chennai,Chennai City Corporation,13.0484,80.2473,1689,53,101,1259,132,132,12,F
+600026,97.75486,1,Vadapalani,Chennai,Chennai City Corporation,13.0511,80.2125,1689,53,101,1259,132,132,12,F
+600028,97.75311,1,Raja Annamalaipuram,Chennai,Chennai City Corporation,13.025,80.2575,1689,53,101,1259,132,132,12,F
+600030,97.74733,1,Aminjikarai,Chennai,Egmore Nungambakkam,13.0739,80.2244,1689,53,101,1259,132,132,12,F
+600031,97.72675,1,Chetput,Chennai,Egmore Nungambakkam,13.07,80.2408,1689,53,101,1259,132,132,12,F
+600032,97.70628,1,Ekkaduthangal,Chennai,Chennai City Corporation,13.0659,80.2365,1689,53,101,1259,132,132,12,F
+600033,97.67737,1,West Mambalam,Chennai,Chennai City Corporation,13.0389,80.2258,1689,53,101,1259,132,132,12,F
+600034,97.66196,1,Nungambakkam,Chennai,Chennai,13.0606,80.2344,1689,53,101,1259,132,132,12,F
+600035,97.6468,1,Nandanam,Chennai,Chennai City Corporation,13.0269,80.2406,1689,53,101,1259,132,132,12,F
+600036,97.63093,1,Indian Institute Of Technology,Chennai,Chennai City Corporation,13.0659,80.2365,1689,53,101,1259,132,132,12,F
+600038,97.61799,1,Icf Colony,Chennai,Perambur Purasawalkam,13.0659,80.2365,1689,53,101,1259,132,132,12,F
+600039,97.61029,1,Vyasar Nagar Colony,Chennai,Tondiarpet Fort St George,13.1111,80.2647,1689,53,101,1259,132,132,12,F
+600040,97.60732,1,Anna Nagar (Chennai),Chennai,Egmore Nungambakkam,12.8819,80.0885,1689,53,101,1259,132,132,12,F
+600041,97.60101,1,Valmiki Nagar,Chennai,Mylapore - Triplicane,12.9695,80.2588,1689,53,101,1259,132,132,12,F
+600042,97.58823,1,Velacheri,Chennai,Chennai City Corporation,13.0647,80.2523,1689,53,101,1259,132,132,12,F
+600078,97.57816,1,Kalaignar Karunanidhi Nagar,Chennai,Chennai City Corporation,12.9591,80.1436,1689,53,101,1259,132,132,12,F
+600081,97.57635,1,Tondiarpet,Chennai,Tondiarpet Fort St George,13.1274,80.2886,1689,53,101,1259,132,132,12,F
+600082,97.55869,1,Periyar Nagar,Chennai,Perambur,13.0572,80.2297,1689,53,101,1259,132,132,12,F
+600083,97.54076,1,Jafferkhanpet,Chennai,Chennai City Corporation,13.0582,80.24,1116,218,262,15,294,248,79,M
+600084,97.5323,1,Flowers Road,Chennai,Perambur Purasawalkam,13.0582,80.24,1116,218,262,15,294,248,79,M
+600085,97.52722,1,Kotturpuram,Chennai,Chennai City Corporation,13.0156,80.2467,1116,218,262,15,294,248,79,M
+600086,97.52275,1,Gopalapuram (Chennai),Chennai,Chennai,13.0472,80.2578,1116,218,262,15,294,248,79,M
+600090,97.51649,1,Rajaji Bhavan,Chennai,Chennai City Corporation,12.8503,80.0707,1116,218,262,15,294,248,79,M
+600092,97.51073,1,Virugambakkam,Chennai,Chennai City Corporation,13.0647,80.2523,1116,218,262,15,294,248,79,M
+600093,97.51044,1,Saligramam,Chennai,Chennai City Corporation,13.0647,80.2523,1116,218,262,15,294,248,79,M
+600094,97.50373,1,Choolaimedu,Chennai,Chennai,12.8503,80.0707,1116,218,262,15,294,248,79,M
+600101,97.48298,1,Anna Nagar Western Extn,Chennai,Ambattur,13.0974,80.195,1116,218,262,15,294,248,79,M
+600102,97.47905,1,Anna Nagar East,Chennai,Perambur Purasawalkam,13.0974,80.195,1116,218,262,15,294,248,79,M
+600104,97.47399,1,High Court Building (Chennai),Chennai,Tondiarpet Fort St George,13.0974,80.195,1116,218,262,15,294,248,79,M
+600106,97.46423,1,D G Vaishnav College,Chennai,Egmore Nungambakkam,13.0734,80.2069,1116,218,262,15,294,248,79,M
+600113,97.4352,1,Tidel Park,Chennai,Mambalam,12.9293,80.034,1116,218,262,15,294,248,79,M
+600118,97.41496,1,Erukkancheri,Chennai,Chennai,13.0647,80.2523,1116,218,262,15,294,248,79,M
+600016,97.38705,1,Meenambakkam,Kanchipuram,Sriperumbudur,12.9846,80.1747,811,159,158,12,197,250,35,M
+600043,97.35107,1,Pallavaram,Kanchipuram,Saidapet,12.968,80.1502,811,159,158,12,197,250,35,M
+600044,97.34417,1,Chromepet,Kanchipuram,Saidapet,12.9477,80.1354,811,159,158,12,197,250,35,M
+600045,97.27743,1,Tambaram H.O,Kanchipuram,Tambaram,12.8819,80.0885,1074,44,76,773,70,95,16,F
+600046,97.24577,1,Tambaram IAF,Kanchipuram,Tambaram,12.8819,80.0885,1074,44,76,773,70,95,16,F
+600047,97.24281,1,Tambaram Sanatorium,Kanchipuram,Tambaram,12.8819,80.0885,1074,44,76,773,70,95,16,F
+600048,97.23677,1,Mannivakkam,Kanchipuram,Chinglepet,12.8884,80.0641,1074,44,76,773,70,95,16,F
+600059,97.21183,1,LIC Colony Tambaram,Kanchipuram,Tambaram,13.0252,79.8562,811,159,158,12,197,250,35,M
+600061,97.18571,1,Nanganallur,Kanchipuram,Saidapet,12.9805,80.1881,811,159,158,12,197,250,35,M
+600063,97.17994,1,Srinivasanagar East,Kanchipuram,Tambaram,13.0063,79.8869,811,159,158,12,197,250,35,M
+600064,97.16557,1,Chitlapakkam,Kanchipuram,Tambaram,13.0063,79.8869,811,159,158,12,197,250,35,M
+600069,97.15959,1,Nandambakkam,Kanchipuram,Sriperumbudur,12.978,80.0678,811,159,158,12,197,250,35,M
+600070,97.12939,1,Anakaputhur,Kanchipuram,Tambaram,12.9828,80.1264,1074,44,76,773,70,95,16,F
+600073,97.12659,1,Gowriwakkam,Kanchipuram,Tambaram,12.9194,80.1697,1074,44,76,773,70,95,16,F
+600074,97.10166,1,Polichalur,Kanchipuram,Tambaram,12.9591,80.1436,1074,44,76,773,70,95,16,F
+600075,97.091,1,Pammal,Kanchipuram,Saidapet,12.975,80.1347,1074,44,76,773,70,95,16,F
+600088,97.07925,1,Adambakkam,Kanchipuram,Saidapet,12.9918,80.2035,1074,44,76,773,70,95,16,F
+600089,97.07362,1,Nandambakkam Kudiyiruppu,Kanchipuram,Saidapet,13.0582,80.24,1074,44,76,773,70,95,16,F
+600091,97.06131,1,Madipakkam,Kanchipuram,Saidapet,12.9623,80.1986,1074,44,76,773,70,95,16,F
+600096,97.02859,1,Perungudi,Kanchipuram,Saidapet,12.9609,80.2409,1074,44,76,773,70,95,16,F
+600097,97.02518,1,Oggiamthoraipakkam,Kanchipuram,Saidapet,12.8503,80.0707,1074,44,76,773,70,95,16,F
+600100,97.01861,1,Pallikaranai,Kanchipuram,Tambaram,12.9377,80.2153,811,159,158,12,197,250,35,M
+600115,97.00956,1,Injambakkam,Kanchipuram,Kancheepuram,12.8959,79.693,811,159,158,12,197,250,35,M
+600116,96.99272,1,Alapakkam,Kanchipuram,Sriperumbudur,12.6952,79.9479,811,159,158,12,197,250,35,M
+600117,96.97418,1,Old Pallavaram,Kanchipuram,Sriperumbudur,12.9293,80.034,811,159,158,12,197,250,35,M
+600119,96.95049,1,Sholinganallur,Kanchipuram,Saidapet,12.89,80.2313,811,159,158,12,197,250,35,M
+600122,96.94259,1,Paraniputhur,Kanchipuram,Sriperumbudur,12.8808,79.3531,1074,44,76,773,70,95,16,F
+600125,96.93944,1,Manapakkam,Kanchipuram,Sriperumbudur,13.0158,80.1761,1074,44,76,773,70,95,16,F
+600126,96.92583,1,Mappedu,Kanchipuram,Tambaram,12.6952,79.9479,1074,44,76,773,70,95,16,F
+600127,96.91093,1,Kolathur,Kanchipuram,Tiruporur,12.6952,79.9479,1074,44,76,773,70,95,16,F
+600129,96.86391,1,Kovilambakkam,Kanchipuram,Sholinganallur,12.8745,79.763,1074,44,76,773,70,95,16,F
+600130,96.85913,1,Navalur,Kanchipuram,Tiruporur,12.5938,80.0429,1074,44,76,773,70,95,16,F
+600131,96.85291,1,Sithalapakkam,Kanchipuram,TAMBARAM,12.5938,80.0429,1074,44,76,773,70,95,16,F
+600132,96.84825,1,Tiruneermalai,Kanchipuram,Tambaram,12.5938,80.0429,1074,44,76,773,70,95,16,F
+601301,96.83543,1,Malaipattu,Kanchipuram,Sriperumbudur,12.9248,80.0083,811,159,158,12,197,250,35,M
+602106,96.7431,1,Sendamangalam,Kanchipuram,Sriperumbudur,12.9067,79.8342,1074,44,76,773,70,95,16,F
+602108,96.73563,1,Tirupandiyur,Kanchipuram,Sriperumbudur,12.9654,79.8289,1074,44,76,773,70,95,16,F
+602117,96.69373,1,Irungattukottai,Kanchipuram,Sriperumbudur,12.995,79.9905,1074,44,76,773,70,95,16,F
+603001,96.68414,1,Chengalpattu Med.College,Kanchipuram,Chengalpattu,12.6363,79.9843,1074,44,76,773,70,95,16,F
+603002,96.67178,1,Kunnavakkam,Kanchipuram,Chengalpattu,12.5386,79.8655,1074,44,76,773,70,95,16,F
+603003,96.64422,1,Vallam,Kanchipuram,Chengalpattu,12.6808,79.9965,811,159,158,12,197,250,35,M
+603004,96.61433,1,Mahindra World City (Kanchipuram),Kanchipuram,Chengalpattu,12.6363,79.9843,811,159,158,12,197,250,35,M
+603101,96.6017,1,Villiambakkam,Kanchipuram,Chengalpattu,12.767,79.9148,811,159,158,12,197,250,35,M
+603102,96.56586,1,Kalpakkam,Kanchipuram,Tirukalikundram,12.5638,80.1736,1074,44,76,773,70,95,16,F
+603103,96.50886,1,Pudupakkam,Kanchipuram,Chinglepet,12.9194,79.6717,1074,44,76,773,70,95,16,F
+603104,96.48884,1,Perur,Kanchipuram,Chengalpattu,12.6952,79.9479,1074,44,76,773,70,95,16,F
+603105,96.4174,1,Mullipakkam,Kanchipuram,Tirukalilkundram,12.681,80.0844,811,159,158,12,197,250,35,M
+603106,96.38142,1,Orakattupettai,Kanchipuram,Chengalpattu,12.5256,79.9764,811,159,158,12,197,250,35,M
+603107,96.33112,1,Olaiyur,Kanchipuram,Uthiramerur,12.6359,79.8568,1074,44,76,773,70,95,16,F
+603108,96.26634,1,Melaiyur,Kanchipuram,Chengalpattu,12.6952,79.9479,811,159,158,12,197,250,35,M
+603109,96.21152,1,Pandur,Kanchipuram,Tirukalikundram,12.536,80.0355,811,159,158,12,197,250,35,M
+603110,96.13024,1,Tiruporur,Kanchipuram,Chengalpattu,12.7259,80.1895,1074,44,76,773,70,95,16,F
+603111,96.10014,1,Tirumani,Kanchipuram,Chengalpattu,12.6531,79.9862,1074,44,76,773,70,95,16,F
+603112,96.05976,1,Kovalam (Kanchipuram),Kanchipuram,Chinglepet,12.7865,80.2506,1074,44,76,773,70,95,16,F
+603127,96.04613,1,Anupuram,Kanchipuram,Tirukalikundram,12.5436,79.9929,1074,44,76,773,70,95,16,F
+603201,96.04049,1,Ramapuram,Kanchipuram,Madurantakam,12.4682,79.7631,1074,44,76,773,70,95,16,F
+603202,96.01379,1,Karanaipuduchery,Kanchipuram,Chengalpattu,12.8525,80.0467,1074,44,76,773,70,95,16,F
+603203,95.99261,1,Kavanur,Kanchipuram,Chengalpattu,12.2796,79.9098,1074,44,76,773,70,95,16,F
+603204,95.95751,1,Appur,Kanchipuram,Chengalpattu,12.8025,79.9749,1074,44,76,773,70,95,16,F
+603209,95.89942,1,Maraimalai Nagar,Kanchipuram,Chengalpattu,12.6009,79.8214,1074,44,76,773,70,95,16,F
+603210,95.89073,1,Urapakkam,Kanchipuram,Chengalpattu,12.6009,79.8214,1074,44,76,773,70,95,16,F
+603211,95.88411,1,Annai Anjugam Nagar,Kanchipuram,Cheyur,12.6009,79.8214,1074,44,76,773,70,95,16,F
+603301,95.88065,1,Indalur,Kanchipuram,Cheyyur,12.3641,79.8362,1074,44,76,773,70,95,16,F
+603302,95.8242,1,Cheyur (Kanchipuram),Kanchipuram,Cheyur,12.3495,80.003,1074,44,76,773,70,95,16,F
+603303,95.76035,1,Kinar,Kanchipuram,Chengalpattu,12.5258,79.9326,811,159,158,12,197,250,35,M
+603304,95.71175,1,Kolathur,Kanchipuram,Cheyur,12.6952,79.9479,811,159,158,12,197,250,35,M
+603305,95.6699,1,Nedumaram,Kanchipuram,Madurantakam,12.6952,79.9479,1074,44,76,773,70,95,16,F
+603306,95.62505,1,Madurantakam,Kanchipuram,Madurantakam,12.5117,79.8849,1074,44,76,773,70,95,16,F
+603307,95.55355,1,Sirudamur,Kanchipuram,Madurantakam,12.7122,79.8556,1074,44,76,773,70,95,16,F
+603308,95.53028,1,Padalam,Kanchipuram,Maduranthakam,12.5926,79.9497,1074,44,76,773,70,95,16,F
+603309,95.46973,1,Chitravadi,Kanchipuram,Cheyyur,12.4177,79.8842,811,159,158,12,197,250,35,M
+603310,95.44777,1,Sirumailur,Kanchipuram,Madurantakam,12.3155,79.8438,811,159,158,12,197,250,35,M
+603311,95.4086,1,Zamin Endathur,Kanchipuram,Madurantakam,12.3988,79.8708,1074,44,76,773,70,95,16,F
+603312,95.3874,1,Palur,Kanchipuram,Cheyyur,12.767,79.9148,1074,44,76,773,70,95,16,F
+603313,95.34032,1,Nugumbal,Kanchipuram,Cheyur,12.3438,79.8904,1074,44,76,773,70,95,16,F
+603314,95.32131,1,Pulithivakkam,Kanchipuram,Uttiramerur,12.3988,79.8708,1074,44,76,773,70,95,16,F
+603319,95.28699,1,Sendivakkam,Kanchipuram,Chengalpattu,12.4541,79.8031,1074,44,76,773,70,95,16,F
+603401,95.26324,1,Chunampet,Kanchipuram,Cheyyur,12.2558,79.9033,811,159,158,12,197,250,35,M
+603402,95.21801,1,Hanumanthandalam,Kanchipuram,Uttiramerur,12.5828,79.7172,811,159,158,12,197,250,35,M
+603403,95.18996,1,Manampathi,Kanchipuram,Uttiramerur,12.6498,79.6585,1074,44,76,773,70,95,16,F
+603405,95.1541,1,Anur,Kanchipuram,Chengalpattu,12.5769,79.9742,1074,44,76,773,70,95,16,F
+603406,95.11443,1,Vadanallur,Kanchipuram,Uthiramerur,12.6105,79.7794,1074,44,76,773,70,95,16,F
+631501,94.98939,0,Tirukachinambi Street,Kanchipuram,Kancheepuram,12.6207,79.6513,811,159,158,12,197,250,35,M
+631502,94.92847,0,Kilakattur,Kanchipuram,Kanchipuram,12.6952,79.9479,811,159,158,12,197,250,35,M
+631551,94.83701,0,Damal,Kanchipuram,Kanchipuram,12.886,79.5922,1074,44,76,773,70,95,16,F
+631552,94.80292,0,Siruvakkam,Kanchipuram,Kanchipuram,12.915,79.714,1074,44,76,773,70,95,16,F
+631553,94.76397,0,Ekanapuram,Kanchipuram,Sriperumbudur,12.9593,79.7779,1074,44,76,773,70,95,16,F
+631561,94.69553,0,Nirvalur,Kanchipuram,Kanchipuram,12.9051,79.7911,811,159,158,12,197,250,35,M
+631601,94.65438,0,Thenambakkam,Kanchipuram,Kanchipuram,13.0198,79.8756,811,159,158,12,197,250,35,M
+631603,94.62572,0,Magaral,Kanchipuram,Kanchipuram,12.7188,79.7558,1074,44,76,773,70,95,16,F
+631604,94.55955,0,Sinnivakkam,Kanchipuram,Sriperumbudur,12.8616,79.8275,1074,44,76,773,70,95,16,F
+631605,94.5119,0,Nathanallur,Kanchipuram,Kanchipuram,12.8024,79.8444,1074,44,76,773,70,95,16,F
+631606,94.44454,0,Palayaseevaram,Kanchipuram,Uttiramerur,12.7525,79.8573,811,159,158,12,197,250,35,M
+604407,94.40183,0,Irungur,Vellore,Arcot,12.6943,79.4472,803,24,56,599,44,73,7,F
+604505,94.38792,0,Vallam Arni,Vellore,Vandavasi,12.5794,79.4862,803,24,56,599,44,73,7,F
+631001,94.37607,0,Ashoknagar (Vellore),Vellore,Arakonam,13.0633,79.645,803,24,56,599,44,73,7,F
+631002,94.36382,0,Nagavedu,Vellore,Arakkonam,13.0416,79.6252,803,24,56,599,44,73,7,F
+631003,94.33675,0,Ichiputhur,Vellore,Arakkonam,13.0585,79.6189,803,24,56,599,44,73,7,F
+631004,94.24817,0,Seyyoor,Vellore,Arakkonam,13.0947,79.692,455,65,77,6,125,154,28,M
+631005,94.22059,0,Winterpet,Vellore,Arakonam,13.0633,79.645,455,65,77,6,125,154,28,M
+631006,94.21239,0,Ins Rajali,Vellore,Arakonam,13.0633,79.645,455,65,77,6,125,154,28,M
+631051,94.19641,0,Attupakkam,Vellore,Arakkonam,12.8123,79.0104,455,65,77,6,125,154,28,M
+631052,94.12943,0,Panapakkam,Vellore,Arakkonam,12.921,79.5663,803,24,56,599,44,73,7,F
+631101,94.06826,0,Mittapettai,Vellore,Arakkonam,13.0939,79.5789,803,24,56,599,44,73,7,F
+631102,94.03304,0,Kesavanankuppam,Vellore,Arakkonam,13.0434,79.3808,455,65,77,6,125,154,28,M
+631151,93.95129,0,Uriyur,Vellore,Arakkonam,13.0466,79.7734,455,65,77,6,125,154,28,M
+631152,93.89867,0,Suraksha Cisf Campus,Vellore,Arakkonam,13.0315,79.753,803,24,56,599,44,73,7,F
+632001,93.89116,0,Sankaranpalayam,Vellore,Vellore,12.7779,79.1353,803,24,56,599,44,73,7,F
+632002,93.80103,0,Virupakshipuram,Vellore,Vellore,12.8123,79.0104,455,65,77,6,125,154,28,M
+632004,93.75073,0,Bakiyath,Vellore,Vellore,12.7779,79.1353,803,24,56,599,44,73,7,F
+632006,93.70621,0,Gandhinagar East,Vellore,Vellore,12.7779,79.1353,803,24,56,599,44,73,7,F
+632007,93.66408,0,Katpadi,Vellore,Vellore,12.9695,79.1455,455,65,77,6,125,154,28,M
+632008,93.63454,0,Shenbakkam,Vellore,Vellore,12.7779,79.1353,455,65,77,6,125,154,28,M
+632009,93.6286,0,Rangapuram,Vellore,Vellore,12.8485,78.8705,455,65,77,6,125,154,28,M
+632010,93.58767,0,Abdullapuram,Vellore,Vellore,13.0318,79.2586,455,65,77,6,125,154,28,M
+632011,93.58138,0,TB Sanatorium,Vellore,Vellore,13.0318,79.2586,803,24,56,599,44,73,7,F
+632012,93.55715,0,Saidapet (Vellore),Vellore,Vellore,13.0318,79.2586,803,24,56,599,44,73,7,F
+632013,93.5358,0,Karugambathur,Vellore,Vlr,13.0318,79.2586,803,24,56,599,44,73,7,F
+632014,93.50919,0,Bramhapuram,Vellore,Katpadi,13.0318,79.2586,803,24,56,599,44,73,7,F
+632055,93.49819,0,Ariyur (Vellore),Vellore,Vellore,12.6976,79.5709,803,24,56,599,44,73,7,F
+632057,93.48547,0,Munjurpattu,Vellore,Vellore,12.8123,79.0104,803,24,56,599,44,73,7,F
+632058,93.48299,0,Pennathur,Vellore,Vellore,12.8123,79.0104,455,65,77,6,125,154,28,M
+632059,93.47799,0,TEL,Vellore,Vellore,12.6976,79.5709,455,65,77,6,125,154,28,M
+632101,93.45309,0,Unai,Vellore,Vlr,12.8805,78.9749,455,65,77,6,125,154,28,M
+632102,93.36772,0,Kaniyambadi,Vellore,Vellore,12.8118,79.134,803,24,56,599,44,73,7,F
+632103,93.33204,0,Serpadi,Vellore,Vlrq,12.7537,78.893,803,24,56,599,44,73,7,F
+632104,93.26614,0,Kothamangalam,Vellore,Vlr,12.8123,79.0104,455,65,77,6,125,154,28,M
+632105,93.22797,0,Budur,Vellore,Vlr,12.9543,78.9367,455,65,77,6,125,154,28,M
+632106,93.18935,0,Serkadu,Vellore,Vlr,13.017,79.2101,803,24,56,599,44,73,7,F
+632107,93.14919,0,Ramanayanikuppam,Vellore,Vellore,12.7829,78.8571,803,24,56,599,44,73,7,F
+632113,93.06587,0,Veppampattu,Vellore,Vellore,12.8123,79.0104,455,65,77,6,125,154,28,M
+632114,93.00273,0,Poigai,Vellore,Vlr,12.8123,79.0104,455,65,77,6,125,154,28,M
+632115,92.97241,0,Thiruvalluvar University,Vellore,Katpadi,12.8435,79.7691,803,24,56,599,44,73,7,F
+632201,92.96105,0,Kilvayathinankuppam,Vellore,Katpadi,12.9351,79.1865,803,24,56,599,44,73,7,F
+632202,92.94456,0,Kalambattu,Vellore,Vlr,13.0106,79.0425,803,24,56,599,44,73,7,F
+632203,92.87821,0,Melmankuppam,Vellore,Katpadi,12.9351,79.1865,455,65,77,6,125,154,28,M
+632204,92.86258,0,Vaduganthangal,Vellore,Vellore,12.9351,79.1865,455,65,77,6,125,154,28,M
+632209,92.8267,0,Palayakrishnapuram,Vellore,Katpadi,12.9617,78.969,803,24,56,599,44,73,7,F
+632311,92.78249,0,Vallam Kannamangalam,Vellore,Arni,12.7255,79.1359,455,65,77,6,125,154,28,M
+632312,92.77425,0,Kilarasampattu,Vellore,Vellore,12.6456,79.2809,455,65,77,6,125,154,28,M
+632318,92.7578,0,Melapudupakkam,Vellore,Arcot,12.679,79.3972,455,65,77,6,125,154,28,M
+632319,92.7325,0,Kammavanpettai,Vellore,Vellore,12.7732,79.1842,455,65,77,6,125,154,28,M
+632401,92.71415,0,Navalpur,Vellore,Walajapet,12.934,79.335,455,65,77,6,125,154,28,M
+632403,92.67536,0,Ranipet Industrial Estate,Vellore,Walajapet,12.9474,79.317,803,24,56,599,44,73,7,F
+632404,92.67155,0,Vanapadi,Vellore,Walajapet,12.9622,79.3284,803,24,56,599,44,73,7,F
+632405,92.6426,0,Mukundarayapuram,Vellore,Walajapet,12.9707,79.3116,803,24,56,599,44,73,7,F
+632406,92.6312,0,Bhel Ranipet,Vellore,Walajapet,12.9474,79.317,803,24,56,599,44,73,7,F
+632501,92.6244,0,Thalangai,Vellore,Walajapet,12.9952,79.4246,803,24,56,599,44,73,7,F
+632502,92.54932,0,Meleri,Vellore,Arakonam,13.0234,79.5678,455,65,77,6,125,154,28,M
+632503,92.47969,0,Arcot,Vellore,Arcot,12.9057,79.319,803,24,56,599,44,73,7,F
+632504,92.39767,0,Damarapakkam,Vellore,Arcot,12.7612,79.3087,455,65,77,6,125,154,28,M
+632505,92.37743,0,Ayal,Vellore,Arakkonam,13.0462,79.4617,455,65,77,6,125,154,28,M
+632506,92.33307,0,Mecheri,Vellore,Arcot,12.8123,79.0104,803,24,56,599,44,73,7,F
+632507,92.21984,0,Venkatapuram,Vellore,Arcot,13.0269,79.2555,455,65,77,6,125,154,28,M
+632508,92.18819,0,Sumaithangi,Vellore,Walajapet,12.9032,79.44,455,65,77,6,125,154,28,M
+632509,92.13863,0,Kilvisharam,Vellore,Walajapet,12.9143,79.2854,803,24,56,599,44,73,7,F
+632510,92.11075,0,Gudalur,Vellore,Arakonam,13.0896,79.5155,803,24,56,599,44,73,7,F
+632511,92.07648,0,Esayanur,Vellore,Arcot,12.8602,79.4489,455,65,77,6,125,154,28,M
+632512,92.04617,0,Nambarai,Vellore,Arcot,12.8171,79.2916,455,65,77,6,125,154,28,M
+632513,91.98346,0,Vannivedu,Vellore,Walajapet,12.9173,79.353,803,24,56,599,44,73,7,F
+632514,91.95201,0,Vasur,Vellore,Katpadi,13.0843,79.2803,803,24,56,599,44,73,7,F
+632515,91.91769,0,Tiruvalam,Vellore,Walajapet,12.9825,79.2661,455,65,77,6,125,154,28,M
+632516,91.88893,0,Mahimandalam,Vellore,Katpadi,13.0718,79.2264,455,65,77,6,125,154,28,M
+632517,91.86279,0,Melakuppam,Vellore,Walajapet,12.8123,79.0104,803,24,56,599,44,73,7,F
+632518,91.81911,0,Vembi,Vellore,Arcot,12.7334,79.4091,803,24,56,599,44,73,7,F
+632519,91.80556,0,Sembarayanallur,Vellore,Walajapet,12.9865,79.2505,803,24,56,599,44,73,7,F
+632520,91.784,0,Veppalai,Vellore,Katpadi,13.0438,79.2828,455,65,77,6,125,154,28,M
+632521,91.75298,0,Sattur,Vellore,Arcot,12.8123,79.0104,455,65,77,6,125,154,28,M
+632531,91.73677,0,Sirukarumbur,Vellore,Arakkonam,12.8919,79.4906,455,65,77,6,125,154,28,M
+632601,91.70824,0,Modikuppam,Vellore,Gudiyattam,12.8123,79.0104,803,24,56,599,44,73,7,F
+632602,91.65658,0,Gudiyattam H.O,Vellore,Gudiyattam,12.8417,78.8582,803,24,56,599,44,73,7,F
+632603,91.63461,0,Paradarami,Vellore,Gudiyattam,12.7948,79.3166,455,65,77,6,125,154,28,M
+632604,91.61034,0,Agraharam,Vellore,Gudiyattam,12.8449,78.8909,455,65,77,6,125,154,28,M
+635601,91.59256,0,Asiriyar Nagar,Vellore,Tirupathur,12.4453,78.6146,455,65,77,6,125,154,28,M
+635602,91.55374,0,Kadirimangalam,Vellore,Tirupattur,12.4951,78.5287,803,24,56,599,44,73,7,F
+635651,91.46723,0,Chandrapuram,Vellore,Tirupattur,12.502,78.5,455,65,77,6,125,154,28,M
+635652,91.39788,0,Nayakkanur,Vellore,Tirupattur,12.3962,78.5664,455,65,77,6,125,154,28,M
+635653,91.37044,0,Selandampalli,Vellore,Tirupathur,12.4845,78.609,803,24,56,599,44,73,7,F
+635654,91.29662,0,Sundarampalli,Vellore,Tirupattur,12.4066,78.4546,455,65,77,6,125,154,28,M
+635655,91.27267,0,Perumpalli,Vellore,Tirupathur,12.8123,79.0104,455,65,77,6,125,154,28,M
+635701,91.17158,0,Peddur,Vellore,Vaniyambadi,12.6272,78.7544,455,65,77,6,125,154,28,M
+635702,91.13638,0,Andiappanur,Vellore,Tirupattur,12.5263,78.676,455,65,77,6,125,154,28,M
+635703,91.11682,0,Athipet,Vellore,Tirupathur,12.5661,78.9058,803,24,56,599,44,73,7,F
+635710,91.11292,0,Marimanikuppam,Vellore,Tirupattur,12.5668,78.708,803,24,56,599,44,73,7,F
+635751,91.09817,0,Vaniyambadi,Vellore,Tirupattur,12.6816,78.6201,803,24,56,599,44,73,7,F
+635752,90.97049,0,Vallipattu,Vellore,Vaniyambadi,12.6435,78.6504,455,65,77,6,125,154,28,M
+635754,90.93956,0,Vadacheri,Vellore,Vaniyambadi,12.8123,79.0104,455,65,77,6,125,154,28,M
+635801,90.9149,0,Ramanaickenpettai,Vellore,Tirupattur,12.6645,78.55,455,65,77,6,125,154,28,M
+635802,90.83523,0,Somalapuram,Vellore,Vaniyambadi,12.509,78.609,803,24,56,599,44,73,7,F
+635803,90.78536,0,Veppur,Vellore,Gudiyattam,12.9273,78.9214,455,65,77,6,125,154,28,M
+635804,90.74825,0,Madanur,Vellore,Vaniyambadi,12.8755,78.8481,803,24,56,599,44,73,7,F
+635805,90.68487,0,Pallalakuppam,Vellore,Gudiyattam,12.8879,78.7629,803,24,56,599,44,73,7,F
+635806,90.66019,0,Gudanagaram,Vellore,Gudiyattam,12.9098,78.8734,455,65,77,6,125,154,28,M
+635807,90.60749,0,Minnur,Vellore,Vaniyambadi,12.7362,78.6739,455,65,77,6,125,154,28,M
+635808,90.58527,0,Oomerabad,Vellore,Gudiyatham,12.8415,78.7093,803,24,56,599,44,73,7,F
+635809,90.57568,0,Pallikonda,Vellore,Katpadi,12.9052,78.9427,803,24,56,599,44,73,7,F
+635810,90.53888,0,Morasapalli,Vellore,Gudiyattam,12.9428,78.7938,803,24,56,599,44,73,7,F
+635811,90.47002,0,Venkatasamudram,Vellore,Gudiyattam,13.0087,79.0271,455,65,77,6,125,154,28,M
+635812,90.40753,0,Vengili,Vellore,Vaniyambadi,12.8492,78.8007,803,24,56,599,44,73,7,F
+635813,90.39428,0,Sembedu,Vellore,Gudiyattam,12.8031,79.383,803,24,56,599,44,73,7,F
+635814,90.34101,0,Alankuppam,Vellore,Vaniyambadi,12.8123,79.0104,803,24,56,599,44,73,7,F
+635815,90.32683,0,Athurkuppam,Vellore,Tirupattur,12.8247,78.9121,803,24,56,599,44,73,7,F
+635851,90.30611,0,Tiriyalam,Vellore,Tirupattur,12.5639,78.5394,455,65,77,6,125,154,28,M
+635852,90.2518,0,Natrampalli,Vellore,Tirupathur,12.8123,79.0104,455,65,77,6,125,154,28,M
+635853,90.2111,0,Elagiri,Vellore,Tirupattur,12.8123,79.0104,455,65,77,6,125,154,28,M
+635854,90.18726,0,Bandarapalli,Vellore,Tirupattur,12.8123,79.0104,803,24,56,599,44,73,7,F
+635901,90.16191,0,East Badanavadi,Vellore,Tirupathur,12.5887,78.5866,803,24,56,599,44,73,7,F
+604401,90.10203,0,Perumbalai,Tiruvannamalai,Cheyyar,12.4311,79.1677,305,6,26,188,33,45,7,F
+604402,90.06632,0,Sumangali,Tiruvannamalai,Cheyyar,12.7506,79.5657,305,6,26,188,33,45,7,F
+604403,90.03346,0,Irumbedu,Tiruvannamalai,Vandavasi,12.5592,79.7061,266,39,53,9,55,88,22,M
+604404,89.97301,0,Kovilur,Tiruvannamalai,Vandavasi,12.5843,79.5198,266,39,53,9,55,88,22,M
+604405,89.92238,0,Nelliyankulam,Tiruvannamalai,Vandavasi,12.429,79.6466,305,6,26,188,33,45,7,F
+604406,89.87453,0,Embalam,Tiruvannamalai,Vandavasi,12.4325,79.5843,305,6,26,188,33,45,7,F
+604408,89.65134,0,Kilvillivalam,Tiruvannamalai,Vandavasi,12.4405,79.6231,305,6,26,188,33,45,7,F
+604409,89.5116,0,Parasur,Tiruvannamalai,Cheyyar,12.6418,79.4854,305,6,26,188,33,45,7,F
+604410,89.45965,0,Vembakkam,Tiruvannamalai,Cheyyar,12.7863,79.594,305,6,26,188,33,45,7,F
+604501,89.41251,0,Vedal,Tiruvannamalai,Vandavasi,12.3757,79.4746,266,39,53,9,55,88,22,M
+604502,89.32747,0,Kandavaratti,Tiruvannamalai,Vandavasi,12.4756,79.5067,266,39,53,9,55,88,22,M
+604503,89.27705,0,Injimedu,Tiruvannamalai,Vandavasi,12.5456,79.4234,305,6,26,188,33,45,7,F
+604504,89.23235,0,Melsishamangalam,Tiruvannamalai,Cheyyar,12.6342,79.3462,305,6,26,188,33,45,7,F
+604601,89.1644,0,Rayampettai,Tiruvannamalai,Tvamalai,12.216,79.2322,266,39,53,9,55,88,22,M
+605702,89.11232,0,Moongilthuraipattu,Tiruvannamalai,Tiruvannamalai,12.4311,79.1677,305,6,26,188,33,45,7,F
+606601,89.10538,0,Tiruvannamalai H.O,Tiruvannamalai,Tiruvannamalai,12.2607,79.0515,305,6,26,188,33,45,7,F
+606603,89.06171,0,Thenmathur,Tiruvannamalai,Tiruvannamalai,12.2607,79.0515,305,6,26,188,33,45,7,F
+606604,89.02699,0,Adaiyur,Tiruvannamalai,Tiruvannamalai,12.2653,79.0465,266,39,53,9,55,88,22,M
+606611,88.97073,0,Kanalapadi,Tiruvannamalai,Tiruvannamalai,12.2847,79.1599,266,39,53,9,55,88,22,M
+606701,88.90926,0,Chengam,Tiruvannamalai,Chengam,12.3089,78.7914,305,6,26,188,33,45,7,F
+606702,88.85427,0,Kanji,Tiruvannamalai,Chengam,12.2629,78.9215,305,6,26,188,33,45,7,F
+606703,88.82822,0,Melpallipattu,Tiruvannamalai,Chengam,12.2644,78.7397,266,39,53,9,55,88,22,M
+606704,88.76881,0,Eraiyur,Tiruvannamalai,Chengam,12.6663,79.471,266,39,53,9,55,88,22,M
+606705,88.73895,0,Kilkuppam,Tiruvannamalai,Polur,12.4311,79.1677,305,6,26,188,33,45,7,F
+606706,88.71115,0,Kolundampattu,Tiruvannamalai,Chengam,12.2185,78.9039,266,39,53,9,55,88,22,M
+606707,88.70048,0,Radhapuram,Tiruvannamalai,Chengam,12.4311,79.1677,266,39,53,9,55,88,22,M
+606708,88.64048,0,Rayandapuram,Tiruvannamalai,Chengam,12.0914,78.9326,305,6,26,188,33,45,7,F
+606709,88.54821,0,Arattavadi,Tiruvannamalai,Chengam,12.2335,78.8001,305,6,26,188,33,45,7,F
+606710,88.49903,0,Kilaiyur,Tiruvannamalai,Chengam,12.7112,79.3144,266,39,53,9,55,88,22,M
+606751,88.45631,0,Kappalur,Tiruvannamalai,Polur,12.4545,79.0987,305,6,26,188,33,45,7,F
+606752,88.40303,0,Mangalam (Tiruvannamalai),Tiruvannamalai,Polur,12.4261,79.3137,305,6,26,188,33,45,7,F
+606753,88.33329,0,Meyyur,Tiruvannamalai,Tiruvannamalai,12.1726,79.0325,266,39,53,9,55,88,22,M
+606754,88.27869,0,Kallayee Sorathur,Tiruvannamalai,Vandavasi,12.1105,79.2411,266,39,53,9,55,88,22,M
+606755,88.24631,0,Rajapalayam,Tiruvannamalai,Tiruvnamalai,12.4311,79.1677,305,6,26,188,33,45,7,F
+606801,88.17078,0,Chettupattu Polur,Tiruvannamalai,Vandavasi,12.4683,79.3534,305,6,26,188,33,45,7,F
+606802,88.14548,0,Nayudumangalam,Tiruvannamalai,Tiruvannamalai,12.3812,79.0888,266,39,53,9,55,88,22,M
+606803,88.06226,0,Sengunam,Tiruvannamalai,Polur,12.5514,79.1418,266,39,53,9,55,88,22,M
+606804,87.96155,0,Isukkalikatteri,Tiruvannamalai,Tiruvannamalai,12.112,79.1733,305,6,26,188,33,45,7,F
+606805,87.90968,0,Kolakkaravadi,Tiruvannamalai,Tiruvannamalai,12.3332,79.0476,266,39,53,9,55,88,22,M
+606806,87.88425,0,Su Valavetti,Tiruvannamalai,Tiruvannamalai,12.0669,79.1198,266,39,53,9,55,88,22,M
+606807,87.82951,0,Melathangal,Tiruvannamalai,Vandavasi,12.4311,79.1677,305,6,26,188,33,45,7,F
+606808,87.80272,0,Kattampoondi,Tiruvannamalai,Thandrampattu,12.1235,79.0786,305,6,26,188,33,45,7,F
+606811,87.75726,0,Devanur,Tiruvannamalai,"",12.0336,79.0909,305,6,26,188,33,45,7,F
+606901,87.68903,0,Adamangalam,Tiruvannamalai,Polur,12.4311,79.1677,266,39,53,9,55,88,22,M
+606902,87.6405,0,Nambedu,Tiruvannamalai,Arni,12.5567,79.4696,266,39,53,9,55,88,22,M
+606903,87.58149,0,Kamakkur,Tiruvannamalai,Polur,12.6754,79.2328,305,6,26,188,33,45,7,F
+606904,87.52917,0,Padagam,Tiruvannamalai,Polur,12.4257,79.1912,266,39,53,9,55,88,22,M
+606905,87.50269,0,Arjunapuram,Tiruvannamalai,Polur,12.4311,79.1677,305,6,26,188,33,45,7,F
+606906,87.44163,0,Siruvallur,Tiruvannamalai,Polur,12.4632,79.0202,305,6,26,188,33,45,7,F
+606907,87.41837,0,Kelur,Tiruvannamalai,Polur,12.5975,79.1457,266,39,53,9,55,88,22,M
+606908,87.36766,0,Kadaladi (Tiruvannamalai),Tiruvannamalai,Polur,12.4042,78.965,266,39,53,9,55,88,22,M
+631701,87.34856,0,Ukkal,Tiruvannamalai,Cheyyar,12.6774,79.6835,266,39,53,9,55,88,22,M
+631702,87.31206,0,Menalur,Tiruvannamalai,Cheyyar,12.7078,79.7812,266,39,53,9,55,88,22,M
+632301,87.27264,0,Arni Fort,Tiruvannamalai,Arani,12.6349,79.3112,305,6,26,188,33,45,7,F
+632313,87.2248,0,Narayanamangalam,Tiruvannamalai,Vandavasi,12.5618,79.3729,266,39,53,9,55,88,22,M
+632314,87.20645,0,Ariyapadi,Tiruvannamalai,Arni,12.7137,79.2258,266,39,53,9,55,88,22,M
+632315,87.15945,0,Onnupuram,Tiruvannamalai,Arni,12.7212,79.181,266,39,53,9,55,88,22,M
+632316,87.11797,0,Nesal,Tiruvannamalai,Arni,12.6275,79.3079,305,6,26,188,33,45,7,F
+632317,87.0731,0,Meyyur,Tiruvannamalai,Arni,12.1726,79.0325,305,6,26,188,33,45,7,F
+632326,86.97473,0,Thatchur,Tiruvannamalai,Polur,12.4311,79.1677,266,39,53,9,55,88,22,M
+604001,86.7723,0,Kaveripakkam,Villupuram,Tindivanam,12.2272,79.6529,474,18,77,260,43,68,8,F
+604101,86.72343,0,Andapattu,Villupuram,Tindivanam,11.9734,79.2921,474,18,77,260,43,68,8,F
+604102,86.6755,0,Omandur,Villupuram,Tindivanam,12.1629,79.6938,474,18,77,260,43,68,8,F
+604151,86.64095,0,Nayambadi,Villupuram,Tindivanam,11.9734,79.2921,392,60,81,7,82,135,27,M
+604152,86.59064,0,Thadagam,Villupuram,Tindivanam,12.1697,79.4496,392,60,81,7,82,135,27,M
+604153,86.57894,0,Semmedu,Villupuram,Tindivanam,12.04,79.4091,392,60,81,7,82,135,27,M
+604154,86.55669,0,Olagapuram,Villupuram,Tindivanam,12.1632,79.7719,474,18,77,260,43,68,8,F
+604201,86.50883,0,Kappalampadi,Villupuram,Tindivanam,12.3735,79.2673,474,18,77,260,43,68,8,F
+604202,86.448,0,Gingee,Villupuram,Gingee,12.2528,79.4173,392,60,81,7,82,135,27,M
+604203,86.41436,0,Melolakkur,Villupuram,Tindivanam,12.3387,79.4888,392,60,81,7,82,135,27,M
+604204,86.36824,0,Eyyal,Villupuram,Tindvanam,12.4068,79.3262,474,18,77,260,43,68,8,F
+604205,86.29598,0,Thaiyur,Villupuram,Tindivanam,11.9734,79.2921,392,60,81,7,82,135,27,M
+604206,86.23654,0,Tivanur,Villupuram,Gingee,12.2545,79.5523,474,18,77,260,43,68,8,F
+604207,86.18032,0,Kodiyam,Villupuram,Tindivanam,12.3195,79.6317,392,60,81,7,82,135,27,M
+604208,86.10466,0,Devanur,Villupuram,Tindivanam,12.3646,79.3856,474,18,77,260,43,68,8,F
+604210,86.03902,0,Kadali,Villupuram,Tindivanam,12.3062,79.3961,392,60,81,7,82,135,27,M
+604301,85.9989,0,Alankuppam,Villupuram,Tindivanam,12.1981,79.81,392,60,81,7,82,135,27,M
+604302,85.94263,0,Karnavur,Villupuram,Tindivanam,11.9734,79.2921,392,60,81,7,82,135,27,M
+604303,85.85705,0,Markanum,Villupuram,Tindivanam,12.1921,79.9419,392,60,81,7,82,135,27,M
+604304,85.83591,0,Perumbakkam,Villupuram,Tindivanam,12.0951,79.6577,392,60,81,7,82,135,27,M
+604305,85.78179,0,Nallathur,Villupuram,Tindvanam,12.3063,79.7409,474,18,77,260,43,68,8,F
+604306,85.76504,0,Vengandur,Villupuram,Tindivanam,12.2156,79.5529,474,18,77,260,43,68,8,F
+604307,85.73346,0,Endiyur,Villupuram,Tindivanam,12.2111,79.6941,392,60,81,7,82,135,27,M
+605014,85.67101,0,Kaluperumbakkam,Villupuram,Vanur,11.8768,79.8107,474,18,77,260,43,68,8,F
+605101,85.65598,0,Auroville,Villupuram,Vanur,12.0055,79.8089,474,18,77,260,43,68,8,F
+605102,85.64912,0,Pallithennal,Villupuram,Villupuram,11.9162,79.6853,474,18,77,260,43,68,8,F
+605103,85.62067,0,Poyyapakkam,Villupuram,Villupuram,11.9552,79.5297,474,18,77,260,43,68,8,F
+605105,85.56815,0,Mokshakulam,Villupuram,Villupuram,11.8703,79.5829,392,60,81,7,82,135,27,M
+605106,85.54512,0,Viranam,Villupuram,Villupuram,11.8442,79.6515,474,18,77,260,43,68,8,F
+605107,85.52809,0,Kumulam,Villupuram,Villupuram,11.9531,79.6224,474,18,77,260,43,68,8,F
+605108,85.49969,0,Kumarakuppam,Villupuram,Villupuram,11.9242,79.5789,474,18,77,260,43,68,8,F
+605109,85.45173,0,Vanur,Villupuram,Vanur,12.0279,79.7328,392,60,81,7,82,135,27,M
+605110,85.40788,0,Kilinjikuppam,Villupuram,Vanur,11.9036,79.7455,474,18,77,260,43,68,8,F
+605111,85.40646,0,Rayapudupakkam,Villupuram,Villupuram,12.0076,79.7878,474,18,77,260,43,68,8,F
+605201,85.38217,0,Konalur,Villupuram,Villupuram,12.1326,79.3764,392,60,81,7,82,135,27,M
+605202,85.32158,0,Porur,Villupuram,Villupuram,12.0486,79.3882,392,60,81,7,82,135,27,M
+605203,85.31273,0,Brahmadesam,Villupuram,Villupuram,12.1172,79.4799,474,18,77,260,43,68,8,F
+605301,85.25247,0,Kanai,Villupuram,Villupuram,11.9537,79.417,392,60,81,7,82,135,27,M
+605302,85.18904,0,Teli,Villupuram,Villupuram,11.9221,79.3986,392,60,81,7,82,135,27,M
+605401,85.159,0,Maragadhapuram,Villupuram,Viluppuram,11.8541,79.3985,392,60,81,7,82,135,27,M
+605402,85.11882,0,Kakkanur,Villupuram,Villupuram,12.0298,79.3879,474,18,77,260,43,68,8,F
+605501,85.0443,0,Vakkur,Villupuram,Tindivanam,11.9818,79.5769,392,60,81,7,82,135,27,M
+605502,84.98405,0,Valudavur,Villupuram,Villupuram,12.3081,79.7056,474,18,77,260,43,68,8,F
+605601,84.96397,0,Ayyur Agaram,Villupuram,Villupuram,11.9765,79.5053,474,18,77,260,43,68,8,F
+605602,84.90789,0,Kilperumbakkam,Villupuram,Viluppuram,11.9359,79.5152,392,60,81,7,82,135,27,M
+605651,84.87864,0,Pidaripattu,Villupuram,Villupuram,12.1346,79.5016,474,18,77,260,43,68,8,F
+605652,84.82281,0,Vikravandi,Villupuram,Viluppuram,12.0369,79.546,474,18,77,260,43,68,8,F
+605701,84.74422,0,Kandachipuram,Villupuram,Tirukkoyilur,12.0359,79.2989,392,60,81,7,82,135,27,M
+605751,84.65541,0,Ariyur (Villupuram),Villupuram,Tirukkoyilur,11.8813,79.152,392,60,81,7,82,135,27,M
+605752,84.59779,0,Devanur,Villupuram,Tirukkoyilur,11.9915,79.2122,474,18,77,260,43,68,8,F
+605754,84.55858,0,Manalurpet,Villupuram,Tirukkoyilur,12.0079,79.0918,392,60,81,7,82,135,27,M
+605755,84.51048,0,Kadaganur,Villupuram,Tirukkoyilur,11.9834,79.2632,392,60,81,7,82,135,27,M
+605756,84.47635,0,Kottamarudur,Villupuram,Tirukkoyilur,11.9956,79.1951,474,18,77,260,43,68,8,F
+605757,84.45391,0,Tirukkoyilur Bazaar,Villupuram,Tirukkoyilur,11.9448,79.2086,392,60,81,7,82,135,27,M
+605758,84.4521,0,Virapandi,Villupuram,Tirukkoyilur,12.0477,79.2172,392,60,81,7,82,135,27,M
+605759,84.44447,0,Manampoondi,Villupuram,Tirukkoyilur,11.9448,79.2086,392,60,81,7,82,135,27,M
+605766,84.44032,0,Karadi,Villupuram,Tirukkoyilur,11.9599,79.1656,392,60,81,7,82,135,27,M
+605801,84.36836,0,Endal,Villupuram,Tirukkoyilur,11.9099,79.0177,474,18,77,260,43,68,8,F
+605802,84.31187,0,Elayanarkuppam,Villupuram,Tirukkoyilur,11.9811,79.0209,392,60,81,7,82,135,27,M
+605803,84.27334,0,T  . Pudupalayam,Villupuram,Tirukkoyilur,11.9488,79.0072,392,60,81,7,82,135,27,M
+606102,84.21761,0,Pandur,Villupuram,Ulundurpet,11.7314,79.286,474,18,77,260,43,68,8,F
+606104,84.14474,0,Mukhasaparur,Villupuram,Ulundurpettai,11.6046,79.2628,392,60,81,7,82,135,27,M
+606107,84.14211,0,Madiyanur,Villupuram,Ulundurpet,11.6758,79.3449,392,60,81,7,82,135,27,M
+606115,84.05511,0,Padur,Villupuram,Ulundurpet,11.7373,79.3389,474,18,77,260,43,68,8,F
+606201,84.02959,0,Vettiperumalagaram,Villupuram,Kallakurichi,11.5343,78.7851,392,60,81,7,82,135,27,M
+606202,83.90428,0,Kallakurichi H.O,Villupuram,Kallakurichi,11.6918,78.8923,474,18,77,260,43,68,8,F
+606203,83.89541,0,Virugavur,Villupuram,Kallakurichi,11.6866,79.0479,474,18,77,260,43,68,8,F
+606204,83.8426,0,Olagiyanallur,Villupuram,Kallakurichi,11.6204,78.9699,392,60,81,7,82,135,27,M
+606205,83.75771,0,Munivalai,Villupuram,Sankarapuram,11.8427,79.1071,474,18,77,260,43,68,8,F
+606206,83.69694,0,Vilakkur,Villupuram,Kallakurichi,11.7163,79.0806,392,60,81,7,82,135,27,M
+606207,83.62176,0,Manmalai,Villupuram,Kallakurichi,11.8263,78.8489,474,18,77,260,43,68,8,F
+606208,83.52832,0,Murarbad,Villupuram,Sankapuram,11.8257,78.9471,474,18,77,260,43,68,8,F
+606209,83.49014,0,Uppur,Villupuram,Kallakurichi,11.7268,78.6499,392,60,81,7,82,135,27,M
+606213,83.41483,0,Siruvangur,Villupuram,Kallakkurichi,11.7524,78.9779,474,18,77,260,43,68,8,F
+606301,83.31751,0,Pakkampadi,Villupuram,Kallakurichi,11.5542,78.8371,392,60,81,7,82,135,27,M
+606305,83.26071,0,Tiruppayar,Villupuram,Ulundurpet,11.6525,79.2045,474,18,77,260,43,68,8,F
+606401,83.20625,0,Arasampattu,Villupuram,Sankarapuram,11.9734,79.2921,474,18,77,260,43,68,8,F
+606402,83.14325,0,Rangappanur,Villupuram,Sankarapuram,11.967,78.8843,392,60,81,7,82,135,27,M
+607101,83.05936,0,Somasipalayam,Villupuram,Panruti,11.9033,79.1522,474,18,77,260,43,68,8,F
+607107,83.05074,0,Semmar,Villupuram,Ulundurpet,11.8814,79.4075,474,18,77,260,43,68,8,F
+607201,82.99837,0,Periyakurukkai,Villupuram,Ulundurpet,11.8167,79.2088,474,18,77,260,43,68,8,F
+607202,82.96745,0,Elavanasur,Villupuram,Ulundurpettai,11.7083,79.2291,474,18,77,260,43,68,8,F
+607203,82.94875,0,Gramam,Villupuram,Tirukkoyilur,11.8497,79.4032,392,60,81,7,82,135,27,M
+607204,82.89832,0,Sendamangalam,Villupuram,Ulundurpet,11.7431,79.379,392,60,81,7,82,135,27,M
+607209,82.81705,0,Manakuppam,Villupuram,Tirukkoyilur,11.8556,79.3224,474,18,77,260,43,68,8,F
+607805,82.78745,0,Odappankuppam,Villupuram,Panruti,11.6693,79.4241,474,18,77,260,43,68,8,F
+621110,82.78162,0,Veppadi,Salem,Gangavalli,11.3824,78.6454,360,59,100,5,99,66,31,M
+636001,82.77428,0,Devendrapuram,Salem,Salem,11.6741,78.2221,360,59,100,5,99,66,31,M
+636002,82.70997,0,Shevapet,Salem,Salem,11.3712,78.0893,360,59,100,5,99,66,31,M
+636003,82.68767,0,Ammapettai Salem,Salem,Salem,11.6583,78.1834,593,30,55,419,35,43,11,F
+636004,82.66204,0,Alagapuram,Salem,Salem,11.6755,78.1395,593,30,55,419,35,43,11,F
+636005,82.65108,0,Suramangalam H.O,Salem,Salem,11.3712,78.0893,593,30,55,419,35,43,11,F
+636006,82.62855,0,Karungalpatti,Salem,Salem,11.6741,78.2221,360,59,100,5,99,66,31,M
+636007,82.6059,0,Peramanur,Salem,Salem,11.6741,78.2221,360,59,100,5,99,66,31,M
+636008,82.57287,0,Parapatti Mannarpalayam,Salem,Salem,11.3712,78.0893,360,59,100,5,99,66,31,M
+636009,82.51926,0,Swaminathapuram,Salem,Salem,11.6741,78.2221,593,30,55,419,35,43,11,F
+636010,82.50194,0,Maniyanur,Salem,Salem,11.6336,78.1387,593,30,55,419,35,43,11,F
+636011,82.45063,0,Govt. College Of Engg,Salem,Salem,11.7527,78.2899,360,59,100,5,99,66,31,M
+636012,82.42993,0,Karuppur,Salem,Salem,11.717,78.0924,360,59,100,5,99,66,31,M
+636013,82.40336,0,Karukkalvadi,Salem,Salem,11.6714,78.0126,360,59,100,5,99,66,31,M
+636014,82.38995,0,Tadampatti,Salem,Salem,11.6741,78.2221,593,30,55,419,35,43,11,F
+636015,82.38241,0,Dadubaikuttai,Salem,Salem,11.7527,78.2899,593,30,55,419,35,43,11,F
+636016,82.35914,0,Fairlands,Salem,Salem,11.7527,78.2899,593,30,55,419,35,43,11,F
+636017,82.35026,0,Allikuttai,Salem,Salem,11.7527,78.2899,593,30,55,419,35,43,11,F
+636030,82.34318,0,Maramangalathupatti,Salem,Salem,11.5732,78.1955,360,59,100,5,99,66,31,M
+636101,82.33316,0,Sitheri,Salem,Atur,11.6741,78.2221,360,59,100,5,99,66,31,M
+636102,82.28328,0,Vinayagapuram,Salem,Attur,11.6741,78.2221,360,59,100,5,99,66,31,M
+636103,82.25787,0,Kullampatti,Salem,Salem,11.6922,78.26,593,30,55,419,35,43,11,F
+636104,82.22965,0,Ramanathapuram,Salem,Gangavalli,11.514,78.5846,593,30,55,419,35,43,11,F
+636105,82.15767,0,Mayambadi,Salem,Gangavalli,11.3704,78.5717,360,59,100,5,99,66,31,M
+636106,82.11803,0,Minnampalli,Salem,Salem,11.6758,78.2676,360,59,100,5,99,66,31,M
+636107,82.05518,0,Gopalapuram,Salem,Atur,11.573,78.4609,593,30,55,419,35,43,11,F
+636108,82.01879,0,Narasingapuram (Salem),Salem,Attur,11.6038,78.5778,593,30,55,419,35,43,11,F
+636109,81.96547,0,Dalavaipatti,Salem,Atur,11.6614,78.0834,360,59,100,5,99,66,31,M
+636110,81.94907,0,Manmalai,Salem,Gangavalli,11.3732,78.5235,360,59,100,5,99,66,31,M
+636111,81.92794,0,Muthampatti,Salem,Valapady,11.6741,78.2221,360,59,100,5,99,66,31,M
+636112,81.9086,0,Varagur,Salem,Atur,11.6325,78.7691,593,30,55,419,35,43,11,F
+636113,81.84768,0,Koneripatti,Salem,Attur,11.6741,78.2221,360,59,100,5,99,66,31,M
+636114,81.79039,0,Mannur,Salem,Atur,11.725,78.5302,360,59,100,5,99,66,31,M
+636115,81.77522,0,Singipuram,Salem,Valapady,11.6252,78.4067,593,30,55,419,35,43,11,F
+636116,81.7126,0,Vellaiyur,Salem,Atur,11.4807,78.7762,593,30,55,419,35,43,11,F
+636117,81.66123,0,Panaimadal,Salem,Atur,11.7178,78.4766,593,30,55,419,35,43,11,F
+636118,81.63247,0,Ulipuram,Salem,Gangavalli,11.4698,78.4591,593,30,55,419,35,43,11,F
+636119,81.62464,0,Umayapuram,Salem,Atur,11.6741,78.2221,360,59,100,5,99,66,31,M
+636121,81.59445,0,Manivilundan,Salem,Atur,11.6004,78.7169,360,59,100,5,99,66,31,M
+636122,81.52071,0,Kuppanur,Salem,Salem,11.7429,78.2847,593,30,55,419,35,43,11,F
+636138,81.49853,0,Kunnur,Salem,Atur,11.6741,78.2221,593,30,55,419,35,43,11,F
+636139,81.4162,0,Velampatti,Salem,Salem,11.7445,78.3244,360,59,100,5,99,66,31,M
+636140,81.35959,0,Odayapatti,Salem,Salem,11.6741,78.2221,360,59,100,5,99,66,31,M
+636141,81.3391,0,Pungavadi,Salem,Atur,11.5303,78.6164,360,59,100,5,99,66,31,M
+636142,81.28209,0,Moolakurichi,Salem,Attur,11.3052,78.5365,593,30,55,419,35,43,11,F
+636201,81.27866,0,Dasanaickenpatti,Salem,Salem,11.1597,78.1794,593,30,55,419,35,43,11,F
+636202,81.25746,0,Kamarajnagar,Salem,Salem,11.3314,78.0301,593,30,55,419,35,43,11,F
+636203,81.25144,0,Mullur,Salem,Salem,11.6741,78.2221,593,30,55,419,35,43,11,F
+636204,81.21241,0,Tippampatti,Salem,Salem,11.568,78.2014,360,59,100,5,99,66,31,M
+636302,81.18488,0,Dalavaipatti,Salem,Salem,11.6614,78.0834,593,30,55,419,35,43,11,F
+636303,81.12127,0,Kolathur (Salem)S.O,Salem,Mettur,11.8787,77.7654,360,59,100,5,99,66,31,M
+636304,81.05894,0,Pakalpatti,Salem,Omalur,11.7021,78.057,593,30,55,419,35,43,11,F
+636305,80.99864,0,Kongupatti,Salem,Omalur,11.8593,78.0217,593,30,55,419,35,43,11,F
+636306,80.94808,0,Dasavilakku,Salem,Edappadi,11.6533,77.9079,593,30,55,419,35,43,11,F
+636307,80.88987,0,Andipatti,Salem,Salem,11.6741,78.2221,593,30,55,419,35,43,11,F
+636308,80.84205,0,Ariyanur,Salem,Salem,11.5907,78.0832,360,59,100,5,99,66,31,M
+636309,80.81015,0,Kamalapuram (Salem),Salem,Omalur,11.768,78.0599,593,30,55,419,35,43,11,F
+636351,80.79553,0,Jodukuli,Salem,Salem,11.9034,78.0525,593,30,55,419,35,43,11,F
+636354,80.72165,0,Danishpet,Salem,Omalur,11.8618,78.1282,360,59,100,5,99,66,31,M
+636401,80.66411,0,Metturdam South,Salem,Mettur,11.8219,77.8601,593,30,55,419,35,43,11,F
+636402,80.65794,0,Metturdam RS,Salem,Mettur,11.8219,77.8601,593,30,55,419,35,43,11,F
+636403,80.64315,0,Karumalaikudal,Salem,Mettur,11.8219,77.8601,593,30,55,419,35,43,11,F
+636404,80.63332,0,Gonur,Salem,Mettur,11.8219,77.8601,360,59,100,5,99,66,31,M
+636406,80.61796,0,Mettur Thermal Project,Salem,Mettur,11.8219,77.8601,360,59,100,5,99,66,31,M
+636451,80.61293,0,Bukkampatti,Salem,Mettur,11.8375,77.9737,360,59,100,5,99,66,31,M
+636452,80.54491,0,Mulakadu,Salem,Mettur,11.6741,78.2221,593,30,55,419,35,43,11,F
+636453,80.51662,0,Pottaneri,Salem,Mettur,11.6888,78.0014,593,30,55,419,35,43,11,F
+636454,80.47529,0,Kanakkampatti,Salem,Mettur,11.6741,78.2221,360,59,100,5,99,66,31,M
+636455,80.45969,0,Omalur,Salem,Omalur,11.741,78.0456,360,59,100,5,99,66,31,M
+636456,80.40761,0,Salem Camp,Salem,Mettur,11.4168,78.021,593,30,55,419,35,43,11,F
+636457,80.40173,0,Vanavasi,Salem,Mettur,11.75,77.8801,593,30,55,419,35,43,11,F
+636458,80.38053,0,Nariyanur,Salem,Mettur,11.8082,77.9041,593,30,55,419,35,43,11,F
+636501,80.36356,0,Selavadai,Salem,Mettur,11.6997,77.9195,360,59,100,5,99,66,31,M
+636502,80.30104,0,Arurpatti,Salem,Omalur,11.7115,77.9456,360,59,100,5,99,66,31,M
+636503,80.25389,0,Mallikuttai,Salem,Omalur,11.6741,78.2221,593,30,55,419,35,43,11,F
+636601,80.21816,0,Puthur,Salem,Yercaud,11.6741,78.2221,593,30,55,419,35,43,11,F
+636602,80.12881,0,Asambur,Salem,Yercaud,11.8053,78.2224,360,59,100,5,99,66,31,M
+636906,80.05523,0,Ammapalayam,Salem,Atur,11.8607,78.5232,593,30,55,419,35,43,11,F
+637101,80.04803,0,Vellarivalli,Salem,Idappadi,11.6003,77.7927,593,30,55,419,35,43,11,F
+637102,80.01614,0,Konasamudram,Salem,Idappadi,11.6741,78.2221,593,30,55,419,35,43,11,F
+637103,79.96362,0,Irugalur,Salem,Sankari,11.5042,77.961,360,59,100,5,99,66,31,M
+637104,79.93904,0,Kaveripatti,Salem,Sankari,11.6741,78.2221,360,59,100,5,99,66,31,M
+637105,79.93166,0,Dadapuram,Salem,Idappadi,11.6216,77.8793,360,59,100,5,99,66,31,M
+637107,79.92401,0,Nedunkulam,Salem,Idappadi,11.6741,78.2221,360,59,100,5,99,66,31,M
+637301,79.91057,0,Manjakkalpatti,Salem,Sankari,11.5056,77.8645,360,59,100,5,99,66,31,M
+637303,79.88155,0,Veerachipalayam,Salem,Sankari,11.4504,77.9709,360,59,100,5,99,66,31,M
+637304,79.86073,0,Morur,Salem,Sankari,11.9502,78.2065,360,59,100,5,99,66,31,M
+637407,79.85765,0,Pudupatti (Salem),Salem,Rasipuram,11.7236,77.9337,360,59,100,5,99,66,31,M
+637410,79.85299,0,Marapparai,Salem,Tiruchengodu,11.6741,78.2221,360,59,100,5,99,66,31,M
+637501,79.84911,0,Mangalam,Salem,Salem,11.8786,78.2329,360,59,100,5,99,66,31,M
+637502,79.81106,0,Elampillai,Salem,Salem,11.6066,78.0068,593,30,55,419,35,43,11,F
+637504,79.77138,0,Rakkipatti,Salem,Salem,11.6741,78.2221,360,59,100,5,99,66,31,M
+621215,79.73755,0,Seventhipatti,Namakkal,Namakkal,10.8096,78.3968,174,39,59,3,32,28,13,M
+636301,79.67204,0,Attanur,Namakkal,Rasipuram,11.5006,78.1356,286,7,16,227,9,17,10,F
+637001,79.63786,0,Namakkal H.O,Namakkal,Namakkal,11.1561,78.1905,286,7,16,227,9,17,10,F
+637002,79.59548,0,Ganesapuram,Namakkal,Namakkal,11.3163,78.1361,286,7,16,227,9,17,10,F
+637003,79.54401,0,Eranapuram,Namakkal,Namakkal,11.2451,78.0966,286,7,16,227,9,17,10,F
+637013,79.4695,0,Erampatti,Namakkal,Namakkal,11.3163,78.1361,174,39,59,3,32,28,13,M
+637014,79.40714,0,Reddipudur,Namakkal,Namakkal,11.3442,78.1602,174,39,59,3,32,28,13,M
+637015,79.37339,0,Mohanur North,Namakkal,Namakkal,11.078,78.1355,286,7,16,227,9,17,10,F
+637017,79.32416,0,Palapatti,Namakkal,Namakkal,11.3163,78.1361,286,7,16,227,9,17,10,F
+637018,79.29401,0,Elur,Namakkal,Namakkal,11.3506,78.109,286,7,16,227,9,17,10,F
+637019,79.24565,0,Minnampalli,Namakkal,Namakkal,11.3133,78.1849,174,39,59,3,32,28,13,M
+637020,79.21013,0,Arur,Namakkal,Namakkal,11.0968,78.211,286,7,16,227,9,17,10,F
+637021,79.17412,0,Devarayapuram,Namakkal,Namakkal,11.1542,78.3132,286,7,16,227,9,17,10,F
+637201,78.97695,0,Maniyanur,Namakkal,Paramathi Velur,11.2877,77.9486,286,7,16,227,9,17,10,F
+637202,78.92929,0,Konnaiyar,Namakkal,Tiruchengodu,11.3991,78.0267,174,39,59,3,32,28,13,M
+637203,78.88902,0,Ramadevam,Namakkal,Paramathivelur,11.2443,77.9955,286,7,16,227,9,17,10,F
+637204,78.85278,0,Irukkur,Namakkal,Paramthi Velur,11.1403,77.9709,286,7,16,227,9,17,10,F
+637205,78.82288,0,Vattur,Namakkal,Tiruchengodu,11.4086,77.9595,286,7,16,227,9,17,10,F
+637206,78.77447,0,Pillur,Namakkal,Tiruchengode,11.199,78.0218,174,39,59,3,32,28,13,M
+637207,78.73785,0,Konur,Namakkal,Namakkal,11.1746,78.0742,174,39,59,3,32,28,13,M
+637208,78.67005,0,Vengarai,Namakkal,Paramathi-Velur,11.3163,78.1361,286,7,16,227,9,17,10,F
+637209,78.63948,0,Kumarapalayam,Namakkal,Tiruchengodu,11.4449,77.711,286,7,16,227,9,17,10,F
+637210,78.60266,0,Molasi,Namakkal,Tiruchengodu,11.2577,77.8552,286,7,16,227,9,17,10,F
+637211,78.56443,0,Tiruchengodu H.O,Namakkal,Tiruchengodu,11.3305,77.9535,286,7,16,227,9,17,10,F
+637212,78.53742,0,Akkalampatti,Namakkal,Namakkal,11.3153,78.072,286,7,16,227,9,17,10,F
+637213,78.49766,0,Kothamangalam,Namakkal,Paramathi-Velur,11.3163,78.1361,286,7,16,227,9,17,10,F
+637214,78.47448,0,Andipalayam,Namakkal,Tiruchengodu,11.3163,78.1361,286,7,16,227,9,17,10,F
+637215,78.44974,0,Kuchi Palayam,Namakkal,Tiruchengode,11.3305,77.9535,174,39,59,3,32,28,13,M
+637302,78.41493,0,Karumapuram,Namakkal,Sankari,11.4522,77.9365,286,7,16,227,9,17,10,F
+637401,78.31932,0,Kunavelampatti,Namakkal,Rasipuram,11.4488,78.1413,174,39,59,3,32,28,13,M
+637402,78.28322,0,Belukurichi,Namakkal,Namakkal,11.3863,78.254,286,7,16,227,9,17,10,F
+637403,78.27618,0,Pillanallur,Namakkal,Rasipuram,11.4322,78.1334,286,7,16,227,9,17,10,F
+637404,78.24,0,Kalappanaickenpatti,Namakkal,Namakkal,11.3997,78.1368,174,39,59,3,32,28,13,M
+637405,78.19881,0,Visanam,Namakkal,Namakkal,11.2438,78.1956,174,39,59,3,32,28,13,M
+637406,78.17194,0,Sirapalli,Namakkal,Rasipuram,11.3393,78.1381,286,7,16,227,9,17,10,F
+637408,78.05659,0,Rasipuram,Namakkal,Rasipuram,11.4601,78.1863,174,39,59,3,32,28,13,M
+637409,78.03032,0,Sendamangalam,Namakkal,Namakkal,11.2811,78.2342,286,7,16,227,9,17,10,F
+637411,77.97019,0,Navakkadu,Namakkal,Namakkal,11.3846,78.341,286,7,16,227,9,17,10,F
+637412,77.81644,0,Singalandapuram,Namakkal,Rasipuram,11.4166,78.2224,286,7,16,227,9,17,10,F
+637503,77.79095,0,Akkaraipatti,Namakkal,Rasipuram,11.3163,78.1361,286,7,16,227,9,17,10,F
+637505,77.73869,0,Kalkattanur,Namakkal,Rasipuram,11.487,78.0688,286,7,16,227,9,17,10,F
+638006,77.68112,0,Pallipalayam,Namakkal,Namakkal,11.3652,77.7623,174,39,59,3,32,28,13,M
+638007,77.6789,0,Pappampalayam,Namakkal,Erode,11.313,77.7859,174,39,59,3,32,28,13,M
+638008,77.66473,0,Kadachanallur,Namakkal,Tiruchengodu,11.3998,77.7596,174,39,59,3,32,28,13,M
+638181,77.62636,0,Pothanur,Namakkal,Paramathi-Velur,11.1779,77.6708,286,7,16,227,9,17,10,F
+638182,77.61654,0,Velur (Namakkal),Namakkal,Paramathi-Velur,11.1083,78.0011,174,39,59,3,32,28,13,M
+638183,77.58247,0,Komarapalayam,Namakkal,Tiruchengodu,11.4449,77.711,286,7,16,227,9,17,10,F
+638001,77.5726,0,Erode Fort,Erode,Erode,11.3377,77.7845,306,54,78,5,81,67,21,M
+638002,77.53946,0,Lakkapuram,Erode,Erode,11.305,77.7554,306,54,78,5,81,67,21,M
+638003,77.51928,0,Karungalpalayam,Erode,Erode,11.3377,77.7845,306,54,78,5,81,67,21,M
+638004,77.5041,0,Veerappanchatram,Erode,Erode,11.3377,77.7845,306,54,78,5,81,67,21,M
+638005,77.47906,0,Ramanathapuram Pudur,Erode,Erode,11.5152,77.4143,414,21,39,282,23,38,11,F
+638009,77.46341,0,Surampatti,Erode,Erode,11.3273,77.7112,414,21,39,282,23,38,11,F
+638010,77.43013,0,SPB Colony,Erode,Erode,11.3062,77.7207,414,21,39,282,23,38,11,F
+638011,77.42847,0,Erode Collectorate,Erode,Erode,11.3062,77.7207,414,21,39,282,23,38,11,F
+638012,77.427,0,Thindal,Erode,Erode,11.3062,77.7207,414,21,39,282,23,38,11,F
+638051,77.42535,0,Basuvapatti,Erode,Erode,11.3973,77.6585,414,21,39,282,23,38,11,F
+638052,77.38353,0,Perundurai,Erode,Erode,11.2756,77.5879,306,54,78,5,81,67,21,M
+638053,77.34065,0,Perundurai Sanitorium,Erode,Perundurai,11.2882,77.6842,414,21,39,282,23,38,11,F
+638054,77.33282,0,Siruvalur,Erode,Erode,11.3635,77.46,414,21,39,282,23,38,11,F
+638055,77.33147,0,Tingalur,Erode,Erode,11.318,77.4889,414,21,39,282,23,38,11,F
+638056,77.30482,0,Nadupatti,Erode,Erode,11.5152,77.4143,414,21,39,282,23,38,11,F
+638057,77.26553,0,Sullipalayam,Erode,Erode,11.3429,77.5372,306,54,78,5,81,67,21,M
+638060,77.23121,0,Thoppupalayam,Erode,Perundurai,11.3062,77.7207,306,54,78,5,81,67,21,M
+638101,77.224,0,Vadugapatti,Erode,Erode,11.1518,77.7375,306,54,78,5,81,67,21,M
+638102,77.19515,0,Chittode,Erode,Erode,11.3946,77.6588,414,21,39,282,23,38,11,F
+638103,77.16321,0,Athiyur,Erode,Erode,11.5152,77.4143,414,21,39,282,23,38,11,F
+638104,77.11447,0,Swaminathapuram,Erode,Erode,11.5152,77.4143,414,21,39,282,23,38,11,F
+638105,77.06284,0,Mangalapatti,Erode,Erode,11.5152,77.4143,306,54,78,5,81,67,21,M
+638106,77.04762,0,Vadugapatti,Erode,Dharapuram,11.1518,77.7375,306,54,78,5,81,67,21,M
+638107,76.95435,0,Nasiyanur,Erode,Erode,11.3381,77.6408,306,54,78,5,81,67,21,M
+638108,76.93506,0,Komarapalayam,Erode,Kangayam,11.5152,77.4143,306,54,78,5,81,67,21,M
+638109,76.91649,0,Sivagiri (Erode),Erode,Erode,11.1203,77.7881,414,21,39,282,23,38,11,F
+638110,76.89183,0,Kaliappampalayam,Erode,Perundurai,11.131,77.814,306,54,78,5,81,67,21,M
+638111,76.86644,0,Mettupalayam,Erode,Kangeyam,11.5152,77.4143,306,54,78,5,81,67,21,M
+638112,76.75633,0,Pungambadi,Erode,Erode,11.27,77.6509,414,21,39,282,23,38,11,F
+638115,76.70169,0,Avalpundurai,Erode,Erode,11.231,77.7182,414,21,39,282,23,38,11,F
+638116,76.65581,0,Kanjikovil,Erode,Perundurai,11.131,77.814,414,21,39,282,23,38,11,F
+638151,76.63734,0,Salaipudur,Erode,Erode,11.0591,77.8874,306,54,78,5,81,67,21,M
+638152,76.58131,0,Unjalur,Erode,Erode,11.1278,77.8696,306,54,78,5,81,67,21,M
+638153,76.56017,0,Muthayeepalayam,Erode,Erode,11.3605,77.9402,306,54,78,5,81,67,21,M
+638154,76.55074,0,Kolanalli,Erode,Erode,11.1753,77.8524,306,54,78,5,81,67,21,M
+638301,76.52253,0,Kalingarayanpalayam Pudur,Erode,Bhavani,11.5322,77.6114,306,54,78,5,81,67,21,M
+638311,76.49223,0,Kesarimangalam,Erode,Erode,11.5423,77.7247,414,21,39,282,23,38,11,F
+638312,76.45313,0,Jambai,Erode,Bhavani,11.4678,77.6434,414,21,39,282,23,38,11,F
+638313,76.38258,0,Mevani,Erode,Erode,11.4996,77.5307,414,21,39,282,23,38,11,F
+638314,76.36268,0,Kurichi,Erode,Erode,11.5152,77.4143,414,21,39,282,23,38,11,F
+638315,76.28663,0,Mettupalayam,Erode,Bhavani,11.5152,77.4143,306,54,78,5,81,67,21,M
+638316,76.23851,0,Elavamalai,Erode,Erode,11.5322,77.6114,414,21,39,282,23,38,11,F
+638401,76.20336,0,Germalam,Erode,Sathyamangalam,11.6125,77.2975,414,21,39,282,23,38,11,F
+638402,76.15271,0,Periyur,Erode,Sathyamangalam,11.5152,77.4143,414,21,39,282,23,38,11,F
+638451,76.10346,0,Kothamangalam,Erode,Sathy,11.4902,77.1269,306,54,78,5,81,67,21,M
+638452,76.05855,0,Gobichettipalayam H.O,Erode,Erode,11.3627,77.3662,306,54,78,5,81,67,21,M
+638453,76.05551,0,Alukuli,Erode,Erode,11.4062,77.4018,306,54,78,5,81,67,21,M
+638454,76.02084,0,Gudakkarai,Erode,Erode,11.3902,77.2598,306,54,78,5,81,67,21,M
+638455,75.98592,0,Kavindapadi,Erode,Erode,11.4279,77.5601,306,54,78,5,81,67,21,M
+638456,75.93863,0,Kolappalur (Erode),Erode,Gobichettipalayam,11.3791,77.4293,414,21,39,282,23,38,11,F
+638457,75.9278,0,Kurumandur,Erode,Erode,11.4204,77.3482,414,21,39,282,23,38,11,F
+638458,75.90353,0,Koshanam,Erode,Erode,11.3701,77.3523,414,21,39,282,23,38,11,F
+638459,75.86944,0,Nallur,Erode,Sathy,11.5152,77.4143,414,21,39,282,23,38,11,F
+638460,75.79996,0,Punjaithamaraikulam,Erode,Sathyamangalam,11.6425,77.0264,414,21,39,282,23,38,11,F
+638461,75.73537,0,Talavadi,Erode,Sathyamangalam,11.778,77.0055,306,54,78,5,81,67,21,M
+638462,75.61775,0,Irugalur,Erode,Erode,11.3697,77.2733,414,21,39,282,23,38,11,F
+638476,75.59808,0,Gobichettipalayam South,Erode,Gobichettipalayam,11.4225,77.3455,414,21,39,282,23,38,11,F
+638501,75.53874,0,Anthiyur,Erode,Erode,11.5751,77.5904,414,21,39,282,23,38,11,F
+638502,75.46984,0,Nagalur,Erode,Erode,11.5597,77.5504,306,54,78,5,81,67,21,M
+638503,75.43874,0,Karalayam,Erode,Sathyamangalam,11.6515,77.2536,414,21,39,282,23,38,11,F
+638504,75.34039,0,Chennampatti,Erode,Erode,11.7011,77.6785,414,21,39,282,23,38,11,F
+638505,75.29063,0,Kallipatti,Erode,Gobichettipalayam,11.5152,77.4143,414,21,39,282,23,38,11,F
+638506,75.26316,0,Nanjai Puliampatti,Erode,Erode,11.4955,77.4113,414,21,39,282,23,38,11,F
+638656,75.22649,0,Hanumanthapuram,Erode,Dharapuram,11.5152,77.4143,414,21,39,282,23,38,11,F
+638657,75.20681,0,Nanjundapuram,Erode,Dharapuram,11.1578,77.5188,414,21,39,282,23,38,11,F
+638660,75.11366,0,Nelali,Erode,Dharaupram,11.5152,77.4143,306,54,78,5,81,67,21,M
+638661,75.08669,0,Karaiyur,Erode,Dharapuram,11.5152,77.4143,306,54,78,5,81,67,21,M
+638672,75.04345,0,Dalavoipattinam,Erode,Dharapuram,10.7581,77.7443,306,54,78,5,81,67,21,M
+638673,75.03853,0,Kolinjivadi,Erode,Dharapuram,11.5152,77.4143,306,54,78,5,81,67,21,M
+638701,74.9501,0,Kangayam,Erode,Kangayam,11.5152,77.4143,306,54,78,5,81,67,21,M
+638702,74.87073,0,Bellampatti,Erode,Dharapuram,11.5152,77.4143,414,21,39,282,23,38,11,F
+638703,74.8159,0,Mudalipalayam,Erode,Kangayam,11.0875,77.7807,414,21,39,282,23,38,11,F
+638706,74.7618,0,Nallimadam,Erode,Dharapuram,11.5152,77.4143,414,21,39,282,23,38,11,F
+638751,74.74222,0,Uttukuli,Erode,Perundurai,11.5152,77.4143,414,21,39,282,23,38,11,F
+638752,74.69822,0,Morattupalayam,Erode,Erode,11.1689,77.4543,414,21,39,282,23,38,11,F
+638812,74.66486,0,Virumandampalayam,Erode,Perundurai,11.2707,77.6523,306,54,78,5,81,67,21,M
+639201,74.65579,0,Velampundi,Erode,Dharapuram,11.5152,77.4143,306,54,78,5,81,67,21,M
+639202,74.65094,0,Erachapadi,Erode,Dharapuram,10.8913,77.8343,306,54,78,5,81,67,21,M
+641605,74.59836,0,Ganapathipalayam,Erode,Kangayam,11.0153,77.3582,306,54,78,5,81,67,21,M
+641607,74.58059,0,Sarkarperiapalayam,Erode,Perundurai,11.1172,77.3726,414,21,39,282,23,38,11,F
+642206,74.58036,0,Pottikkampalayam,Erode,Dharapuram,10.7261,77.3177,414,21,39,282,23,38,11,F
+643001,74.57928,0,St Marys Hill,Nilgiris,Udhagamandalam,11.4167,76.6863,46,6,5,2,14,16,3,M
+643002,74.5442,0,Stone House Hill,Nilgiris,Udhagamandalam,11.4624,76.7769,46,6,5,2,14,16,3,M
+643003,74.4968,0,Manihatti,Nilgiris,Udhagamandalam,11.3319,76.663,46,6,5,2,14,16,3,M
+643004,74.4585,0,Fernhill,Nilgiris,Udhagamandalam,11.3954,76.6867,77,3,5,55,5,6,3,F
+643005,74.42149,0,Sholur,Nilgiris,Udhagamandalam,11.483,76.6666,77,3,5,55,5,6,3,F
+643006,74.37075,0,Finger Post,Nilgiris,Udhagamandalam,11.4167,76.6863,46,6,5,2,14,16,3,M
+643007,74.35187,0,Dhavani,Nilgiris,Udhagamandalam,11.4167,76.6863,46,6,5,2,14,16,3,M
+643101,74.32078,0,Coonoor H.O,Nilgiris,Coonoor,10.4856,77.0925,46,6,5,2,14,16,3,M
+643102,74.31165,0,Vannarpet,Nilgiris,Coonoor,11.4559,76.6419,46,6,5,2,14,16,3,M
+643103,74.24943,0,Yedappalli,Nilgiris,Coonoor,11.3791,76.812,77,3,5,55,5,6,3,F
+643105,74.23899,0,Ottupattarai,Nilgiris,Coonoor,10.4856,77.0925,77,3,5,55,5,6,3,F
+643201,74.23882,0,Aravenu,Nilgiris,Kotagiri,11.4695,76.5523,46,6,5,2,14,16,3,M
+643202,74.23441,0,Aruvankadu,Nilgiris,Coonoor,11.3632,76.7579,46,6,5,2,14,16,3,M
+643203,74.22516,0,Balacola,Nilgiris,Kundah,11.4695,76.5523,46,6,5,2,14,16,3,M
+643204,74.22405,0,Chamraj Estate,Nilgiris,Coonoor,11.4695,76.5523,46,6,5,2,14,16,3,M
+643205,74.21182,0,Cherambadi,Nilgiris,Gudalur,11.5129,76.2781,77,3,5,55,5,6,3,F
+643206,74.20721,0,Anikorai,Nilgiris,Udhagamandalam,11.4585,76.7327,77,3,5,55,5,6,3,F
+643207,74.17547,0,Devarshola,Nilgiris,Gudalur,11.5437,76.4404,77,3,5,55,5,6,3,F
+643209,74.16057,0,Bickatti,Nilgiris,Kundah,11.4695,76.5523,46,6,5,2,14,16,3,M
+643211,74.13985,0,Kargudi,Nilgiris,Gudalur,11.4559,76.6419,46,6,5,2,14,16,3,M
+643212,74.09583,0,Devala,Nilgiris,Gudalur,11.4731,76.3794,77,3,5,55,5,6,3,F
+643213,74.06513,0,Katary,Nilgiris,Coonoor,11.4146,76.8562,77,3,5,55,5,6,3,F
+643214,74.04966,0,T.Manihatti,Nilgiris,Kotagiri,11.4146,76.8562,46,6,5,2,14,16,3,M
+643215,74.03191,0,Ketti,Nilgiris,Coonoor,11.4,76.7,46,6,5,2,14,16,3,M
+643216,74.01292,0,Kil Kotagiri,Nilgiris,Kotagiri,11.4516,76.9297,46,6,5,2,14,16,3,M
+643217,73.98786,0,Kodanad,Nilgiris,Kotagiri,11.516,76.9055,77,3,5,55,5,6,3,F
+643218,73.94312,0,Kullakamby,Nilgiris,Coonoor,11.2864,76.7418,46,6,5,2,14,16,3,M
+643219,73.9371,0,Manjoor,Nilgiris,Kundah,11.2711,76.6429,46,6,5,2,14,16,3,M
+643220,73.90007,0,Cherangode,Nilgiris,Pandalur,11.5338,76.5361,46,6,5,2,14,16,3,M
+643221,73.89333,0,Melur Nilgiris,Nilgiris,Coonoor,11.5338,76.5361,77,3,5,55,5,6,3,F
+643223,73.87728,0,Masinagudi,Nilgiris,Udagamandalam,11.5682,76.6471,77,3,5,55,5,6,3,F
+643224,73.84133,0,Naduvattam,Nilgiris,Udhagamandalam,11.4808,76.5437,77,3,5,55,5,6,3,F
+643225,73.82948,0,Nellakotta,Nilgiris,Pandalur,11.5524,76.4176,46,6,5,2,14,16,3,M
+643226,73.80808,0,Glenvans,Nilgiris,Gudalur,11.5338,76.5361,46,6,5,2,14,16,3,M
+643228,73.78954,0,Yellamalai,Nilgiris,Gudalur,11.5338,76.5361,46,6,5,2,14,16,3,M
+643231,73.74394,0,Wellington,Nilgiris,Coonoor,11.3655,76.7844,77,3,5,55,5,6,3,F
+643233,73.71946,0,Pandalur,Nilgiris,Pandalur,11.4908,76.3392,77,3,5,55,5,6,3,F
+643236,73.71889,0,Kengarai,Nilgiris,Kotagiri,11.4144,76.9277,77,3,5,55,5,6,3,F
+643237,73.71147,0,Sandynallah,Nilgiris,Udhagamandalam,11.4236,76.6838,77,3,5,55,5,6,3,F
+643238,73.69691,0,Pilloormattam,Nilgiris,Kotagiri,11.4236,76.6838,77,3,5,55,5,6,3,F
+643239,73.6853,0,Konnachal,Nilgiris,Pandalur,11.4236,76.6838,77,3,5,55,5,6,3,F
+643240,73.6621,0,Pattavayal,Nilgiris,Gudalur,11.5659,76.3708,46,6,5,2,14,16,3,M
+643241,73.63974,0,Kunnalady,Nilgiris,Gudalur,11.4344,76.6831,46,6,5,2,14,16,3,M
+643242,73.62642,0,Kunjapanai,Nilgiris,Kotagiri,11.3598,76.9337,46,6,5,2,14,16,3,M
+643243,73.61903,0,Yellanhalli,Nilgiris,Udhagamandalam,11.3776,76.7446,77,3,5,55,5,6,3,F
+643253,73.60937,0,Kolapalli,Nilgiris,Gudalur,11.4412,76.7277,77,3,5,55,5,6,3,F
+624001,73.60407,0,Dindigul H.O,Dindigul,Dindigul,10.3315,78.1048,276,35,63,4,85,68,21,M
+624002,73.56213,0,Pallapatti,Dindigul,Dindigul,10.2082,78.2556,276,35,63,4,85,68,21,M
+624003,73.51396,0,Sirumalai,Dindigul,Dindigul,10.3898,77.82,322,8,31,205,23,44,11,F
+624004,73.45374,0,Dindigul Collectorate,Dindigul,Dindigul,10.3315,78.1048,322,8,31,205,23,44,11,F
+624005,73.4363,0,Padiyur,Dindigul,Dindigul,10.4234,78.0254,276,35,63,4,85,68,21,M
+624101,73.36635,0,Melpallam,Dindigul,Kodaikanal,10.336,77.564,322,8,31,205,23,44,11,F
+624103,73.22828,0,Polur,Dindigul,Kodaikanal,10.2106,77.3212,322,8,31,205,23,44,11,F
+624201,73.18477,0,Kalladipatti,Dindigul,Nilakottai,10.2082,78.2556,276,35,63,4,85,68,21,M
+624202,73.17558,0,Poosaripatti,Dindigul,Kodaikanal,10.3758,77.8911,276,35,63,4,85,68,21,M
+624204,73.09123,0,Nellur,Dindigul,Dindigul,10.3898,77.82,322,8,31,205,23,44,11,F
+624206,73.06836,0,Ammapatti,Dindigul,Dindigul,10.618,77.6839,322,8,31,205,23,44,11,F
+624208,73.03037,0,Nilakottai H.O,Dindigul,Dindigul,10.5463,77.7496,276,35,63,4,85,68,21,M
+624210,73.02562,0,Pannaikadu,Dindigul,Dindigul,10.2793,77.6285,276,35,63,4,85,68,21,M
+624211,73.00497,0,Pattiveeranpatti,Dindigul,Dindigul,10.2123,77.7609,276,35,63,4,85,68,21,M
+624212,72.96568,0,Nallurkadu,Dindigul,Kodaikanal,10.3418,77.7016,322,8,31,205,23,44,11,F
+624215,72.87943,0,Silukkuvarpatti,Dindigul,Dindigul,10.3898,77.82,322,8,31,205,23,44,11,F
+624216,72.77901,0,Kamanur,Dindigul,Dindigul,10.2901,77.6772,276,35,63,4,85,68,21,M
+624219,72.75908,0,Ramarajapuram,Dindigul,Dindigul,10.2722,78.1358,276,35,63,4,85,68,21,M
+624220,72.72514,0,Sandaiyur,Dindigul,Dindigul,10.0941,77.7406,322,8,31,205,23,44,11,F
+624301,72.69561,0,Chinnalapatti,Dindigul,Dindigul,10.2848,77.9233,322,8,31,205,23,44,11,F
+624302,72.68909,0,Ambathurai,Dindigul,Dindigul,10.2771,77.9195,322,8,31,205,23,44,11,F
+624303,72.64203,0,Kalikkampatti,Dindigul,Dindigul,10.3046,77.9252,276,35,63,4,85,68,21,M
+624304,72.6186,0,Sanarpatti,Dindigul,Dindigul,10.6015,77.9326,276,35,63,4,85,68,21,M
+624306,72.56139,0,Madur,Dindigul,Dindigul,10.3594,78.077,276,35,63,4,85,68,21,M
+624307,72.48925,0,Narasingapuram,Dindigul,Dindigul,10.3075,77.9702,322,8,31,205,23,44,11,F
+624308,72.46087,0,Vembarpatti,Dindigul,Dindigul,10.2505,78.1202,322,8,31,205,23,44,11,F
+624401,72.39915,0,Naduvanur,Dindigul,Natham,10.2504,78.2791,322,8,31,205,23,44,11,F
+624402,72.27406,0,Sirugudi,Dindigul,Dindigul,10.2633,78.3061,322,8,31,205,23,44,11,F
+624403,72.25105,0,Kottaipatti,Dindigul,Natham,10.1533,77.7315,322,8,31,205,23,44,11,F
+624601,72.23286,0,Palani Bazaar,Dindigul,Palani,10.4656,77.7684,322,8,31,205,23,44,11,F
+624610,72.17178,0,Balasamudram (Dindigul),Dindigul,"",10.419,77.4992,322,8,31,205,23,44,11,F
+624612,72.17022,0,Sakkampatti,Dindigul,Oddanchatram,10.3898,77.82,322,8,31,205,23,44,11,F
+624613,72.13237,0,Ayakudi,Dindigul,Dindigul,10.4499,77.552,322,8,31,205,23,44,11,F
+624614,72.09831,0,Periyakottai,Dindigul,Dindigul,10.3772,78.0486,322,8,31,205,23,44,11,F
+624615,72.01633,0,Perumalpudur,Dindigul,Palani,10.3898,77.82,276,35,63,4,85,68,21,M
+624616,71.95867,0,Mettupatti,Dindigul,Dindigul,10.3898,77.82,276,35,63,4,85,68,21,M
+624617,71.86581,0,Puliampatti,Dindigul,Dindigul,10.3898,77.82,322,8,31,205,23,44,11,F
+624618,71.79514,0,Kovilammapatti,Dindigul,Dindigul,10.5642,77.4643,322,8,31,205,23,44,11,F
+624619,71.73353,0,Veriyappur,Dindigul,Dindigul,10.5243,77.793,322,8,31,205,23,44,11,F
+624620,71.6466,0,Servaikaranpatti,Dindigul,Dindigul,10.3898,77.82,322,8,31,205,23,44,11,F
+624621,71.55403,0,Pappampatti,Dindigul,Dindigul,10.4446,77.4048,276,35,63,4,85,68,21,M
+624622,71.54121,0,Sriramapuram,Dindigul,Dindigul,10.5272,77.9818,322,8,31,205,23,44,11,F
+624701,71.50538,0,Attur,Dindigul,Dindigul,10.2876,77.852,322,8,31,205,23,44,11,F
+624702,71.50276,0,Eriyodu,Dindigul,Vedasandur,10.5172,78.0627,322,8,31,205,23,44,11,F
+624703,71.45709,0,Ramagiri,Dindigul,Vedasandur,10.657,78.1212,276,35,63,4,85,68,21,M
+624704,71.38341,0,Jogipatti,Dindigul,Dindigul,10.5618,77.8342,276,35,63,4,85,68,21,M
+624705,71.34216,0,Kannivadi,Dindigul,Dindigul,10.3794,77.8303,276,35,63,4,85,68,21,M
+624706,71.28447,0,Usilampatti,Dindigul,Dindigul,10.5723,78.0313,276,35,63,4,85,68,21,M
+624707,71.23674,0,Paraipatti,Dindigul,Dindigul,10.3898,77.82,322,8,31,205,23,44,11,F
+624708,71.20372,0,Palayankottai,Dindigul,Dindigul,10.3898,77.82,322,8,31,205,23,44,11,F
+624709,71.16335,0,Kallipatti,Dindigul,Dindigul,10.3898,77.82,322,8,31,205,23,44,11,F
+624710,71.11546,0,Kalanampatti,Dindigul,Dindigul,10.4541,77.8496,276,35,63,4,85,68,21,M
+624711,71.06647,0,Kalvarpatti,Dindigul,Vedasandur,10.625,77.9375,322,8,31,205,23,44,11,F
+624712,71.02295,0,Markkampatti,Dindigul,Dindigul,10.3391,78.1352,322,8,31,205,23,44,11,F
+624801,71.00083,0,Puthur,Dindigul,Dindigul,10.3898,77.82,322,8,31,205,23,44,11,F
+624802,70.97282,0,Mottanampatti,Dindigul,Vedasandur,10.3275,77.9654,322,8,31,205,23,44,11,F
+639203,70.9119,0,Soolapuram,Dindigul,Vedasandur,10.6802,77.9845,276,35,63,4,85,68,21,M
+642113,70.90676,0,Saminathapuram,Dindigul,Palani,11.0299,76.9632,276,35,63,4,85,68,21,M
+621301,70.90358,0,Varavanai,Karur,Kulittalai,10.7478,78.2252,120,23,30,4,28,31,4,M
+621306,70.83112,0,Padiripatti,Karur,Kadavur,10.6197,78.4263,120,23,30,4,28,31,4,M
+621311,70.82382,0,Kadavur,Karur,Kulithalai,10.5932,78.1907,120,23,30,4,28,31,4,M
+621313,70.75297,0,Kalladai,Karur,Kulittalai,10.7272,78.4634,191,11,12,140,9,18,1,F
+621315,70.69827,0,Servaikaranpatti,Karur,Kulithalai,10.843,78.1331,191,11,12,140,9,18,1,F
+639001,70.67641,0,Ramakrishnapuram,Karur,Karur,10.843,78.1331,191,11,12,140,9,18,1,F
+639002,70.66454,0,Viswanathapuri,Karur,Aravakurichi,10.9455,78.0157,191,11,12,140,9,18,1,F
+639003,70.6395,0,Kakkavadi,Karur,Karur,10.8882,78.0366,191,11,12,140,9,18,1,F
+639004,70.5929,0,Nerur,Karur,Karur,10.9968,78.1496,120,23,30,4,28,31,4,M
+639005,70.53769,0,Manavadi,Karur,Karur,10.8838,78.1043,191,11,12,140,9,18,1,F
+639006,70.50867,0,Manmangalam,Karur,Karur,11.0261,78.0638,191,11,12,140,9,18,1,F
+639007,70.49937,0,Emur,Karur,Karur,10.9112,78.1091,120,23,30,4,28,31,4,M
+639008,70.48019,0,Athur,Karur,Karur,10.843,78.1331,120,23,30,4,28,31,4,M
+639102,70.47009,0,Tirukkampuliyur,Karur,Krishnarayapuram,10.964,78.0593,191,11,12,140,9,18,1,F
+639104,70.43468,0,Manathattai,Karur,Kulittalai,10.9482,78.3769,191,11,12,140,9,18,1,F
+639105,70.38644,0,Karuveppanaikenpettai,Karur,Kulithalai,11.2308,78.6419,191,11,12,140,9,18,1,F
+639107,70.34806,0,Ganesapuram,Karur,Kulithalai,10.843,78.1331,120,23,30,4,28,31,4,M
+639108,70.29731,0,Manavasi,Karur,Kulittalai,10.9323,78.2218,120,23,30,4,28,31,4,M
+639109,70.26794,0,Nagampalli,Karur,Karur,10.833,77.9314,191,11,12,140,9,18,1,F
+639110,70.24761,0,Poyyamani,Karur,Kulittalai,10.8792,78.5037,191,11,12,140,9,18,1,F
+639111,70.18475,0,Kuppam,Karur,Aravakurichi,11.0129,77.9248,191,11,12,140,9,18,1,F
+639113,70.16595,0,Nanniyur,Karur,Karur,11.0742,78.0852,120,23,30,4,28,31,4,M
+639114,70.12013,0,Uppidamangalam,Karur,Karur,10.9034,78.1575,191,11,12,140,9,18,1,F
+639116,70.08131,0,Vangal,Karur,Karur,11.0436,78.124,191,11,12,140,9,18,1,F
+639117,70.05064,0,Semangi,Karur,Karur,11.0641,77.96,191,11,12,140,9,18,1,F
+639118,70.0218,0,Velliyanai,Karur,Karur,10.8454,78.1204,191,11,12,140,9,18,1,F
+639119,69.99747,0,Vayalur,Karur,Krishnarayapuram,10.8717,78.3448,120,23,30,4,28,31,4,M
+639120,69.93798,0,Sivayam,Karur,Krishnarayapuram,10.8642,78.4026,191,11,12,140,9,18,1,F
+639136,69.88837,0,Punnam,Karur,Karur,11.0137,77.9799,120,23,30,4,28,31,4,M
+639205,69.75699,0,Kottapatti,Karur,Aravakurichi,10.843,78.1331,191,11,12,140,9,18,1,F
+639206,69.70164,0,Tennilai,Karur,Aravakurichi,10.8608,77.8631,120,23,30,4,28,31,4,M
+639207,69.63422,0,Alamarathupatti,Karur,Aravakurichi,10.843,78.1331,191,11,12,140,9,18,1,F
+612905,69.5533,0,Ulkottai,Tiruchirappalli,Udayarpalayam,11.1759,79.3924,505,26,31,373,32,35,8,F
+620001,69.54847,0,Tiruchirappalli Cantonment,Tiruchirappalli,Tiruchirappalli,10.8566,78.5278,505,26,31,373,32,35,8,F
+620002,69.52766,0,Tiruchirappalli Townhall,Tiruchirappalli,Tiruchirappalli,10.8566,78.5278,292,71,74,3,52,77,15,M
+620003,69.51913,0,Woriur Bazaar,Tiruchirappalli,Tiruchirappalli,10.8566,78.5278,292,71,74,3,52,77,15,M
+620004,69.50698,0,Golden Rock,Tiruchirappalli,Tiruchirappalli,10.7823,78.7245,292,71,74,3,52,77,15,M
+620005,69.50067,0,Tiruvalarsolai,Tiruchirappalli,Srirangam,10.849,78.7428,292,71,74,3,52,77,15,M
+620006,69.47654,0,Melur,Tiruchirappalli,Srirangam,10.8711,78.665,292,71,74,3,52,77,15,M
+620007,69.4452,0,Gundur,Tiruchirappalli,Tiruchirappalli,10.7339,78.7184,292,71,74,3,52,77,15,M
+620008,69.43147,0,Palakkarai,Tiruchirappalli,Tiruchirappalli,10.8889,78.5704,505,26,31,373,32,35,8,F
+620009,69.404,0,Paganur,Tiruchirappalli,Tiruchirappalli,10.7342,78.603,505,26,31,373,32,35,8,F
+620010,69.3601,0,Ariyamangalam,Tiruchirappalli,Tiruchirappalli,10.8209,78.7285,505,26,31,373,32,35,8,F
+620011,69.33043,0,Melakalkandarkottai,Tiruchirappalli,Tiruchirappalli,10.7498,78.7763,505,26,31,373,32,35,8,F
+620012,69.2971,0,Manikandam,Tiruchirappalli,Tiruchirappalli,10.9773,78.8131,505,26,31,373,32,35,8,F
+620013,69.26041,0,Natarajapuram,Tiruchirappalli,Tiruchirappalli,10.8148,78.7953,505,26,31,373,32,35,8,F
+620014,69.22115,0,Kamarajapuram (BHEL),Tiruchirappalli,Tiruchirappalli,10.7498,78.7763,292,71,74,3,52,77,15,M
+620015,69.18474,0,Valavandankottai,Tiruchirappalli,Tiruchirappalli,10.7607,78.837,292,71,74,3,52,77,15,M
+620016,69.11916,0,Ordnance Estate - TR,Tiruchirappalli,Tiruchirappalli,10.7505,78.7763,292,71,74,3,52,77,15,M
+620017,69.11266,0,Puthur,Tiruchirappalli,Tiruchirappalli,10.8889,78.5704,505,26,31,373,32,35,8,F
+620018,69.10795,0,Thillai Nagar,Tiruchirappalli,Tiruchirappalli,10.7498,78.7763,505,26,31,373,32,35,8,F
+620019,69.10187,0,Pappakurichi Kattur,Tiruchirappalli,Tiruchirappalli,10.7498,78.7763,505,26,31,373,32,35,8,F
+620020,69.09692,0,Khajamalai Colony,Tiruchirappalli,Tiruchirappalli,10.6605,78.7889,505,26,31,373,32,35,8,F
+620021,69.03227,0,K.Sathanur,Tiruchirappalli,Tiruchirappalli,10.6605,78.7889,505,26,31,373,32,35,8,F
+620022,69.02043,0,Thuvakudimalai,Tiruchirappalli,Tiruchirappalli,10.6605,78.7889,292,71,74,3,52,77,15,M
+620023,69.01733,0,Khajanagar,Tiruchirappalli,Tiruchirappalli,10.6605,78.7889,292,71,74,3,52,77,15,M
+620024,69.01001,0,Bharathidasan University,Tiruchirappalli,Tiruchirappalli,10.6605,78.7889,292,71,74,3,52,77,15,M
+620025,69.00089,0,Suriyur,Tiruchirappalli,Tiruchirappalli,10.6605,78.7889,292,71,74,3,52,77,15,M
+620026,68.99019,0,Annanagar,Tiruchirappalli,Tiruchirappalli,10.6605,78.7889,292,71,74,3,52,77,15,M
+620101,68.98603,0,Allur,Tiruchirappalli,Tiruchirappalli,10.8718,78.6283,292,71,74,3,52,77,15,M
+620102,68.97701,0,Somarasampettai,Tiruchirappalli,Tiruchirappalli,10.8122,78.6338,292,71,74,3,52,77,15,M
+621001,68.93075,0,Senappanallur,Tiruchirappalli,Turaiyur,11.139,78.541,505,26,31,373,32,35,8,F
+621002,68.87348,0,Kurichi,Tiruchirappalli,Turaiyur,10.8889,78.5704,292,71,74,3,52,77,15,M
+621003,68.83167,0,Maradi,Tiruchirappalli,Thuraiyur,11.2421,78.5007,505,26,31,373,32,35,8,F
+621004,68.79565,0,Naduvalur,Tiruchirappalli,Turaiyur,11.0981,78.6528,505,26,31,373,32,35,8,F
+621005,68.76418,0,Tattamangalam,Tiruchirappalli,Manachanalloor,10.9846,78.7128,292,71,74,3,52,77,15,M
+621006,68.73109,0,Mambarai,Tiruchirappalli,Musiri,10.8889,78.5704,505,26,31,373,32,35,8,F
+621007,68.70663,0,Puthanampatti,Tiruchirappalli,Musiri,11.0579,78.6958,505,26,31,373,32,35,8,F
+621008,68.67707,0,Venkatesapuram,Tiruchirappalli,Turaiyur,11.1533,78.5799,292,71,74,3,52,77,15,M
+621009,68.63582,0,Sirupathur,Tiruchirappalli,Manachanalloor,11.1114,78.6287,505,26,31,373,32,35,8,F
+621010,68.61156,0,Turaiyur Extension,Tiruchirappalli,Thuraiyur,11.2554,78.4921,505,26,31,373,32,35,8,F
+621011,68.59826,0,Venkatachalapuram,Tiruchirappalli,Turaiyur,11.0427,78.567,505,26,31,373,32,35,8,F
+621012,68.55466,0,Koppampatti,Tiruchirappalli,Turaiyur,11.2938,78.4964,292,71,74,3,52,77,15,M
+621014,68.50671,0,Singalandapuram,Tiruchirappalli,Turaiyur,11.1057,78.588,292,71,74,3,52,77,15,M
+621101,68.49509,0,Puduattur,Tiruchirappalli,Thuraiyur,11.2181,78.7443,292,71,74,3,52,77,15,M
+621104,68.49156,0,Velur,Tiruchirappalli,Manachanallur,10.8889,78.5704,292,71,74,3,52,77,15,M
+621105,68.46658,0,Tirupattur,Tiruchirappalli,Trichy,10.8889,78.5704,292,71,74,3,52,77,15,M
+621111,68.41801,0,R.Valavanur,Tiruchirappalli,Trichy,11.3141,78.8823,292,71,74,3,52,77,15,M
+621112,68.41237,0,Samayapuram,Tiruchirappalli,Manachanalloor,10.9239,78.7435,292,71,74,3,52,77,15,M
+621202,68.3814,0,Ayyampalayam,Tiruchirappalli,Musiri,10.9305,78.5251,505,26,31,373,32,35,8,F
+621203,68.34213,0,Balasamudram (Tiruchirappalli),Tiruchirappalli,Thottiyam,10.9936,78.3203,505,26,31,373,32,35,8,F
+621204,68.33092,0,Amur,Tiruchirappalli,Musiri,10.9154,78.5479,292,71,74,3,52,77,15,M
+621205,68.32063,0,Jambunathapuram,Tiruchirappalli,Musiri,11.0397,78.5041,292,71,74,3,52,77,15,M
+621206,68.27402,0,Kannanur,Tiruchirappalli,Turaiyur,11.0822,78.5471,292,71,74,3,52,77,15,M
+621207,68.23656,0,Kaduvetti,Tiruchirappalli,Thottiam,10.8889,78.5704,505,26,31,373,32,35,8,F
+621208,68.15598,0,Sergudi,Tiruchirappalli,Musiri,11.0538,78.4181,292,71,74,3,52,77,15,M
+621209,68.1174,0,Alagarai,Tiruchirappalli,Thottiam,10.9826,78.3891,292,71,74,3,52,77,15,M
+621210,68.10522,0,Karikali,Tiruchirappalli,Musiri,11.1659,78.4635,292,71,74,3,52,77,15,M
+621211,68.05782,0,Vellalapatti,Tiruchirappalli,Musiri,10.8889,78.5704,505,26,31,373,32,35,8,F
+621213,67.98661,0,Cholanganallur,Tiruchirappalli,Manachanalloor,10.8889,78.5704,292,71,74,3,52,77,15,M
+621214,67.96072,0,Jambumadai,Tiruchirappalli,Musiri,11.1279,78.3909,292,71,74,3,52,77,15,M
+621216,67.88049,0,Bikshandarkoil,Tiruchirappalli,Manachanallur,11.0063,78.5566,292,71,74,3,52,77,15,M
+621217,67.85304,0,Thandalaiputhur,Tiruchirappalli,Musiri,11.6088,79.4994,292,71,74,3,52,77,15,M
+621218,67.83934,0,Tirumanamedu,Tiruchirappalli,Lalgudi,10.8629,78.7713,292,71,74,3,52,77,15,M
+621302,67.81226,0,Palayakottai,Tiruchirappalli,Manaparai,10.8889,78.5704,292,71,74,3,52,77,15,M
+621305,67.75901,0,Paluvanji,Tiruchirappalli,Manapparai,10.4677,78.4478,505,26,31,373,32,35,8,F
+621307,67.64471,0,Manjampatti,Tiruchirappalli,Manapparai,10.6023,78.3978,292,71,74,3,52,77,15,M
+621308,67.54457,0,Kodumbapatti,Tiruchirappalli,Manaparai,10.4339,78.5114,505,26,31,373,32,35,8,F
+621310,67.49232,0,Puthanatham,Tiruchirappalli,Manaparai,10.467,78.3687,505,26,31,373,32,35,8,F
+621312,67.43558,0,Anampatti,Tiruchirappalli,Manapparai,10.5533,78.4309,292,71,74,3,52,77,15,M
+621314,67.41268,0,Palayapalayam,Tiruchirappalli,Manapparai,10.8889,78.5704,292,71,74,3,52,77,15,M
+621601,67.34323,0,Lalgudi H.O,Tiruchirappalli,Lalgudi,11.0216,78.9534,292,71,74,3,52,77,15,M
+621651,67.34267,0,Tappay,Tiruchirappalli,Lalgudi,10.9901,78.9112,292,71,74,3,52,77,15,M
+621652,67.27912,0,Kallakudi North,Tiruchirappalli,Lalgudi,11.0216,78.9534,505,26,31,373,32,35,8,F
+621653,67.26966,0,Kokkudi,Tiruchirappalli,Lalgudi,11.0256,79.014,505,26,31,373,32,35,8,F
+621702,67.26295,0,Ariyur,Tiruchirappalli,Lalgudi,10.8758,78.9105,292,71,74,3,52,77,15,M
+621703,67.2401,0,Kuhur,Tiruchirappalli,Lalgudi,10.8889,78.5704,292,71,74,3,52,77,15,M
+621706,67.20011,0,Mettupatti,Tiruchirappalli,Ariyalur,10.8889,78.5704,505,26,31,373,32,35,8,F
+621711,67.16022,0,Alambakkam,Tiruchirappalli,Lalgudi,10.9255,78.9549,505,26,31,373,32,35,8,F
+621712,67.10085,0,Agalanganallur,Tiruchirappalli,Lalgudi,10.9016,78.8132,292,71,74,3,52,77,15,M
+621715,67.06718,0,Kovilur,Tiruchirappalli,Lalgudi,10.8889,78.5704,292,71,74,3,52,77,15,M
+621722,67.06184,0,Alambadi,Tiruchirappalli,Lalgudi,10.9073,79.0001,292,71,74,3,52,77,15,M
+639101,67.05611,0,Mekkudi,Tiruchirappalli,Tiruchirappalli,10.8526,78.6255,505,26,31,373,32,35,8,F
+639103,67.03429,0,Kulumani,Tiruchirappalli,Tiruchirappalli,10.8448,78.5928,505,26,31,373,32,35,8,F
+639112,66.99555,0,Pudukottai,Tiruchirappalli,Srirangam,10.8889,78.5704,505,26,31,373,32,35,8,F
+639115,66.99223,0,Tirupparaithurai,Tiruchirappalli,Tiruchirappalli,10.8838,78.5643,505,26,31,373,32,35,8,F
+621102,66.9718,0,Annamangalam,Perambalur,Veppanthattai,11.3259,78.7943,39,9,11,1,8,8,2,M
+621103,66.94749,0,Arumbavur,Perambalur,Veppanthattai,11.381,78.7296,39,9,11,1,8,8,2,M
+621106,66.88182,0,Kolathur,Perambalur,Perambalur,11.2733,78.893,88,1,7,63,5,8,4,F
+621107,66.87531,0,Senjeri,Perambalur,Perambalur,11.2384,78.8278,88,1,7,63,5,8,4,F
+621108,66.84438,0,Ogalur,Perambalur,Kunnam,11.3926,79.0623,39,9,11,1,8,8,2,M
+621109,66.81573,0,Naranamangalam,Perambalur,Perambalur,11.1496,78.8666,88,1,7,63,5,8,4,F
+621113,66.76644,0,Kalpadi,Perambalur,Perambalur,11.1926,78.921,88,1,7,63,5,8,4,F
+621114,66.71892,0,Tenur,Perambalur,Kunnam,11.0885,78.716,39,9,11,1,8,8,2,M
+621115,66.70257,0,Valikondapuram,Perambalur,Veppanthattai,11.3181,78.921,39,9,11,1,8,8,2,M
+621116,66.60726,0,Krishnapuram,Perambalur,Veppanthattai,11.3797,78.7885,88,1,7,63,5,8,4,F
+621117,66.57188,0,Karianur,Perambalur,Veppanthattai,11.5174,78.983,88,1,7,63,5,8,4,F
+621118,66.52515,0,Adaikkampatti,Perambalur,Kunnam,11.1651,78.6847,39,9,11,1,8,8,2,M
+621133,66.50979,0,Murukkankudi,Perambalur,Veppanthattai,11.2856,78.8179,88,1,7,63,5,8,4,F
+621212,66.49312,0,Perambalur Collectorate,Perambalur,Perambalur,11.0063,78.5566,88,1,7,63,5,8,4,F
+621219,66.48343,0,Anukkur,Perambalur,Veppanthattai,11.3327,78.8644,88,1,7,63,5,8,4,F
+621220,66.47659,0,Elambalur,Perambalur,Perambalur,11.2669,78.8816,39,9,11,1,8,8,2,M
+621708,66.4002,0,Kunnam (Perambalur),Perambalur,Kunnam,11.2312,79.0211,88,1,7,63,5,8,4,F
+621713,66.35225,0,Nochikulam,Perambalur,Ariyalur,11.2733,78.893,39,9,11,1,8,8,2,M
+621716,66.32413,0,Kadur,Perambalur,Perambalur,11.2606,79.1071,88,1,7,63,5,8,4,F
+621717,66.27368,0,Nannai,Perambalur,Perambalur,11.327,79.0548,39,9,11,1,8,8,2,M
+608703,66.21336,0,Sriraman,Ariyalur,Kattumannarkoil,11.3967,79.3808,94,17,31,1,11,32,2,M
+608901,66.213,0,Kavarapalayam,Ariyalur,Udayarpalayam,11.2311,79.201,94,17,31,1,11,32,2,M
+612901,66.166,0,Kidaramkondan,Ariyalur,Udayarpalayam,11.1925,79.4137,109,7,17,63,5,15,2,F
+612902,66.08966,0,Kodali,Ariyalur,Udayarpalayam,11.1306,79.4225,94,17,31,1,11,32,2,M
+612903,66.06667,0,Kundaveli,Ariyalur,Udayarpalayam,11.2426,79.4704,94,17,31,1,11,32,2,M
+612904,66.01236,0,Kargudi,Ariyalur,Udayarpalayam,11.088,79.3065,109,7,17,63,5,15,2,F
+621701,65.95367,0,Kunamangalam,Ariyalur,Udayarpalayam,11.0251,79.2492,109,7,17,63,5,15,2,F
+621704,65.8788,0,Subbarayapuram,Ariyalur,Ariyalur,11.0891,79.1006,109,7,17,63,5,15,2,F
+621705,65.79875,0,Manakudi,Ariyalur,Ariyalur,11.1605,79.2442,109,7,17,63,5,15,2,F
+621707,65.74613,0,Arungal,Ariyalur,Ariyalur,11.0172,79.1105,94,17,31,1,11,32,2,M
+621709,65.70625,0,Anganur,Ariyalur,Sendurai,11.357,79.1606,94,17,31,1,11,32,2,M
+621710,65.68634,0,Sirukalathur,Ariyalur,Ariyalur,11.2117,79.3399,94,17,31,1,11,32,2,M
+621714,65.5886,0,Kulumur,Ariyalur,Ariyalur,11.3112,79.1504,109,7,17,63,5,15,2,F
+621718,65.50099,0,Poyyadhanallur,Ariyalur,Ariyalur,11.2218,79.1517,109,7,17,63,5,15,2,F
+621719,65.46482,0,Alathiyur,Ariyalur,Ariyalur,11.3106,79.2566,109,7,17,63,5,15,2,F
+621729,65.39774,0,Ariyalur Cement Factory,Ariyalur,Ariyalur,10.9095,78.9893,109,7,17,63,5,15,2,F
+621730,65.39471,0,Siluppanur,Ariyalur,Ariyalur,11.0087,79.1969,109,7,17,63,5,15,2,F
+621801,65.38376,0,Andimadam,Ariyalur,Jayamkondacholapuram,11.3355,79.3771,94,17,31,1,11,32,2,M
+621802,65.38071,0,Karadikulam,Ariyalur,Udayarpalayam,11.1605,79.2442,94,17,31,1,11,32,2,M
+621803,65.33241,0,Kalleri,Ariyalur,Udayarpalayam,11.0289,79.2366,109,7,17,63,5,15,2,F
+621804,65.27357,0,Irumbilikurichi,Ariyalur,Jayamkondacholapuram,10.9123,79.1398,109,7,17,63,5,15,2,F
+621805,65.18843,0,Thennur,Ariyalur,Udayarpalayam,11.3553,79.4186,94,17,31,1,11,32,2,M
+621806,65.1775,0,Devanur,Ariyalur,Jayamkondacholapuram,11.2653,79.3172,94,17,31,1,11,32,2,M
+621851,65.14507,0,Venganur,Ariyalur,Lalgudi,10.9699,79.0255,94,17,31,1,11,32,2,M
+605007,65.10608,0,Singirikoil,Cuddalore,Cuddalore,11.8768,79.8107,356,51,87,1,69,126,22,M
+606001,65.08315,0,Vriddhachalam H.O,Cuddalore,Vriddhachalam,11.5216,79.3071,356,51,87,1,69,126,22,M
+606003,65.07386,0,Budamur,Cuddalore,Vriddhachalam,11.509,79.3334,356,51,87,1,69,126,22,M
+606103,65.04601,0,Gopalapuram,Cuddalore,Virudhachalam,11.4888,79.399,510,16,71,309,43,61,10,F
+606105,64.94003,0,Kilimangalam,Cuddalore,Tittagudi,11.4192,79.2971,356,51,87,1,69,126,22,M
+606106,64.91447,0,Akkanur,Cuddalore,Tittagudi,11.4075,79.051,356,51,87,1,69,126,22,M
+606108,64.87953,0,Avatti,Cuddalore,Tittagudi,11.4768,79.0758,510,16,71,309,43,61,10,F
+606109,64.84634,0,Adari,Cuddalore,Vriddhachalam,11.5509,79.0488,510,16,71,309,43,61,10,F
+606110,64.81091,0,Karmangudi,Cuddalore,Vriddhachalam,11.4643,79.349,510,16,71,309,43,61,10,F
+606111,64.76996,0,Sathanatham,Cuddalore,Tittakudi,11.4124,79.1892,356,51,87,1,69,126,22,M
+606302,64.73297,0,Varambanur,Cuddalore,Vriddhachalam,11.5026,79.1773,356,51,87,1,69,126,22,M
+606303,64.64922,0,Venganur,Cuddalore,Tittagudi,11.4436,79.0306,510,16,71,309,43,61,10,F
+606304,64.609,0,N. Naraiyur,Cuddalore,Vriddhachalam,11.6316,79.2232,356,51,87,1,69,126,22,M
+607001,64.57868,0,Manjakkuppam,Cuddalore,Cuddalore,11.7623,79.7654,356,51,87,1,69,126,22,M
+607002,64.56093,0,Tiruppadiripuliyur Bazaar,Cuddalore,Cuddalore,11.7312,79.5871,510,16,71,309,43,61,10,F
+607003,64.54495,0,Ramapuram,Cuddalore,Cuddalore,11.3463,79.4373,510,16,71,309,43,61,10,F
+607004,64.47565,0,Sathankuppam,Cuddalore,Cuddalore,11.7312,79.5871,510,16,71,309,43,61,10,F
+607005,64.46144,0,Capperquary,Cuddalore,Cuddalore,11.7312,79.5871,510,16,71,309,43,61,10,F
+607006,64.44014,0,Kondur,Cuddalore,Cuddalore,11.754,79.7045,510,16,71,309,43,61,10,F
+607102,64.39632,0,Palur,Cuddalore,Panruti,11.7569,79.6238,356,51,87,1,69,126,22,M
+607103,64.34807,0,Melmampattu,Cuddalore,Panruti,11.535,79.4509,510,16,71,309,43,61,10,F
+607104,64.3278,0,Elumedu,Cuddalore,Panruti,11.7735,79.6167,510,16,71,309,43,61,10,F
+607105,64.29431,0,Vanpakkam,Cuddalore,Cuddalore,11.7954,79.6698,510,16,71,309,43,61,10,F
+607106,64.25037,0,Semmedu,Cuddalore,Panruti,11.7433,79.4998,356,51,87,1,69,126,22,M
+607108,64.19073,0,Oraiyur,Cuddalore,Panruti,11.8175,79.4979,356,51,87,1,69,126,22,M
+607109,64.18118,0,Kalaiyur,Cuddalore,Cuddalore,11.8139,79.709,510,16,71,309,43,61,10,F
+607112,64.1592,0,Maligaimedu,Cuddalore,Panruti,11.5956,79.0876,510,16,71,309,43,61,10,F
+607205,64.13973,0,Kumaramangalam,Cuddalore,Panruti,11.4903,79.386,510,16,71,309,43,61,10,F
+607301,64.09492,0,Krishnankuppam,Cuddalore,Cuddalore,11.535,79.4509,510,16,71,309,43,61,10,F
+607302,64.01634,0,Venkatampettai,Cuddalore,Cuddalore,11.535,79.4509,510,16,71,309,43,61,10,F
+607303,63.94392,0,Karunguli,Cuddalore,Panruti,11.535,79.4509,356,51,87,1,69,126,22,M
+607308,63.92161,0,Gandhi Nagar (Cuddalore),Cuddalore,Cuddalore,11.7497,79.0886,356,51,87,1,69,126,22,M
+607401,63.9198,0,Tiruvendhipuram,Cuddalore,Cuddalore,11.7681,79.3947,356,51,87,1,69,126,22,M
+607402,63.89279,0,Thokkanambakkam,Cuddalore,Cuddalore,11.7681,79.3947,356,51,87,1,69,126,22,M
+607801,63.88715,0,Neyveli 1,Cuddalore,Virudhachalam,11.6048,79.521,356,51,87,1,69,126,22,M
+607802,63.87559,0,Periyakappankulam,Cuddalore,Panruti,11.5972,79.4228,356,51,87,1,69,126,22,M
+607803,63.81695,0,Neyveli 3,Cuddalore,Virudhachalam,11.6048,79.521,510,16,71,309,43,61,10,F
+607804,63.80184,0,Kotteri,Cuddalore,Vriddhachalam,11.5841,79.3772,510,16,71,309,43,61,10,F
+607807,63.73715,0,Neyveli Thermal Bus Stand,Cuddalore,Virudhachalam,11.6048,79.521,510,16,71,309,43,61,10,F
+608001,63.72797,0,Chidambaram H.O,Cuddalore,Chidambaram,11.6327,79.4467,510,16,71,309,43,61,10,F
+608002,63.68992,0,Annamalainagar,Cuddalore,Chidambaram,11.4,79.7333,356,51,87,1,69,126,22,M
+608102,63.63625,0,Killai,Cuddalore,Chidambaram,11.4493,79.7668,510,16,71,309,43,61,10,F
+608201,63.61681,0,Paradur,Cuddalore,Chidambaram,11.4257,79.5666,510,16,71,309,43,61,10,F
+608301,63.57463,0,Nattarmangalam,Cuddalore,Kattumannarkoil,11.2772,79.533,356,51,87,1,69,126,22,M
+608302,63.4932,0,Temmur,Cuddalore,Chidambaram,11.3373,79.6176,510,16,71,309,43,61,10,F
+608303,63.43821,0,Elleri,Cuddalore,Chidambaram,11.3043,79.569,510,16,71,309,43,61,10,F
+608304,63.39246,0,Shandan,Cuddalore,Kattumannarkoil,11.2114,79.505,356,51,87,1,69,126,22,M
+608305,63.30341,0,Kuduveli,Cuddalore,Kattumannarkoil,11.3531,79.6269,356,51,87,1,69,126,22,M
+608306,63.26873,0,Ayangudi,Cuddalore,Kattumannarkoil,11.2173,79.5383,510,16,71,309,43,61,10,F
+608401,63.24331,0,Vaiyur,Cuddalore,Chidabamram,11.3482,79.6701,510,16,71,309,43,61,10,F
+608501,63.20895,0,Villiyanallur,Cuddalore,Chidambaram,11.535,79.4509,510,16,71,309,43,61,10,F
+608502,63.12886,0,Parangipettai,Cuddalore,Chidambaram,11.4912,79.7605,510,16,71,309,43,61,10,F
+608601,63.10603,0,Miralur,Cuddalore,Chidambaram,11.4551,79.5636,510,16,71,309,43,61,10,F
+608602,63.04109,0,Ennanagaram,Cuddalore,Chidambaram,11.414,79.6459,356,51,87,1,69,126,22,M
+608701,62.99237,0,Perur,Cuddalore,Kattumanarkoil,11.4025,79.4875,356,51,87,1,69,126,22,M
+608702,62.91741,0,Agara Alambadi,Cuddalore,Kattumannarkoil,11.4366,79.4713,510,16,71,309,43,61,10,F
+608704,62.78427,0,Erumbur,Cuddalore,Kattumannarkoil,11.4642,79.5215,510,16,71,309,43,61,10,F
+608801,62.731,0,Alapakkam,Cuddalore,Chidambaram,11.535,79.4509,356,51,87,1,69,126,22,M
+609001,62.69822,0,Dharmapuram,Nagapattinam,Mayiladuthurai,10.8494,79.7389,233,41,70,3,30,57,13,M
+609003,62.67588,0,Mappadugai,Nagapattinam,Mayiladuthurai,11.1043,79.6272,233,41,70,3,30,57,13,M
+609101,62.65079,0,Palayapalayam,Nagapattinam,Sirkali,10.8494,79.7389,274,15,49,178,13,18,1,F
+609102,62.61557,0,Hanumanthapuram,Nagapattinam,Sirkali,10.8494,79.7389,274,15,49,178,13,18,1,F
+609103,62.57603,0,Keelamaruthandanallur,Nagapattinam,Mayiladuthurai,11.3929,79.7677,233,41,70,3,30,57,13,M
+609104,62.56493,0,Kadavasal,Nagapattinam,Sirkali,11.2564,79.7732,233,41,70,3,30,57,13,M
+609105,62.5358,0,Vanagiri,Nagapattinam,Sirkali,11.1333,79.8396,233,41,70,3,30,57,13,M
+609106,62.51475,0,Tirunagari,Nagapattinam,Sirkali,11.2263,79.8004,274,15,49,178,13,18,1,F
+609107,62.49602,0,Talachangadu,Nagapattinam,Tharangambadi,11.3929,79.7677,274,15,49,178,13,18,1,F
+609108,62.48671,0,Kunnam,Nagapattinam,Sirkali,11.2804,79.6826,274,15,49,178,13,18,1,F
+609109,62.45584,0,Sembadaniruppu,Nagapattinam,Sirkali,11.1628,79.7625,233,41,70,3,30,57,13,M
+609110,62.40778,0,Sirkali H.O,Nagapattinam,Sirkali Tk,11.2072,79.6065,233,41,70,3,30,57,13,M
+609111,62.40373,0,Arappakkam,Nagapattinam,Sirkali,11.2664,79.7506,233,41,70,3,30,57,13,M
+609112,62.36887,0,Mannipallam,Nagapattinam,Sirkali,11.1955,79.6606,274,15,49,178,13,18,1,F
+609113,62.35885,0,Tirumullaivasal,Nagapattinam,Sirkali,11.24,79.8371,274,15,49,178,13,18,1,F
+609114,62.35265,0,Manigramam,Nagapattinam,Sirkali,11.1573,79.8135,274,15,49,178,13,18,1,F
+609115,62.34291,0,Vettangudi,Nagapattinam,Sirkali,11.2691,79.8008,274,15,49,178,13,18,1,F
+609116,62.32046,0,Valluvakudi,Nagapattinam,Sirkali,11.2072,79.6065,274,15,49,178,13,18,1,F
+609117,62.28595,0,Vaithiswarankoil,Nagapattinam,Sirkali,11.712,79.5028,233,41,70,3,30,57,13,M
+609118,62.24173,0,Solasakkaranallur,Nagapattinam,Mayiladuthurai,10.6823,79.3661,233,41,70,3,30,57,13,M
+609201,62.22016,0,Talanayar Vsk,Nagapattinam,Sirkali,11.106,79.5953,274,15,49,178,13,18,1,F
+609202,62.20694,0,Manalmedu East,Nagapattinam,Mayiladuthurai,11.2048,79.5702,274,15,49,178,13,18,1,F
+609203,62.19915,0,Nidur,Nagapattinam,Mayiladuthurai,11.1331,79.6426,274,15,49,178,13,18,1,F
+609204,62.18066,0,Tirumeniarkoil,Nagapattinam,Mayiladuthurai,11.106,79.5953,274,15,49,178,13,18,1,F
+609205,62.17328,0,Pulavanur,Nagapattinam,Mayiladuthurai,10.8494,79.7389,233,41,70,3,30,57,13,M
+609301,62.17023,0,Kalamanallur,Nagapattinam,Tarangambadi,11.0997,79.8479,233,41,70,3,30,57,13,M
+609302,62.14326,0,Elayalur,Nagapattinam,Tharangambadi,11.1915,79.7129,274,15,49,178,13,18,1,F
+609303,62.11371,0,Kattuchery,Nagapattinam,Tharangambadi,12.9012,79.5109,274,15,49,178,13,18,1,F
+609304,62.10336,0,Kilaiyur,Nagapattinam,Tharangambadi,11.1245,79.7455,274,15,49,178,13,18,1,F
+609305,62.06605,0,Mannampandal,Nagapattinam,Mayiladuthurai,11.1033,79.6911,274,15,49,178,13,18,1,F
+609306,62.06564,0,Nalladai,Nagapattinam,Tharangambadi,11.013,79.7451,274,15,49,178,13,18,1,F
+609307,62.03811,0,Kaliyappanallur,Nagapattinam,Tharangambadi,11.0532,79.8105,274,15,49,178,13,18,1,F
+609308,62.01791,0,Iluppur,Nagapattinam,Tharangambadi,11.0182,79.7565,274,15,49,178,13,18,1,F
+609309,62.00822,0,Mudikondanallur,Nagapattinam,Tharangambadi,11.1178,79.7568,233,41,70,3,30,57,13,M
+609310,61.97373,0,Sendamangalam,Nagapattinam,Tharangambadi,11.0365,79.7803,233,41,70,3,30,57,13,M
+609311,61.95338,0,Tirumeignanam,Nagapattinam,Tharangambadi,11.0429,79.7813,233,41,70,3,30,57,13,M
+609312,61.95145,0,Eduthukatti,Nagapattinam,Tharangambadi,11.0429,79.7813,233,41,70,3,30,57,13,M
+609313,61.93292,0,Tarangambadi,Nagapattinam,Tharangambadi,11.0276,79.8543,233,41,70,3,30,57,13,M
+609314,61.92168,0,Kodangudi,Nagapattinam,Mayiladuthurai,11.0683,79.6795,233,41,70,3,30,57,13,M
+609401,61.91925,0,Valuvur,Nagapattinam,Mayiladuthurai,11.0441,79.6381,233,41,70,3,30,57,13,M
+609402,61.91568,0,Kiliyanur (Nagapattinam),Nagapattinam,Tharangambadi,11.0435,79.6816,233,41,70,3,30,57,13,M
+609403,61.90026,0,A. Kiliyanur,Nagapattinam,Mayiladuthurai,11.1354,79.659,233,41,70,3,30,57,13,M
+609404,61.88423,0,Peruncheri,Nagapattinam,Tharangambadi,11.0354,79.6625,233,41,70,3,30,57,13,M
+609501,61.85704,0,Eravancheri,Nagapattinam,Mayiladuthurai,10.7835,79.4428,274,15,49,178,13,18,1,F
+609503,61.85291,0,Ambal,Nagapattinam,Nannilam,10.9165,79.6862,274,15,49,178,13,18,1,F
+609504,61.84757,0,Sannanallur,Nagapattinam,Nagapattinam,10.8494,79.7389,274,15,49,178,13,18,1,F
+609601,61.84465,0,Ervadi,Nagapattinam,Nagapattinam,10.909,79.7312,274,15,49,178,13,18,1,F
+609604,61.83934,0,Alathur,Nagapattinam,Nagapattinam,10.9434,79.7558,274,15,49,178,13,18,1,F
+609701,61.83297,0,Pakkamkottur,Nagapattinam,Nagapattinam,10.8692,79.6716,274,15,49,178,13,18,1,F
+609702,61.81688,0,Ervadi,Nagapattinam,Nagapattinam,10.909,79.7312,274,15,49,178,13,18,1,F
+609703,61.78358,0,Tittachery,Nagapattinam,Nagapattinam,10.8434,79.7951,274,15,49,178,13,18,1,F
+609704,61.76688,0,Tirukannapuram,Nagapattinam,Nagapattinam,10.8432,79.6968,233,41,70,3,30,57,13,M
+609801,61.75605,0,Villiyanallur,Nagapattinam,Kuttalam,11.0881,79.5541,233,41,70,3,30,57,13,M
+609802,61.73068,0,Narasinganpettai,Nagapattinam,Mayiladuthurai,11.0092,79.499,274,15,49,178,13,18,1,F
+609803,61.72878,0,Tiruvavaduthurai,Nagapattinam,Kuttalam,11.0092,79.499,274,15,49,178,13,18,1,F
+609804,61.72745,0,Thuhili,Nagapattinam,Mayiladuthurai,11.0524,79.4894,274,15,49,178,13,18,1,F
+609805,61.72603,0,Komal,Nagapattinam,Mayiladuthurai,11.0212,79.5939,274,15,49,178,13,18,1,F
+609806,61.71117,0,Maraiyur,Nagapattinam,Mayiladuthurai,11.0686,79.6233,233,41,70,3,30,57,13,M
+609807,61.70527,0,Pandanallur,Nagapattinam,Kuttalam,10.8494,79.7389,233,41,70,3,30,57,13,M
+609808,61.69854,0,Terizhandur,Nagapattinam,Mayiladuthurai,11.0092,79.499,233,41,70,3,30,57,13,M
+609810,61.68942,0,Tiruvalangadu,Nagapattinam,Kuttalam,10.9279,79.6069,233,41,70,3,30,57,13,M
+609811,61.68488,0,Kali,Nagapattinam,Kuttalam,11.1374,79.5805,233,41,70,3,30,57,13,M
+610005,61.68177,0,Visalur,Nagapattinam,Tiruvarur,11.0263,79.7788,274,15,49,178,13,18,1,F
+610101,61.68174,0,Kangalanchery,Nagapattinam,Nagapattinam,10.8184,79.693,274,15,49,178,13,18,1,F
+610106,61.65457,0,Andakudi,Nagapattinam,Kilvelur,10.8494,79.7389,274,15,49,178,13,18,1,F
+610201,61.64582,0,Suramangalam,Nagapattinam,Thirukkuvalai,10.8494,79.7389,233,41,70,3,30,57,13,M
+610203,61.64451,0,Sithaimur,Nagapattinam,Tirukuvalai,10.5818,79.6384,233,41,70,3,30,57,13,M
+610204,61.64082,0,Ettukudi,Nagapattinam,Tirukuvalai,10.8494,79.7389,233,41,70,3,30,57,13,M
+610207,61.61554,0,Koilkannapur,Nagapattinam,Kilvelur,10.6519,79.6929,233,41,70,3,30,57,13,M
+611001,61.59389,0,Velippalayam,Nagapattinam,Nagapattinam,10.8706,79.7716,274,15,49,178,13,18,1,F
+611002,61.57048,0,Muttam,Nagapattinam,Nagapattinam,11.0694,79.6615,274,15,49,178,13,18,1,F
+611003,61.5366,0,Nagapattinam Collectorate,Nagapattinam,Nagapattinam,10.8706,79.7716,233,41,70,3,30,57,13,M
+611101,61.51527,0,Kakkalani,Nagapattinam,Kilvelur,10.7389,79.6952,233,41,70,3,30,57,13,M
+611102,61.51115,0,Chinnathumbur,Nagapattinam,Kilvelur,10.8005,79.7043,233,41,70,3,30,57,13,M
+611103,61.49008,0,Kilaiyur (Tiruvarur),Nagapattinam,Kilvelur,10.8494,79.7389,274,15,49,178,13,18,1,F
+611104,61.46537,0,Kilvelur,Nagapattinam,Kilvelur,10.7672,79.7419,274,15,49,178,13,18,1,F
+611105,61.43032,0,Iluppur,Nagapattinam,Kilvelur,10.7377,79.7314,274,15,49,178,13,18,1,F
+611106,61.39365,0,Palaiyur,Nagapattinam,Nagapattinam,10.7879,79.8126,233,41,70,3,30,57,13,M
+611108,61.373,0,Perunkadambanur,Nagapattinam,Nagapattinam,10.7932,79.7966,233,41,70,3,30,57,13,M
+611109,61.36235,0,Radhamangalam,Nagapattinam,Kilvelur,10.7208,79.7531,233,41,70,3,30,57,13,M
+611110,61.30873,0,Tirupundi,Nagapattinam,Kilvelur,10.6265,79.8118,274,15,49,178,13,18,1,F
+611111,61.30043,0,Vailankanni,Nagapattinam,Kilvelur,10.6833,79.8333,274,15,49,178,13,18,1,F
+611112,61.27819,0,Pudupalli,Nagapattinam,Nagapattinam,10.597,79.8349,274,15,49,178,13,18,1,F
+612102,61.25752,0,Tirumangalakudi,Nagapattinam,Kuttalam,9.7609,78.8896,233,41,70,3,30,57,13,M
+612201,61.25225,0,Konerirajapuram,Nagapattinam,Mayiladuthurai,10.9745,79.5385,233,41,70,3,30,57,13,M
+612203,61.22128,0,Palaiyur,Nagapattinam,Mayiladuthurai,10.9945,79.5661,233,41,70,3,30,57,13,M
+613702,61.18952,0,Tiruvidavasal,Nagapattinam,Tiruvarur,10.8656,79.4781,233,41,70,3,30,57,13,M
+614707,61.17967,0,Adanur,Nagapattinam,Vedaraniam,10.3682,79.8111,233,41,70,3,30,57,13,M
+614711,61.14983,0,Thulasapuram,Nagapattinam,Tiruturaipundi,10.5303,79.7057,274,15,49,178,13,18,1,F
+614712,61.11441,0,Manakudi,Nagapattinam,Vedaraniam,10.8494,79.7389,274,15,49,178,13,18,1,F
+614714,61.08008,0,Vanduvancheri,Nagapattinam,Vedaraniam,10.4292,79.6498,233,41,70,3,30,57,13,M
+614716,61.00777,0,Vadamalaimanakadu,Nagapattinam,Tiruturaipundi,10.5032,79.6609,274,15,49,178,13,18,1,F
+614806,60.99779,0,Chettipulam,Nagapattinam,Vedaranyam,10.4722,79.7401,274,15,49,178,13,18,1,F
+614807,60.93624,0,Kodiakkarai,Nagapattinam,Vedaraniam,10.5789,79.3245,233,41,70,3,30,57,13,M
+614808,60.92192,0,Nagakudaiyan,Nagapattinam,Vedaraniam,10.5789,79.3245,233,41,70,3,30,57,13,M
+614809,60.9028,0,Sembodai,Nagapattinam,Vedaraniam,10.4532,79.8299,233,41,70,3,30,57,13,M
+614810,60.85676,0,Vedaraniam,Nagapattinam,Vedaraniam,10.3721,79.851,274,15,49,178,13,18,1,F
+609405,60.79059,0,Injikudi,Tiruvarur,Nannilam,10.9629,79.6608,275,22,64,149,10,27,3,F
+609502,60.74477,0,Alangudi,Tiruvarur,Nannilam,10.8958,79.6272,191,28,83,3,18,55,4,M
+609603,60.65689,0,Velangudi,Tiruvarur,Nannilam,10.9775,79.7453,275,22,64,149,10,27,3,F
+609608,60.65517,0,Kollapuram,Tiruvarur,Nannilam,10.9606,79.7084,275,22,64,149,10,27,3,F
+610001,60.64897,0,Madapuram,Tiruvarur,Thiruvarur,10.6797,79.536,275,22,64,149,10,27,3,F
+610003,60.62707,0,Kidarankondan,Tiruvarur,Thiruvarur,10.6797,79.536,191,28,83,3,18,55,4,M
+610004,60.62318,0,Tiruvarur Collectorate,Tiruvarur,Tiruvarur,11.6906,79.7668,191,28,83,3,18,55,4,M
+610102,60.58638,0,Kamalapuram (Tiruvarur),Tiruvarur,Kodavasal,10.738,79.5742,191,28,83,3,18,55,4,M
+610103,60.57124,0,Mangudi,Tiruvarur,Tiruvarur,10.7261,79.6323,275,22,64,149,10,27,3,F
+610104,60.55239,0,Kattur,Tiruvarur,Kodavasal,10.7907,79.6012,275,22,64,149,10,27,3,F
+610105,60.52736,0,Valkkai,Tiruvarur,Nannilam,10.8867,79.5651,275,22,64,149,10,27,3,F
+610107,60.49436,0,Pakkamparuthiyur,Tiruvarur,Kodavasal,10.9801,79.4842,191,28,83,3,18,55,4,M
+610109,60.47013,0,Pulivalam (Tiruvarur),Tiruvarur,Tiruvarur,10.7525,79.6352,191,28,83,3,18,55,4,M
+610202,60.45171,0,Komal,Tiruvarur,Tiruturipundi,10.6374,79.6317,275,22,64,149,10,27,3,F
+610205,60.40705,0,Tirunellikaval,Tiruvarur,Thiruthuraipoondi,10.6549,79.6335,275,22,64,149,10,27,3,F
+610206,60.38544,0,Harischandrapuram,Tiruvarur,Nidamangalam,10.7007,79.5885,191,28,83,3,18,55,4,M
+612601,60.35413,0,Kodavasal,Tiruvarur,Kodavasal,10.8616,79.4796,191,28,83,3,18,55,4,M
+612603,60.31731,0,Simili,Tiruvarur,Kodavasal,10.8318,79.5301,191,28,83,3,18,55,4,M
+612604,60.26901,0,Sidakkamangalam,Tiruvarur,Kodavasal,10.9076,79.5344,275,22,64,149,10,27,3,F
+612605,60.23818,0,Tiruchirai,Tiruvarur,Kodavasal,10.8866,79.3494,275,22,64,149,10,27,3,F
+612610,60.22303,0,Pudukudi,Tiruvarur,Kodavasal,10.6797,79.536,275,22,64,149,10,27,3,F
+612701,60.20492,0,Govindakudi,Tiruvarur,Valangaman,10.9102,79.3393,191,28,83,3,18,55,4,M
+612801,60.18792,0,Mathur-NID,Tiruvarur,Valangaman,10.9501,79.3358,191,28,83,3,18,55,4,M
+612802,60.17335,0,Muniyur,Tiruvarur,Valangaman,10.8325,79.3107,191,28,83,3,18,55,4,M
+612803,60.13416,0,Kalanjimodu,Tiruvarur,Mannargudi,10.709,79.422,275,22,64,149,10,27,3,F
+612804,60.09578,0,Chandrasekarapuram,Tiruvarur,Valangaman,10.9501,79.3358,275,22,64,149,10,27,3,F
+613701,60.05447,0,Mukundanur,Tiruvarur,Kodavasal,10.987,79.7217,191,28,83,3,18,55,4,M
+613703,60.02216,0,Koradacheri,Tiruvarur,Tiruvarur,10.7702,79.4916,191,28,83,3,18,55,4,M
+613704,60.01192,0,Kalyanamahadevi,Tiruvarur,Tiruvarur,10.7335,79.6007,275,22,64,149,10,27,3,F
+613705,59.99976,0,Barakadabad,Tiruvarur,Kodavasal,10.8221,79.4681,275,22,64,149,10,27,3,F
+614001,59.97959,0,Mannargudi H.O,Tiruvarur,Mannargudi,10.4949,79.4256,191,28,83,3,18,55,4,M
+614013,59.93515,0,Pullavarayankudikadu,Tiruvarur,Nidamangalam,10.7012,79.3633,191,28,83,3,18,55,4,M
+614014,59.90327,0,Savalakkaran,Tiruvarur,Nidamangalam,10.6843,79.4799,191,28,83,3,18,55,4,M
+614015,59.88438,0,Paravakottai,Tiruvarur,Mannargudi,10.5553,79.1293,275,22,64,149,10,27,3,F
+614016,59.87675,0,Nagai,Tiruvarur,Mannargudi,10.6455,79.4202,275,22,64,149,10,27,3,F
+614017,59.83807,0,Elavanur,Tiruvarur,Mannargudi,10.6797,79.536,191,28,83,3,18,55,4,M
+614018,59.82278,0,Thalikottai,Tiruvarur,Mannargudi,10.2692,79.2372,191,28,83,3,18,55,4,M
+614019,59.7997,0,Vaduvur,Tiruvarur,Mannargudi,10.6975,79.3331,191,28,83,3,18,55,4,M
+614020,59.79146,0,Tenparai,Tiruvarur,Mannargudi,10.5562,79.4884,275,22,64,149,10,27,3,F
+614101,59.78073,0,Koothanallur,Tiruvarur,Mannargudi,10.7199,79.5157,275,22,64,149,10,27,3,F
+614102,59.70725,0,Vadakovanur,Tiruvarur,Nidamangalam,10.6923,79.5054,191,28,83,3,18,55,4,M
+614103,59.69333,0,Adangudi,Tiruvarur,Nidamangalam,10.7332,79.5019,191,28,83,3,18,55,4,M
+614208,59.68257,0,Nallur,Tiruvarur,Valangaman,10.9238,79.3003,191,28,83,3,18,55,4,M
+614302,59.67394,0,Vadakarai Alathur,Tiruvarur,Valangaman,10.8609,79.273,191,28,83,3,18,55,4,M
+614403,59.66931,0,Kovilvenni,Tiruvarur,Nidamangalam,10.7811,79.3596,191,28,83,3,18,55,4,M
+614404,59.65814,0,Narthangudi,Tiruvarur,Valangaman,10.777,79.4346,275,22,64,149,10,27,3,F
+614702,59.59423,0,Devadanam,Tiruvarur,Tiruturaipundi,10.4863,79.5325,275,22,64,149,10,27,3,F
+614703,59.58625,0,Kunnalur,Tiruvarur,Tiruturaipundi,10.4689,79.6218,191,28,83,3,18,55,4,M
+614704,59.5559,0,Pettai,Tiruvarur,Thiruthuraipoondi,10.6797,79.536,191,28,83,3,18,55,4,M
+614705,59.5307,0,Palaiyur,Tiruvarur,Mannargudi,10.5266,79.4983,275,22,64,149,10,27,3,F
+614706,59.50733,0,Thillaivilagam South,Tiruvarur,Thiruthuraipoondi,10.5452,79.4941,275,22,64,149,10,27,3,F
+614708,59.47795,0,Kottur (Tiruvarur),Tiruvarur,Mannargudi,10.5452,79.4941,275,22,64,149,10,27,3,F
+614710,59.4481,0,Naruvelikalappal,Tiruvarur,Mannargudi,10.5268,79.5504,191,28,83,3,18,55,4,M
+614713,59.38059,0,Tiruturaipundi Bazaar,Tiruvarur,Thiruthuraipoondi,10.6133,79.326,191,28,83,3,18,55,4,M
+614715,59.37354,0,Divammapuram,Tiruvarur,Tiruturaipundi,10.5529,79.6284,191,28,83,3,18,55,4,M
+614717,59.30328,0,Vattar,Tiruvarur,Mannargudi,10.5755,79.5283,275,22,64,149,10,27,3,F
+614738,59.26931,0,Jambavanodai,Tiruvarur,Tiruturaipundi,10.5682,79.4143,191,28,83,3,18,55,4,M
+614903,59.26814,0,Melanammankurichi,Tiruvarur,Pattukottai,10.4882,79.4044,191,28,83,3,18,55,4,M
+612001,59.18596,0,Ullur,Thanjavur,Kumbakonam,10.9706,79.4063,564,33,137,312,23,50,9,F
+612002,59.14653,0,Melakaveri H.O,Thanjavur,Kumbakonam,10.9706,79.4063,564,33,137,312,23,50,9,F
+612101,59.14447,0,Melaiyur,Thanjavur,Tiruvidamarudur,10.9903,79.5024,468,66,206,6,45,125,20,M
+612103,59.11701,0,Umamaheswarapuram,Thanjavur,Kumbakonam,10.9858,79.4102,468,66,206,6,45,125,20,M
+612104,59.10826,0,Andalampettai,Thanjavur,Thiruvidaimarudur,10.9763,79.4545,468,66,206,6,45,125,20,M
+612105,59.08258,0,Veppathur,Thanjavur,Thiruvidaimarudur,11.0161,79.4418,564,33,137,312,23,50,9,F
+612106,59.07373,0,Kadiramangalam,Thanjavur,Tiruvidamarudur,11.0706,79.5318,564,33,137,312,23,50,9,F
+612202,59.06358,0,Ammangudi,Thanjavur,Tiruvidamarudur,10.9528,79.4957,564,33,137,312,23,50,9,F
+612204,59.04327,0,Sannapuram,Thanjavur,Kumbakonam,10.9741,79.4386,564,33,137,312,23,50,9,F
+612301,59.02583,0,Pullabudangudi,Thanjavur,Papanasam,10.9717,79.3028,468,66,206,6,45,125,20,M
+612302,59.00828,0,Kottaiyur,Thanjavur,Kumbakonam,10.9685,79.3576,468,66,206,6,45,125,20,M
+612303,58.97999,0,Innambur,Thanjavur,Kumbakonam,10.981,79.338,468,66,206,6,45,125,20,M
+612401,58.96226,0,Sakkottai,Thanjavur,Kumbakonam,10.943,79.3993,564,33,137,312,23,50,9,F
+612402,58.92789,0,Tippirajapuram,Thanjavur,Kumbakonam,10.9093,79.4052,564,33,137,312,23,50,9,F
+612501,58.91362,0,Asoor,Thanjavur,Kumbakonam,11.703,79.4,564,33,137,312,23,50,9,F
+612502,58.86853,0,Mullangudi,Thanjavur,Tirupanandal,11.15,79.4803,564,33,137,312,23,50,9,F
+612503,58.86539,0,Maharajapuram,Thanjavur,Tirupanandal,10.875,78.9981,564,33,137,312,23,50,9,F
+612504,58.84673,0,Manikudi,Thanjavur,Tirupanandal,11.0677,79.4253,468,66,206,6,45,125,20,M
+612602,58.82037,0,Tirunaraiyur,Thanjavur,Tiruvidamarudur,10.9195,79.4401,468,66,206,6,45,125,20,M
+612702,58.77799,0,Darasuram,Thanjavur,Kumbakonam,10.9499,79.3561,564,33,137,312,23,50,9,F
+612703,58.77365,0,Patteeswaram,Thanjavur,Kumbakonam,10.93,79.3477,564,33,137,312,23,50,9,F
+613001,58.74879,0,Manambuchavadi,Thanjavur,Thanjavur,10.7817,79.1512,468,66,206,6,45,125,20,M
+613002,58.71708,0,Kalimedu,Thanjavur,Thanjavur,10.6716,79.2413,564,33,137,312,23,50,9,F
+613003,58.68766,0,Tittai,Thanjavur,Thiruvaiyaru,10.8365,79.1709,564,33,137,312,23,50,9,F
+613004,58.65143,0,Manojipatti,Thanjavur,Thanjavur,10.7661,79.0958,564,33,137,312,23,50,9,F
+613005,58.63774,0,Raja Serfoji Govt College,Thanjavur,Thanjavur,10.8553,79.1064,564,33,137,312,23,50,9,F
+613006,58.6178,0,Vilar,Thanjavur,Thanjavur,10.7313,79.1554,468,66,206,6,45,125,20,M
+613007,58.57838,0,Voc Nagar,Thanjavur,Thanjavur,10.8553,79.1064,468,66,206,6,45,125,20,M
+613008,58.56019,0,Thanjavur North Gate,Thanjavur,Thanjavur,10.8553,79.1064,468,66,206,6,45,125,20,M
+613009,58.55693,0,Srinivasapuram,Thanjavur,Thanjavur,10.9235,79.4329,468,66,206,6,45,125,20,M
+613010,58.54772,0,Tamil University,Thanjavur,Thanjavur,10.8553,79.1064,564,33,137,312,23,50,9,F
+613101,58.54227,0,Konerirajapuram,Thanjavur,Thiruvaiyaru,10.8571,79.014,564,33,137,312,23,50,9,F
+613102,58.51308,0,Thogur,Thanjavur,Thiruvaiyaru,10.1665,78.6746,564,33,137,312,23,50,9,F
+613103,58.50016,0,Thiruvalampozhil,Thanjavur,Thiruvaiyaru,10.7531,78.9445,564,33,137,312,23,50,9,F
+613104,58.46692,0,Kandamangalam,Thanjavur,Thiruvaiyaru,10.8423,78.978,564,33,137,312,23,50,9,F
+613105,58.43497,0,Poondi-TPL,Thanjavur,Thiruvaiyaru,10.8681,78.955,468,66,206,6,45,125,20,M
+613201,58.41554,0,Kalyanapuram,Thanjavur,Thiruvaiyaru,10.8692,79.1088,468,66,206,6,45,125,20,M
+613202,58.37762,0,Kandiyur,Thanjavur,Thiruvaiyaru,10.8609,79.1083,468,66,206,6,45,125,20,M
+613203,58.36322,0,Vaidyanathanpettai,Thanjavur,Thiruvaiyaru,10.8876,79.0604,468,66,206,6,45,125,20,M
+613204,58.35506,0,Someswarapuram,Thanjavur,Papanasam,10.9193,79.1543,468,66,206,6,45,125,20,M
+613205,58.31289,0,Arkadu,Thanjavur,Thiruvaiyaru,10.6716,79.2413,564,33,137,312,23,50,9,F
+613303,58.30199,0,Kurungulam,Thanjavur,Thanjavur,10.6542,79.0995,564,33,137,312,23,50,9,F
+613401,58.28511,0,Vallam Pudur,Thanjavur,Thanjavur,10.7077,79.0212,564,33,137,312,23,50,9,F
+613402,58.26764,0,Rayamundanpatti,Thanjavur,Thanjavur,10.7659,78.8966,468,66,206,6,45,125,20,M
+613403,58.21862,0,Chennampatti,Thanjavur,Thanjavur,10.6974,79.0422,468,66,206,6,45,125,20,M
+613501,58.19796,0,Pulavarnatham,Thanjavur,Papanasam,10.7581,79.201,468,66,206,6,45,125,20,M
+613502,58.18744,0,Jambugambalpuram,Thanjavur,Papanasam,10.7423,79.2398,564,33,137,312,23,50,9,F
+613503,58.15953,0,Sri Pushpam College,Thanjavur,Papanasam,10.7817,79.2462,564,33,137,312,23,50,9,F
+613504,58.1577,0,Palliyur,Thanjavur,Papanasam,10.8135,79.2814,564,33,137,312,23,50,9,F
+613601,58.0863,0,Alakkudi,Thanjavur,Thanjavur,10.7744,79.0522,564,33,137,312,23,50,9,F
+613602,58.06831,0,Avarampatti,Thanjavur,Thanjavur,10.7584,78.9619,468,66,206,6,45,125,20,M
+614201,58.01072,0,Ayyampet,Thanjavur,Papanasam,10.8967,79.1943,564,33,137,312,23,50,9,F
+614202,58.00624,0,Manalur,Thanjavur,Papanasam,10.921,79.173,564,33,137,312,23,50,9,F
+614203,57.97351,0,Sathyamangalam,Thanjavur,Papanasam,10.6716,79.2413,564,33,137,312,23,50,9,F
+614204,57.95393,0,Pandaravadai,Thanjavur,Papanasam,10.9163,79.2399,468,66,206,6,45,125,20,M
+614205,57.94944,0,Papanasam West,Thanjavur,Papanasam,10.9851,78.9832,468,66,206,6,45,125,20,M
+614206,57.93876,0,Pasupathikoil,Thanjavur,Papanasam,10.8621,79.1586,468,66,206,6,45,125,20,M
+614207,57.93548,0,Rajaghiri,Thanjavur,Papanasam,10.9851,78.9832,564,33,137,312,23,50,9,F
+614210,57.92785,0,Valoothoor,Thanjavur,Papanasam,10.9851,78.9832,564,33,137,312,23,50,9,F
+614211,57.91519,0,Chakrapalli,Thanjavur,Papanasam,10.9851,78.9832,564,33,137,312,23,50,9,F
+614301,57.90991,0,Nariyanur,Thanjavur,Papanasam,10.8489,79.2181,564,33,137,312,23,50,9,F
+614303,57.88426,0,Vembakudi,Thanjavur,Papanasam,10.8759,79.2163,564,33,137,312,23,50,9,F
+614401,57.87355,0,Ammapet,Thanjavur,Papanasam,10.7948,79.3199,564,33,137,312,23,50,9,F
+614402,57.85251,0,Tirukoilpathu,Thanjavur,Papanasam,10.7656,79.3219,468,66,206,6,45,125,20,M
+614601,57.80747,0,Pattukottai H.O,Thanjavur,Pattukottai,10.3986,79.2456,468,66,206,6,45,125,20,M
+614602,57.80627,0,Alivalam,Thanjavur,Pattukottai,10.4171,79.2688,564,33,137,312,23,50,9,F
+614612,57.74404,0,Perumagalur,Thanjavur,Peravurani,10.4315,79.2314,564,33,137,312,23,50,9,F
+614613,57.68321,0,Tamarankottai,Thanjavur,Pattukottai,10.3985,79.4004,468,66,206,6,45,125,20,M
+614614,57.63786,0,Uranipuram,Thanjavur,Orathanadu,10.488,79.2016,564,33,137,312,23,50,9,F
+614615,57.59953,0,Aladikkumulai,Thanjavur,Pattukottai,10.4777,79.2669,564,33,137,312,23,50,9,F
+614623,57.58126,0,Paingal,Thanjavur,Peravurni,10.287,79.1301,564,33,137,312,23,50,9,F
+614625,57.5641,0,Pulavankadu,Thanjavur,Orattanad,10.5754,79.2689,564,33,137,312,23,50,9,F
+614626,57.49326,0,Cholagankarai,Thanjavur,Orathanadu,10.5211,79.2512,564,33,137,312,23,50,9,F
+614628,57.45361,0,Tiruchitrambalam,Thanjavur,Peravurni,10.4261,79.2084,564,33,137,312,23,50,9,F
+614701,57.39977,0,Adirampattinam,Thanjavur,Pattukottai,10.3406,79.3791,468,66,206,6,45,125,20,M
+614723,57.30068,0,Andikadu,Thanjavur,Peravurni,10.282,79.3122,468,66,206,6,45,125,20,M
+614802,57.28553,0,Nadiyam,Thanjavur,Peravurni,10.2744,79.2782,468,66,206,6,45,125,20,M
+614803,57.27949,0,Ottangadu,Thanjavur,Peravurni,10.3469,79.2466,564,33,137,312,23,50,9,F
+614804,57.25688,0,Kalagam,Thanjavur,Peravurni,10.3193,79.2422,564,33,137,312,23,50,9,F
+614901,57.19358,0,Sendankadu,Thanjavur,Pattukottai,10.4699,79.3386,564,33,137,312,23,50,9,F
+614902,57.16581,0,Pinnaiyur,Thanjavur,Orattanad,10.5825,79.2201,564,33,137,312,23,50,9,F
+614904,57.0506,0,Melauluvur,Thanjavur,Orathanadu,11.4375,78.6248,468,66,206,6,45,125,20,M
+614905,57.02975,0,Vadaseri,Thanjavur,Orattanad,10.5715,79.3815,468,66,206,6,45,125,20,M
+614906,57.00433,0,Nattuchalai,Thanjavur,Pattukottai,10.4571,79.3728,468,66,206,6,45,125,20,M
+613301,56.99046,0,Valavampatti,Pudukkottai,Gandarvakottai,10.5605,78.9903,133,11,44,1,24,47,6,M
+614616,56.9286,0,Memangalam,Pudukkottai,Arantangi,10.3586,78.8812,133,11,44,1,24,47,6,M
+614617,56.81701,0,Vichchur,Pudukkottai,Manamelkudi,10.3586,78.8812,133,11,44,1,24,47,6,M
+614618,56.80331,0,Amaradakki,Pudukkottai,Avadaiyarkoil,10.4315,79.2314,133,11,44,1,24,47,6,M
+614619,56.77573,0,Jegathapattinam,Pudukkottai,Manamelkudi,10.4315,79.2314,201,10,29,125,19,17,1,F
+614620,56.76975,0,Vellore,Pudukkottai,Manamelkudi,10.3586,78.8812,201,10,29,125,19,17,1,F
+614621,56.76812,0,Poyyadanallur,Pudukkottai,Manamelkudi,10.3586,78.8812,201,10,29,125,19,17,1,F
+614622,56.74644,0,Silattur,Pudukkottai,Arantangi,10.2276,78.9924,201,10,29,125,19,17,1,F
+614624,56.70184,0,Keeramangalam,Pudukkottai,Aranthangi,10.2863,79.0989,133,11,44,1,24,47,6,M
+614629,56.67007,0,Idaiyur,Pudukkottai,Avadaiyarkoil,10.3586,78.8812,133,11,44,1,24,47,6,M
+614630,56.61592,0,Kattumavadi,Pudukkottai,Aranthangi,10.1227,79.2228,201,10,29,125,19,17,1,F
+614801,56.58073,0,Arasarkulam,Pudukkottai,Arantangi,10.5789,79.3245,201,10,29,125,19,17,1,F
+614805,56.56366,0,Amarasimhendrapuram,Pudukkottai,Arantangi,10.5789,79.3245,133,11,44,1,24,47,6,M
+621316,56.53712,0,Viralimalai,Pudukkottai,Illuppur,10.6023,78.5471,133,11,44,1,24,47,6,M
+622001,56.50693,0,Gandhinagar,Pudukkottai,Pudukkottai,10.3559,78.6876,133,11,44,1,24,47,6,M
+622002,56.49059,0,Maravamadurai,Pudukkottai,"",10.3729,78.5516,201,10,29,125,19,17,1,F
+622003,56.44952,0,Rajagopalapuram,Pudukkottai,Pudukkottai,10.3586,78.8812,201,10,29,125,19,17,1,F
+622004,56.41128,0,Rajapatti,Pudukkottai,Pudukkottai,10.3586,78.8812,133,11,44,1,24,47,6,M
+622005,56.39072,0,SanthaNatha puram,Pudukkottai,Pudukkottai,10.3559,78.6876,133,11,44,1,24,47,6,M
+622101,56.3731,0,Chittannavasal,Pudukkottai,Illuppur,10.4636,78.7226,201,10,29,125,19,17,1,F
+622102,56.32539,0,Rappusal,Pudukkottai,Illuppur,10.5266,78.686,133,11,44,1,24,47,6,M
+622103,56.28968,0,Veerapatti,Pudukkottai,Illuppur,10.4761,78.7619,201,10,29,125,19,17,1,F
+622104,56.27991,0,Perumanadu,Pudukkottai,Annavasal,10.3797,78.7424,201,10,29,125,19,17,1,F
+622201,56.26218,0,Kulavaipatti,Pudukkottai,Tirumayam,10.6122,78.4625,201,10,29,125,19,17,1,F
+622202,56.22337,0,Kongudi,Pudukkottai,Tirumayam,10.2018,78.9415,133,11,44,1,24,47,6,M
+622203,56.21048,0,Ganapathipuram,Pudukkottai,Gandarvakottai,10.3586,78.8812,201,10,29,125,19,17,1,F
+622204,56.14568,0,Sithakoor,Pudukkottai,Arantangi,10.067,78.9756,133,11,44,1,24,47,6,M
+622209,56.09734,0,Vambarampatti,Pudukkottai,Thirumayam,10.1532,78.887,201,10,29,125,19,17,1,F
+622301,56.07598,0,Malaiyur,Pudukkottai,Alangudi,10.3586,78.8812,201,10,29,125,19,17,1,F
+622302,56.00248,0,Karambakudi,Pudukkottai,Alangudi,10.3586,78.8812,133,11,44,1,24,47,6,M
+622303,55.96075,0,Vamban,Pudukkottai,Alangudi,10.3752,78.9287,201,10,29,125,19,17,1,F
+622304,55.90962,0,Kottaikadu,Pudukkottai,Alangudi,10.3586,78.8812,133,11,44,1,24,47,6,M
+622401,55.88542,0,Melamelanilai,Pudukkottai,Tirumayam,10.3115,78.4691,133,11,44,1,24,47,6,M
+622402,55.83969,0,Sevalur,Pudukkottai,Tirumayam,10.2966,78.6332,133,11,44,1,24,47,6,M
+622403,55.79169,0,Tirukkalambur,Pudukkottai,Tirumayam,10.2016,78.5029,133,11,44,1,24,47,6,M
+622404,55.77433,0,Kottur,Pudukkottai,Tirumayam,10.3227,78.736,201,10,29,125,19,17,1,F
+622407,55.74091,0,Ponnamaravathy,Pudukkottai,Tirumayam,10.2803,78.536,133,11,44,1,24,47,6,M
+622409,55.72988,0,Mudalipatti,Pudukkottai,Thirumayam,10.3586,78.8812,133,11,44,1,24,47,6,M
+622411,55.71532,0,Kesarapatti,Pudukkottai,Thirumayam,10.3468,78.6818,133,11,44,1,24,47,6,M
+622412,55.71133,0,Gudalur,Pudukkottai,Tirumayam,10.3468,78.6818,133,11,44,1,24,47,6,M
+622422,55.66497,0,Sivapuram,Pudukkottai,Thirumayam,10.3586,78.8812,201,10,29,125,19,17,1,F
+622501,55.63203,0,Satyamangalam,Pudukkottai,Illuppur,10.4807,78.7701,201,10,29,125,19,17,1,F
+622502,55.59306,0,Nanjur,Pudukkottai,Kulathur,10.5789,78.8078,133,11,44,1,24,47,6,M
+622503,55.57398,0,N.Shanmuganathapuri,Pudukkottai,Thirumayam,10.4529,78.7826,201,10,29,125,19,17,1,F
+622504,55.5671,0,Tirumalairayapuram,Pudukkottai,Kulathur,10.5113,78.8207,201,10,29,125,19,17,1,F
+622505,55.52934,0,Panangudi,Pudukkottai,Tirumayam,10.2216,78.7887,201,10,29,125,19,17,1,F
+622506,55.52613,0,Sengirai,Pudukkottai,Tirumayam,10.2575,78.8245,201,10,29,125,19,17,1,F
+622507,55.51837,0,Pilivalam,Pudukkottai,Tirumayam,10.2809,78.7705,133,11,44,1,24,47,6,M
+622515,55.50526,0,Avur,Pudukkottai,Kulathur,10.6601,78.6724,133,11,44,1,24,47,6,M
+623401,55.4821,0,Kalladithidal,Sivaganga,Tiruvadanai,9.7453,78.7669,130,20,32,2,25,40,11,M
+623402,55.48165,0,Muppaiyur,Sivaganga,Devakottai,9.8076,78.833,130,20,32,2,25,40,11,M
+623701,55.47798,0,Kumarakurichi,Sivaganga,Devakottai,9.5282,78.6143,130,20,32,2,25,40,11,M
+630001,55.46858,0,Senjai,Sivaganga,Karaikudi,10.0582,78.7645,130,20,32,2,25,40,11,M
+630002,55.43132,0,Sekkalai,Sivaganga,Karaikudi,10.0801,78.7782,130,20,32,2,25,40,11,M
+630003,55.4127,0,Ae.College,Sivaganga,Karaikudi,8.5913,78.0491,130,20,32,2,25,40,11,M
+630005,55.38647,0,Devakottai Road,Sivaganga,Devakottai,9.5765,78.5306,178,5,15,121,8,26,3,F
+630101,55.37992,0,Attangudi,Sivaganga,Karaikudi,10.1403,78.6648,178,5,15,121,8,26,3,F
+630102,55.37715,0,Chettinad,Sivaganga,Karaikudi,10.12,78.7938,178,5,15,121,8,26,3,F
+630103,55.37487,0,Kanadukathan,Sivaganga,Karaikudi,10.1721,78.7794,178,5,15,121,8,26,3,F
+630104,55.37015,0,Kandanur,Sivaganga,Karaikudi,10.1037,78.8254,178,5,15,121,8,26,3,F
+630105,55.36469,0,Kothamangalam (Sivaganga),Sivaganga,Karaikudi,10.1856,78.8044,178,5,15,121,8,26,3,F
+630106,55.35987,0,Kottaiyur,Sivaganga,Karaikudi,10.1096,78.7956,178,5,15,121,8,26,3,F
+630107,55.35135,0,Pallattur,Sivaganga,Karaikudi,10.1461,78.8031,178,5,15,121,8,26,3,F
+630108,55.34726,0,Jayankondan,Sivaganga,Karaikudi-sakkottaiblock,9.9151,78.5987,130,20,32,2,25,40,11,M
+630201,55.31945,0,A.Thekkur,Sivaganga,Tiruppathur,9.982,78.6934,130,20,32,2,25,40,11,M
+630202,55.31173,0,Ariyakudi,Sivaganga,Karaikudi,9.9151,78.5987,130,20,32,2,25,40,11,M
+630203,55.30219,0,Vaiyakalathur,Sivaganga,Tirupattur,10.2067,78.5944,178,5,15,121,8,26,3,F
+630204,55.29696,0,Naduvikottai,Sivaganga,Tirupathur,9.8104,78.8384,178,5,15,121,8,26,3,F
+630205,55.29414,0,Kilasevalpatti,Sivaganga,Tiruppattur,9.982,78.6934,130,20,32,2,25,40,11,M
+630206,55.28147,0,Koratti,Sivaganga,Karaikudi-kallal Block,9.9151,78.5987,130,20,32,2,25,40,11,M
+630207,55.25291,0,Nachiapuram,Sivaganga,Tiruppattur,10.0804,78.6779,130,20,32,2,25,40,11,M
+630208,55.21315,0,O.Siruvayal,Sivaganga,Tiruppattur,10.1356,78.7239,130,20,32,2,25,40,11,M
+630210,55.20863,0,Kattambur,Sivaganga,Sivaganga,10.0864,78.5783,178,5,15,121,8,26,3,F
+630211,55.20317,0,Alampatti,Sivaganga,Tirupattur,10.1259,78.5347,178,5,15,121,8,26,3,F
+630212,55.16519,0,Sirukudalpatti,Sivaganga,Tiruppattur,10.1444,78.6476,130,20,32,2,25,40,11,M
+630301,55.15668,0,Amaravathipudur,Sivaganga,Devakottai,10.1639,78.5877,130,20,32,2,25,40,11,M
+630302,55.15655,0,Devakottai H.O,Sivaganga,Devakottai,10.1639,78.5877,130,20,32,2,25,40,11,M
+630303,55.13261,0,Hanumanthagudi,Sivaganga,Devakottai,10.3066,78.8028,178,5,15,121,8,26,3,F
+630305,55.0814,0,Kallal,Sivaganga,Karaikudi,9.9869,78.6637,178,5,15,121,8,26,3,F
+630306,55.04203,0,Visalayankottai,Sivaganga,Devakottai,10.1639,78.5877,130,20,32,2,25,40,11,M
+630307,55.03825,0,Kuthalur,Sivaganga,Karaikudi-kallal Block,10.0613,78.7189,130,20,32,2,25,40,11,M
+630309,55.02475,0,Piranpatti,Sivaganga,Tiruppattur-singampunariblock,10.2928,78.3935,130,20,32,2,25,40,11,M
+630311,54.99476,0,Periyakarai,Sivaganga,Devakottai,9.9174,78.7746,130,20,32,2,25,40,11,M
+630312,54.98778,0,Puliyal,Sivaganga,Devakottai,9.8471,78.8631,178,5,15,121,8,26,3,F
+630313,54.97822,0,Sembanur,Sivaganga,Karaikudi,9.9989,78.6317,178,5,15,121,8,26,3,F
+630314,54.96239,0,Shanmuganathapuram,Sivaganga,Devakottai,9.9752,78.8254,130,20,32,2,25,40,11,M
+630321,54.9599,0,Vethiyur,Sivaganga,Devakottai,10.0939,78.6439,130,20,32,2,25,40,11,M
+630405,54.95428,0,Sevvur,Sivaganga,Tiruppattur,10.2472,78.6046,130,20,32,2,25,40,11,M
+630408,54.91386,0,Vilangattur,Sivaganga,Devakottai,9.8329,78.8205,130,20,32,2,25,40,11,M
+630410,54.87493,0,Ulagampatti,Sivaganga,Tiruppattur,10.3216,78.5079,178,5,15,121,8,26,3,F
+630411,54.8429,0,Uruvatti,Sivaganga,Devakottai,9.8159,78.727,130,20,32,2,25,40,11,M
+630501,54.80847,0,Kallampatti,Sivaganga,Tiruppattur-singampunari Block,10.1555,78.4904,130,20,32,2,25,40,11,M
+630502,54.79272,0,Piranmalai,Sivaganga,Tiruppattur-singampunariblock,10.2371,78.4378,130,20,32,2,25,40,11,M
+630551,54.78146,0,Pulikanmoi,Sivaganga,Sivaganga,9.8555,78.5009,178,5,15,121,8,26,3,F
+630552,54.76001,0,Tirumalaikoneripatti,Sivaganga,Sivaganga,9.8555,78.5009,178,5,15,121,8,26,3,F
+630553,54.75774,0,Alavakottai,Sivaganga,Sivaganga,9.9986,78.518,178,5,15,121,8,26,3,F
+630554,54.72892,0,Siramam,Sivaganga,Sivaganga,9.7662,78.6215,130,20,32,2,25,40,11,M
+630555,54.72058,0,Panangudi,Sivaganga,Sivaganga,9.8378,78.5502,130,20,32,2,25,40,11,M
+630556,54.70235,0,Vittaneri,Sivaganga,Sivaganga,9.8352,78.588,130,20,32,2,25,40,11,M
+630557,54.66639,0,Okkur,Sivaganga,Sivaganga,9.9452,78.5219,130,20,32,2,25,40,11,M
+630558,54.65741,0,Paganeri,Sivaganga,Sivaganga,9.95,78.6,178,5,15,121,8,26,3,F
+630559,54.65465,0,Vembattur,Sivaganga,Manamadurai,9.8002,78.387,178,5,15,121,8,26,3,F
+630561,54.64217,0,Sivaganga Courts,Sivaganga,Sivaganga,10.0047,78.435,178,5,15,121,8,26,3,F
+630562,54.6125,0,Kandangipatti,Sivaganga,Sivaganga,9.9159,78.4207,130,20,32,2,25,40,11,M
+630566,54.53801,0,Mallakottai,Sivaganga,Tirupattur,10.0471,78.4638,178,5,15,121,8,26,3,F
+630602,54.53504,0,Muthanendhal,Sivaganga,Manamadurai,9.8282,78.286,178,5,15,121,8,26,3,F
+630606,54.51688,0,Manamadurai Town,Sivaganga,Manamadurai,9.8282,78.286,178,5,15,121,8,26,3,F
+630609,54.48286,0,Kattikulam,Sivaganga,Manamadurai,9.7008,78.3723,130,20,32,2,25,40,11,M
+630610,54.44624,0,Kattanur,Sivaganga,Manamadurai,9.7557,78.7326,178,5,15,121,8,26,3,F
+630611,54.4017,0,Tiruppuvanam,Sivaganga,Manamadurai,9.8256,78.258,130,20,32,2,25,40,11,M
+630612,54.3566,0,Pottapalayam,Sivaganga,Tiruppuvanam,9.9846,78.1704,178,5,15,121,8,26,3,F
+630702,54.35239,0,Kottaiyur,Sivaganga,Ilayangudi,10.1096,78.7956,178,5,15,121,8,26,3,F
+630709,54.31097,0,Thayamangalam,Sivaganga,Ilayangudi,9.6804,78.6076,130,20,32,2,25,40,11,M
+630710,54.27194,0,Samudram,Sivaganga,Ilayangudi,9.9151,78.5987,178,5,15,121,8,26,3,F
+630713,54.22601,0,Sakkur,Sivaganga,Ilayangudi,9.7167,78.7009,178,5,15,121,8,26,3,F
+625001,54.17597,0,South Gate,Madurai,Madurai South,10.0042,78.1748,425,53,108,5,111,111,37,M
+625002,54.13592,0,Sellur (Madurai),Madurai,Madurai North,9.9321,78.1228,425,53,108,5,111,111,37,M
+625003,54.10724,0,Madakkulam,Madurai,Madurai South,9.9181,78.0807,599,19,49,433,42,49,7,F
+625004,54.08392,0,Pasumalai,Madurai,Madurai South,9.8961,78.0813,599,19,49,433,42,49,7,F
+625005,54.07371,0,Nilaiyur,Madurai,Madurai South,9.8572,78.0598,599,19,49,433,42,49,7,F
+625006,54.06027,0,Tirunagar,Madurai,Madurai South,10.0042,78.1748,599,19,49,433,42,49,7,F
+625007,54.031,0,K.Pudur,Madurai,"",10.0042,78.1748,599,19,49,433,42,49,7,F
+625008,54.0187,0,Kappalur,Madurai,Tirumangalam,9.8444,78.0164,425,53,108,5,111,111,37,M
+625009,53.99842,0,Chintamani,Madurai,Madurai North,9.8927,78.1392,425,53,108,5,111,111,37,M
+625011,53.95558,0,Jaihindpuram,Madurai,Madurai South,9.9485,78.1616,599,19,49,433,42,49,7,F
+625012,53.95484,0,Villapuram,Madurai,Madurai South,9.9,78.1222,599,19,49,433,42,49,7,F
+625014,53.9539,0,Tiruppalai,Madurai,Madurai North,9.9779,78.1329,599,19,49,433,42,49,7,F
+625015,53.91678,0,Thiagarajar Engg College,Madurai,Madurai South,9.9485,78.1616,599,19,49,433,42,49,7,F
+625016,53.90852,0,Ponmeni,Madurai,Madurai North,9.9234,78.0898,599,19,49,433,42,49,7,F
+625017,53.86081,0,Vagaikulam,Madurai,Madurai North,9.921,78.0063,425,53,108,5,111,111,37,M
+625018,53.8477,0,Kumaram,Madurai,Madurai North,10.0086,78.0933,425,53,108,5,111,111,37,M
+625019,53.82462,0,Vadivelkarai,Madurai,Madurai North,9.9174,78.0546,425,53,108,5,111,111,37,M
+625020,53.79795,0,Andarkottaram,Madurai,Madurai North,9.907,78.1812,599,19,49,433,42,49,7,F
+625021,53.77591,0,Vadapalanji,Madurai,Madurai South,9.9266,78.0096,599,19,49,433,42,49,7,F
+625022,53.76713,0,Perungudi,Madurai,Madurai South,9.8556,78.0908,599,19,49,433,42,49,7,F
+625023,53.74065,0,Madras High Court Madurai Bench,Madurai,Madurai North,9.8751,78.1488,599,19,49,433,42,49,7,F
+625101,53.73987,0,Kunnarampatti,Madurai,Melur,10.2013,78.3205,599,19,49,433,42,49,7,F
+625102,53.70852,0,Malampatti,Madurai,Melur,10.07,78.4443,425,53,108,5,111,111,37,M
+625103,53.69879,0,Kottampatti,Madurai,Melur,10.2203,78.3766,425,53,108,5,111,111,37,M
+625104,53.65962,0,Arumbanur,Madurai,Melur,9.9944,78.1924,599,19,49,433,42,49,7,F
+625105,53.65799,0,Pattur,Madurai,Melur,10.1395,78.3117,599,19,49,433,42,49,7,F
+625106,53.63444,0,Arittapatti,Madurai,Melur,10.0375,78.2848,599,19,49,433,42,49,7,F
+625107,53.59873,0,Rajakkur,Madurai,Melur,9.9272,78.2389,425,53,108,5,111,111,37,M
+625108,53.58431,0,Budamangalam,Madurai,Melur,10.1029,78.3842,425,53,108,5,111,111,37,M
+625109,53.54317,0,Vellalur,Madurai,Melur,9.9939,78.3981,425,53,108,5,111,111,37,M
+625110,53.51199,0,Tiruvadur,Madurai,Madurai North,9.9549,78.3155,599,19,49,433,42,49,7,F
+625122,53.4883,0,Chittampatti,Madurai,Melur,9.921,78.0063,599,19,49,433,42,49,7,F
+625201,53.45403,0,Sakkimangalam,Madurai,Madurai South,9.8812,78.1924,599,19,49,433,42,49,7,F
+625205,53.44466,0,Irumbadi,Madurai,Vadipatti,9.4883,77.664,599,19,49,433,42,49,7,F
+625207,53.43469,0,Kadupatti,Madurai,Thirumangalam,9.921,78.0063,425,53,108,5,111,111,37,M
+625214,53.40937,0,Sholavandan,Madurai,Vadipatti,10.0216,77.9609,425,53,108,5,111,111,37,M
+625218,53.40556,0,Andipatti,Madurai,Vadipatti,9.9711,78.3267,425,53,108,5,111,111,37,M
+625221,53.39901,0,Kondayampatti,Madurai,Vadipatti,9.921,78.0063,599,19,49,433,42,49,7,F
+625234,53.38127,0,Kodimangalam,Madurai,Madurai South,10.0062,78.1578,599,19,49,433,42,49,7,F
+625301,53.36168,0,Mangulam,Madurai,Melur,10.0335,78.243,599,19,49,433,42,49,7,F
+625402,53.30468,0,Samayanallur,Madurai,Vadipatti,9.9792,78.0359,425,53,108,5,111,111,37,M
+625501,53.26131,0,Mettupatti,Madurai,"",9.9982,78.2151,425,53,108,5,111,111,37,M
+625503,53.21419,0,Palamedu,Madurai,Vadipatti,10.105,78.1134,599,19,49,433,42,49,7,F
+625514,53.1936,0,Chettikulam,Madurai,Usilampatti,9.995,78.1462,599,19,49,433,42,49,7,F
+625527,53.13266,0,Allikundam,Madurai,Peraiyur,9.8867,77.3673,425,53,108,5,111,111,37,M
+625529,53.07,0,T.Uchapatti,Madurai,Usilampatti,9.8867,77.3673,599,19,49,433,42,49,7,F
+625532,53.03788,0,Nattamangalam,Madurai,Usilampatti,9.9399,78.2375,599,19,49,433,42,49,7,F
+625535,52.97088,0,Sulapuram,Madurai,Peraiyur,9.8378,77.686,425,53,108,5,111,111,37,M
+625537,52.91619,0,Ayyanarkulam,Madurai,Usilampatti,9.921,78.0063,599,19,49,433,42,49,7,F
+625701,52.89894,0,Vadakkampatti,Madurai,Thirumangalam,9.921,78.0063,599,19,49,433,42,49,7,F
+625702,52.85279,0,Silarpatti,Madurai,Tirumangalam,9.8112,77.7318,425,53,108,5,111,111,37,M
+625703,52.81509,0,Peraiyur (Madurai),Madurai,Peraiyur,9.7358,77.7896,425,53,108,5,111,111,37,M
+625704,52.79251,0,Kilavaneri,Madurai,Tirumangalam,9.921,78.0063,425,53,108,5,111,111,37,M
+625705,52.75831,0,Palaiyur,Madurai,Usilampatti,9.9528,78.3088,599,19,49,433,42,49,7,F
+625706,52.72348,0,Vagaikulam,Madurai,"",9.921,78.0063,599,19,49,433,42,49,7,F
+625707,52.63041,0,Villur,Madurai,Tirumangalam Taluk,9.7561,77.9748,599,19,49,433,42,49,7,F
+625708,52.61628,0,T.Kunnathur,Madurai,Peraiyur,9.7561,77.9748,425,53,108,5,111,111,37,M
+625203,52.59872,0,Genguvarpatti,Theni,Periyakulam,10.058,78.0743,154,23,27,2,41,43,18,M
+625512,52.59374,0,Ammapatti,Theni,Andipatti,10.0415,77.5244,154,23,27,2,41,43,18,M
+625513,52.57568,0,Bodinayakanur H.O,Theni,Bodinayakanur,9.9603,77.7791,219,14,15,151,11,22,6,F
+625515,52.56748,0,Kujjanur,Theni,Uthamapalayam,9.8743,77.3747,219,14,15,151,11,22,6,F
+625516,52.51963,0,Cumbum (Theni),Theni,Uthamapalayam,9.7365,77.2847,154,23,27,2,41,43,18,M
+625517,52.50291,0,Okkaraipatti,Theni,Andipatti,9.963,77.5704,219,14,15,151,11,22,6,F
+625518,52.4924,0,Gudalur,Theni,Uthamapalayam,9.6783,77.2495,219,14,15,151,11,22,6,F
+625519,52.47834,0,Manalar,Theni,Uthamapalayam,9.9603,77.7791,219,14,15,151,11,22,6,F
+625520,52.47356,0,Dharmapuri,Theni,Periyakulam,9.8967,77.4426,154,23,27,2,41,43,18,M
+625521,52.46483,0,Narayanathevanpatti,Theni,Uthamapalayam,9.8867,77.3673,154,23,27,2,41,43,18,M
+625522,52.45948,0,Kombai,Theni,Uthamapalayam,9.8475,77.296,154,23,27,2,41,43,18,M
+625523,52.45913,0,Saruthupatti,Theni,Uthamapalayam,9.8112,77.4123,219,14,15,151,11,22,6,F
+625524,52.44709,0,Pannaipuram,Theni,Uthamapalayam,9.8658,77.2836,219,14,15,151,11,22,6,F
+625525,52.4314,0,Periyar Project,Theni,Uthamapalayam,9.8867,77.3673,219,14,15,151,11,22,6,F
+625526,52.42253,0,Anamalayanpatti,Theni,Uthamapalayam,9.7885,77.3443,219,14,15,151,11,22,6,F
+625528,52.40587,0,Nagalapuram,Theni,Bodinayakanur,9.9448,77.4852,219,14,15,151,11,22,6,F
+625530,52.38425,0,Thamminayakanpatti,Theni,Uthamapalayam,9.914,77.3018,154,23,27,2,41,43,18,M
+625531,52.36677,0,Annanji,Theni,Theni,10.0424,77.5047,154,23,27,2,41,43,18,M
+625533,52.31683,0,Uthamapalayam,Theni,Uthamapalayam,9.807,77.3272,219,14,15,151,11,22,6,F
+625534,52.30883,0,Koduvilarpatti,Theni,Theni,9.9695,77.4915,219,14,15,151,11,22,6,F
+625536,52.26843,0,Rajagopalanpatti,Theni,Andipatti,10.0069,77.6451,154,23,27,2,41,43,18,M
+625540,52.23848,0,Sukkangalpatti,Theni,Uthamapalayam,9.8382,77.4322,219,14,15,151,11,22,6,F
+625556,52.214,0,C.Pudupatti,Theni,Uthamapalayam,9.9392,77.7329,219,14,15,151,11,22,6,F
+625562,52.21335,0,Koilpatti,Theni,Periyakulam,9.8902,77.4394,219,14,15,151,11,22,6,F
+625579,52.20053,0,Siraparai,Theni,Andipatti,9.9392,77.7329,219,14,15,151,11,22,6,F
+625582,52.1626,0,Kottagudi,Theni,Bodinayakanur,10.0789,77.2623,154,23,27,2,41,43,18,M
+625601,52.11718,0,Vadagarai,Theni,Periyakulam,9.8902,77.4394,219,14,15,151,11,22,6,F
+625602,52.09197,0,Silvarpatti,Theni,Periyakulam,9.8994,77.2904,219,14,15,151,11,22,6,F
+625603,52.0697,0,Vadugapatti,Theni,Periyakulam,9.8902,77.4394,154,23,27,2,41,43,18,M
+625604,52.06504,0,Nallakaruppanpatti,Theni,Periyakulam,10.1197,77.6089,154,23,27,2,41,43,18,M
+625605,52.06186,0,Agamalai,Theni,Periyakulam,10.1094,77.4216,154,23,27,2,41,43,18,M
+626001,52.01986,0,Virudhunagar Bazaar,Virudhunagar,Virudhunagar,10.9844,78.4673,171,29,31,1,48,49,13,M
+626002,51.99065,0,Virudhunagar Collectorate,Virudhunagar,Virudhunagar,10.9844,78.4673,171,29,31,1,48,49,13,M
+626003,51.98206,0,Inamreddiapatti,Virudhunagar,Virudhunagar,10.9844,78.4673,171,29,31,1,48,49,13,M
+626004,51.96918,0,Malaipatti,Virudhunagar,Aruppukkottai,9.4825,78.0053,249,9,15,193,12,16,4,F
+626005,51.91488,0,Mullipatti,Virudhunagar,Virudhunagar,9.4841,77.9428,249,9,15,193,12,16,4,F
+626101,51.90396,0,Aruppukottai West,Virudhunagar,Aruppukkottai,9.5287,78.1321,249,9,15,193,12,16,4,F
+626102,51.89006,0,Ramalingapuram,Virudhunagar,Sattur,9.4825,78.0053,171,29,31,1,48,49,13,M
+626103,51.88341,0,Pudukottai,Virudhunagar,Sivakasi,9.4841,77.9428,171,29,31,1,48,49,13,M
+626104,51.87712,0,Vakkanangundu,Virudhunagar,Kariapatti,9.6307,78.0971,171,29,31,1,48,49,13,M
+626105,51.84613,0,Kallurani,Virudhunagar,Aruppukottai,9.4694,78.1625,171,29,31,1,48,49,13,M
+626106,51.83338,0,Allalaperi,Virudhunagar,Kariapatti,9.6498,78.1797,249,9,15,193,12,16,4,F
+626107,51.79184,0,Kovilangulam,Virudhunagar,Aruppukottai,9.5287,78.1321,249,9,15,193,12,16,4,F
+626108,51.76391,0,Chockalingapuram,Virudhunagar,Rajapalayam,9.4841,77.9428,171,29,31,1,48,49,13,M
+626109,51.7446,0,Mallanginar,Virudhunagar,Kariapatti,9.5287,78.1321,171,29,31,1,48,49,13,M
+626110,51.73485,0,Mohamed Sahibpuram,Virudhunagar,Rajapalayam,9.443,77.8389,171,29,31,1,48,49,13,M
+626111,51.73212,0,Pottalpatti,Virudhunagar,Rajapalayam,9.3649,77.4997,249,9,15,193,12,16,4,F
+626112,51.72096,0,T.Meenakshipuram,Virudhunagar,Aruppukottai,9.443,77.8389,249,9,15,193,12,16,4,F
+626113,51.67249,0,Pandalgudi,Virudhunagar,Aruppukottai,9.443,77.8389,249,9,15,193,12,16,4,F
+626114,51.67191,0,Sengulam,Virudhunagar,Aruppukottai,9.3303,78.2914,249,9,15,193,12,16,4,F
+626115,51.64414,0,Sethu Institute of Technology,Virudhunagar,Kariapatti,9.7403,78.1007,171,29,31,1,48,49,13,M
+626116,51.62719,0,W Pudupatti,Virudhunagar,Srivilliputhur,9.443,77.8389,171,29,31,1,48,49,13,M
+626117,51.62106,0,Rajapalayam Bazzar,Virudhunagar,Rajapalayam,9.443,77.8389,249,9,15,193,12,16,4,F
+626118,51.59854,0,Pungamarathupatti,Virudhunagar,Aruppukkottai,9.4224,78.219,249,9,15,193,12,16,4,F
+626119,51.58455,0,Sankaralingapuram,Virudhunagar,Virudhunagar,9.3733,77.5853,249,9,15,193,12,16,4,F
+626121,51.58185,0,Seithur,Virudhunagar,Rajapalayam,9.4056,77.4784,249,9,15,193,12,16,4,F
+626122,51.56986,0,Settiyarpatti,Virudhunagar,Rajapalayam,9.3935,77.4935,249,9,15,193,12,16,4,F
+626123,51.56591,0,Sivakasi Bazzar,Virudhunagar,Sivakasi,9.5073,77.9056,249,9,15,193,12,16,4,F
+626124,51.55237,0,Kakkivadanpatti,Virudhunagar,Sivakasi,9.4034,77.7254,249,9,15,193,12,16,4,F
+626125,51.52508,0,Srivilliputhur,Virudhunagar,Srivilliputhur,9.5127,77.6337,171,29,31,1,48,49,13,M
+626126,51.50218,0,S.Ramachandrapuram,Virudhunagar,Srivilliputhur,9.5073,77.9056,171,29,31,1,48,49,13,M
+626127,51.4948,0,Lakshmipuram,Virudhunagar,Sivakasi,9.3859,78.049,171,29,31,1,48,49,13,M
+626128,51.47893,0,Vetrilaiyurani,Virudhunagar,Sivakasi,9.5073,77.9056,249,9,15,193,12,16,4,F
+626129,51.46445,0,Anaikulam,Virudhunagar,Tiruchuli,9.4841,77.9428,249,9,15,193,12,16,4,F
+626130,51.43571,0,Alamarathupatti,Virudhunagar,Sivakasi,9.4721,77.8409,249,9,15,193,12,16,4,F
+626131,51.43132,0,Vembakottai,Virudhunagar,Sivakasi,9.3333,77.7667,171,29,31,1,48,49,13,M
+626132,51.42484,0,Watrap,Virudhunagar,Srivilliputhur,9.6364,77.6388,171,29,31,1,48,49,13,M
+626133,51.42273,0,Kansapuram,Virudhunagar,Srivilliputtur,9.6302,77.6018,171,29,31,1,48,49,13,M
+626134,51.41115,0,Chidambarapuram,Virudhunagar,Aruppukkottai,9.4361,78.0834,249,9,15,193,12,16,4,F
+626135,51.39606,0,Srivilliputhur Court Complexe,Virudhunagar,Srivilliputhur,9.4835,77.7979,249,9,15,193,12,16,4,F
+626136,51.38942,0,Vadakarai,Virudhunagar,Rajapalayam,9.3379,77.6227,249,9,15,193,12,16,4,F
+626137,51.36271,0,Pillayarkulam,Virudhunagar,Srivilliputhur,9.4835,77.7979,171,29,31,1,48,49,13,M
+626138,51.34454,0,Mangalam,Virudhunagar,Sivakasi,9.4841,77.9428,171,29,31,1,48,49,13,M
+626139,51.31437,0,Kilavikulam,Virudhunagar,Rajapalayam,9.3602,77.5865,249,9,15,193,12,16,4,F
+626140,51.30375,0,Sevalpatti,Virudhunagar,Sattur,9.6643,78.0978,249,9,15,193,12,16,4,F
+626141,51.30087,0,Achankulam,Virudhunagar,Sivakasi,9.4045,77.5768,249,9,15,193,12,16,4,F
+626142,51.28466,0,Sundararajapuram,Virudhunagar,Rajapalayam,9.4841,77.9428,249,9,15,193,12,16,4,F
+626149,51.27246,0,Kadaneri,Virudhunagar,Srivilliputtur,9.6294,77.7217,171,29,31,1,48,49,13,M
+626161,51.2613,0,Athipatti,Virudhunagar,Aruppukottai,9.4806,77.8738,171,29,31,1,48,49,13,M
+626188,51.25788,0,Dhalavaipuram,Virudhunagar,Rajapalayam,9.2927,77.7657,171,29,31,1,48,49,13,M
+626189,51.2564,0,Naranapuram,Virudhunagar,Sivakasi,9.4841,77.9428,249,9,15,193,12,16,4,F
+626201,51.21232,0,Karisalpatti,Virudhunagar,Sattur,9.4841,77.9428,249,9,15,193,12,16,4,F
+626202,51.20426,0,Chockalingapuram,Virudhunagar,Sattur,9.4841,77.9428,249,9,15,193,12,16,4,F
+626203,51.19388,0,Sattur,Virudhunagar,Sattur,9.3559,77.9246,171,29,31,1,48,49,13,M
+626204,51.13324,0,Pudupatti,Virudhunagar,Virudhunagar,9.4841,77.9428,249,9,15,193,12,16,4,F
+626205,51.1038,0,Odaipatti,Virudhunagar,Sattur,9.4841,77.9428,249,9,15,193,12,16,4,F
+626607,51.07056,0,Alagapuri,Virudhunagar,Tiruchuli,9.68,78.2597,171,29,31,1,48,49,13,M
+626612,51.02965,0,Viracholan,Virudhunagar,Tiruchuli,9.5489,78.3625,171,29,31,1,48,49,13,M
+623115,51.02317,0,Pammanendal,Ramanathapuram,Kamuthi,9.4401,78.6733,128,14,21,3,32,47,11,M
+623120,50.98138,0,Pillaiyarkulam,Ramanathapuram,Kadaladi,9.2067,78.4383,128,14,21,3,32,47,11,M
+623135,50.95825,0,Kannirajapuram,Ramanathapuram,Kadaladi,9.1053,78.3833,192,8,15,123,9,33,4,F
+623308,50.94216,0,Kavalaivendran,Ramanathapuram,Tiruvadanai,9.8845,78.9271,192,8,15,123,9,33,4,F
+623315,50.91642,0,Vellayapuram,Ramanathapuram,Tiruvadanai,9.8661,78.936,192,8,15,123,9,33,4,F
+623403,50.8821,0,Karankadu,Ramanathapuram,Tiruvadanai,9.6474,78.9581,128,14,21,3,32,47,11,M
+623404,50.87157,0,Pandugudi,Ramanathapuram,Tiruvadanai,9.9429,78.7604,128,14,21,3,32,47,11,M
+623406,50.86215,0,Oriyur,Ramanathapuram,Tiruvadanai,9.4401,78.6733,192,8,15,123,9,33,4,F
+623407,50.84564,0,Athiyur,Ramanathapuram,Tiruvadanai,9.4401,78.6733,192,8,15,123,9,33,4,F
+623409,50.83418,0,Tondi,Ramanathapuram,Tiruvadanai,9.7417,79.0177,192,8,15,123,9,33,4,F
+623501,50.81694,0,Ramanathapuram Bazaar,Ramanathapuram,Ramanathapuram,9.0426,78.0503,128,14,21,3,32,47,11,M
+623502,50.80519,0,Mudalur,Ramanathapuram,Ramanathapuram,9.4401,78.6733,128,14,21,3,32,47,11,M
+623503,50.725,0,Ramanathapuram Collectorate,Ramanathapuram,Ramanathapuram,9.0426,78.0503,128,14,21,3,32,47,11,M
+623504,50.71833,0,Sakkarakottai,Ramanathapuram,Ramanathapuram,9.4401,78.6733,192,8,15,123,9,33,4,F
+623512,50.6782,0,Athankarai,Ramanathapuram,Ramanathapuram,9.2881,78.9143,192,8,15,123,9,33,4,F
+623513,50.65655,0,Chitharkottai,Ramanathapuram,Ramanathapuram,9.2881,78.9143,128,14,21,3,32,47,11,M
+623514,50.64962,0,Devipattinam,Ramanathapuram,Ramanathapuram,9.4776,78.8956,128,14,21,3,32,47,11,M
+623515,50.63288,0,Ervadi,Ramanathapuram,Kadaladi,9.2246,78.7091,128,14,21,3,32,47,11,M
+623516,50.63132,0,Irumeni,Ramanathapuram,Ramanathapuram,9.3081,79.0317,128,14,21,3,32,47,11,M
+623517,50.61694,0,Kilakarai,Ramanathapuram,Ramanathapuram,9.2318,78.7854,192,8,15,123,9,33,4,F
+623518,50.60656,0,Thonithurai,Ramanathapuram,Ramanathapuram,9.2757,79.1236,192,8,15,123,9,33,4,F
+623519,50.60568,0,Vedalai,Ramanathapuram,Ramanathapuram,9.2691,79.1073,192,8,15,123,9,33,4,F
+623520,50.60045,0,Marine Fisheries,Ramanathapuram,Ramanathapuram,9.4263,78.8147,128,14,21,3,32,47,11,M
+623521,50.59685,0,Akkamadam,Ramanathapuram,Rameswaram,9.279,79.2109,128,14,21,3,32,47,11,M
+623522,50.59247,0,Panaikulam,Ramanathapuram,Ramanathapuram,9.3756,78.954,128,14,21,3,32,47,11,M
+623523,50.58902,0,Kumbaram,Ramanathapuram,Ramanathapuram,9.2726,78.9023,128,14,21,3,32,47,11,M
+623524,50.54468,0,Pudumadam,Ramanathapuram,Ramanathapuram,9.4263,78.8147,192,8,15,123,9,33,4,F
+623525,50.53585,0,Kavanur,Ramanathapuram,Tiruvadanai,9.6062,78.8953,192,8,15,123,9,33,4,F
+623526,50.52741,0,Rameswaram,Ramanathapuram,Rameswaram,9.4401,78.6733,192,8,15,123,9,33,4,F
+623527,50.51391,0,Valanadu,Ramanathapuram,Paramakudi,9.3538,78.6642,192,8,15,123,9,33,4,F
+623528,50.46827,0,Valinokkam,Ramanathapuram,Kadaladi,9.1637,78.6458,128,14,21,3,32,47,11,M
+623529,50.46359,0,Thangachimadam,Ramanathapuram,Rameswaram,9.4263,78.8147,128,14,21,3,32,47,11,M
+623530,50.45705,0,Kavanur (TOR),Ramanathapuram,Ramanathapuram,9.5852,78.5963,192,8,15,123,9,33,4,F
+623531,50.43601,0,Sambai,Ramanathapuram,Tiruvadanai,9.6992,78.9812,192,8,15,123,9,33,4,F
+623532,50.42784,0,Melapudukudi,Ramanathapuram,Ramanathapuram,9.616,78.7402,192,8,15,123,9,33,4,F
+623533,50.40997,0,Mallal,Ramanathapuram,Ramanathapuram,9.3331,78.7121,128,14,21,3,32,47,11,M
+623534,50.39997,0,Rettaiyurani,Ramanathapuram,Ramanathapuram,9.6559,78.8507,128,14,21,3,32,47,11,M
+623536,50.38737,0,Sathankulam,Ramanathapuram,Ramanathapuram,9.4401,78.6733,192,8,15,123,9,33,4,F
+623537,50.35231,0,Naranamangalam,Ramanathapuram,Tiruvadanai,9.5299,78.8616,128,14,21,3,32,47,11,M
+623538,50.32784,0,Gudalur,Ramanathapuram,Tiruvadanai,9.7278,78.852,128,14,21,3,32,47,11,M
+623566,50.25327,0,Ervadi Dargha,Ramanathapuram,Kadaladi,9.4399,78.7716,192,8,15,123,9,33,4,F
+623601,50.24685,0,Anaiyur,Ramanathapuram,Kamudhi,9.3891,78.4374,192,8,15,123,9,33,4,F
+623603,50.21328,0,Kamudi,Ramanathapuram,Kamudhi,9.4073,78.3734,192,8,15,123,9,33,4,F
+623604,50.15456,0,Pakkuvetti,Ramanathapuram,Kamudhi,9.3755,78.4144,192,8,15,123,9,33,4,F
+623605,50.15203,0,Eluvanur,Ramanathapuram,Kamudi,9.5016,78.3629,192,8,15,123,9,33,4,F
+623608,50.13983,0,Pudukudi,Ramanathapuram,Paramakudi,9.4401,78.6733,192,8,15,123,9,33,4,F
+623703,50.09443,0,Oppilan,Ramanathapuram,Kadaladi,9.1423,78.5052,128,14,21,3,32,47,11,M
+623704,50.05444,0,Mudukulathur,Ramanathapuram,Mudukulathur,9.3417,78.5139,128,14,21,3,32,47,11,M
+623705,50.01805,0,Gangaikondan,Ramanathapuram,Ramanathapuram,9.4401,78.6733,128,14,21,3,32,47,11,M
+623706,49.97575,0,Kilathooval,Ramanathapuram,Paramakudi,9.7088,78.3607,192,8,15,123,9,33,4,F
+623707,49.95694,0,Paramakudi Bazaar,Ramanathapuram,Paramakudi,9.5066,78.499,128,14,21,3,32,47,11,M
+623708,49.94574,0,Peraiyur (Ramanathapuram),Ramanathapuram,Mudukulathur,9.3571,78.4494,128,14,21,3,32,47,11,M
+623711,49.93129,0,Kakkur,Ramanathapuram,Mudukulathur,9.3502,78.5696,192,8,15,123,9,33,4,F
+623712,49.91743,0,Misal,Ramanathapuram,Mudukulathur,9.3798,78.6077,128,14,21,3,32,47,11,M
+623806,49.90576,0,Sathaksalai,Ramanathapuram,Ramanathapuram,9.5148,78.6237,128,14,21,3,32,47,11,M
+627758,49.89989,0,Vellanaikottai,Tuticorin,Kovilpatti,9.2307,77.4469,212,28,44,1,54,67,18,M
+627855,49.89416,0,Punniahpuram,Tuticorin,Tirunelveli,9.1749,77.398,212,28,44,1,54,67,18,M
+628001,49.88861,0,Vadakkur Tuticorin,Tuticorin,Thoothukkudi,8.4083,78.0591,212,28,44,1,54,67,18,M
+628002,49.88183,0,Melur Tuticorin,Tuticorin,Thoothukkudi,8.7481,78.0333,212,28,44,1,54,67,18,M
+628003,49.8355,0,C.G.S. Colony,Tuticorin,Thoothukkudi,8.5782,78.0462,276,10,17,196,23,27,3,F
+628004,49.82452,0,Tuticorin Harbour Estate,Tuticorin,Thoothukkudi,8.5782,78.0462,276,10,17,196,23,27,3,F
+628005,49.82191,0,Mullaakadu,Tuticorin,Tuticorin,8.5782,78.0462,276,10,17,196,23,27,3,F
+628006,49.81247,0,Thermal Nagagr,Tuticorin,Thoothukkudi,8.5782,78.0462,212,28,44,1,54,67,18,M
+628007,49.80701,0,Heavy Water Project Colony,Tuticorin,Thoothukkudi,8.5782,78.0462,212,28,44,1,54,67,18,M
+628008,49.80612,0,Madathur,Tuticorin,"",8.5782,78.0462,212,28,44,1,54,67,18,M
+628101,49.79629,0,Korampollam,Tuticorin,Tuticorin,9.4394,78.1091,276,10,17,196,23,27,3,F
+628102,49.76799,0,Mudittanendal,Tuticorin,Srivaikuntam,8.7211,77.9935,276,10,17,196,23,27,3,F
+628103,49.75409,0,Pudukottai,Tuticorin,Thoothukkudi,8.8908,78.0044,276,10,17,196,23,27,3,F
+628104,49.73817,0,Chockalingapuram,Tuticorin,Srivaikuntam,8.8908,78.0044,276,10,17,196,23,27,3,F
+628105,49.73238,0,Taruvaikulam,Tuticorin,Otapidaram,9.2112,78.0998,212,28,44,1,54,67,18,M
+628151,49.72466,0,Mukkani,Tuticorin,Tiruchendur,8.6366,78.0754,212,28,44,1,54,67,18,M
+628152,49.67772,0,Agaram,Tuticorin,Tiruchendur,8.6582,78.0737,276,10,17,196,23,27,3,F
+628201,49.66416,0,Ammanpuram,Tuticorin,Tiruchendur,8.5618,78.0629,276,10,17,196,23,27,3,F
+628202,49.65422,0,Arumuganeri,Tuticorin,Tiruchendur,8.5688,78.0909,276,10,17,196,23,27,3,F
+628203,49.64126,0,Pudumanai,Tuticorin,Tiruchendur,8.4227,78.0281,276,10,17,196,23,27,3,F
+628204,49.62661,0,Kayalpatnam,Tuticorin,Tiruchendur,8.5714,78.1199,212,28,44,1,54,67,18,M
+628205,49.61816,0,Nathankinar,Tuticorin,Tiruchendur,8.4942,78.0686,212,28,44,1,54,67,18,M
+628206,49.5816,0,Kulasekarapatnam,Tuticorin,Tiruchendur,8.3988,78.052,276,10,17,196,23,27,3,F
+628207,49.55513,0,Nallur,Tuticorin,Tiruchendur,8.5851,78.0562,212,28,44,1,54,67,18,M
+628208,49.54681,0,Manaduthandapathu,Tuticorin,Tiruchendur,8.5098,78.0641,212,28,44,1,54,67,18,M
+628209,49.54577,0,Manapad,Tuticorin,Tiruchendur,8.3773,78.0563,212,28,44,1,54,67,18,M
+628210,49.54529,0,Anaiyur,Tuticorin,Tiruchendur,8.8908,78.0044,212,28,44,1,54,67,18,M
+628211,49.5391,0,Nalumavadi,Tuticorin,Tiruchendur,8.5785,78.0317,212,28,44,1,54,67,18,M
+628212,49.52853,0,Viramanickam,Tuticorin,Tiruchendur,8.5999,78.0695,276,10,17,196,23,27,3,F
+628213,49.5263,0,Paramankurichi,Tuticorin,Tiruchendur,8.4785,78.0465,276,10,17,196,23,27,3,F
+628215,49.513,0,Amalinagar,Tuticorin,Tiruchendur,8.5999,78.0695,276,10,17,196,23,27,3,F
+628216,49.49414,0,Virapandianpatanam,Tuticorin,Tiruchendur,8.5999,78.0695,276,10,17,196,23,27,3,F
+628217,49.48895,0,Adaikalapuram,Tuticorin,Tiruchendur,8.4062,77.9734,276,10,17,196,23,27,3,F
+628218,49.48529,0,Vallivilai,Tuticorin,Tiruchendur,8.5372,78.0568,276,10,17,196,23,27,3,F
+628219,49.47765,0,Vellalanvilai,Tuticorin,Tiruchendur,8.4692,78.0388,212,28,44,1,54,67,18,M
+628229,49.46498,0,Sahupuram,Tuticorin,Tiruchendur,8.5592,78.0477,212,28,44,1,54,67,18,M
+628251,49.46151,0,Naduvakurichi,Tuticorin,Srivaikuntam,8.3718,77.9141,212,28,44,1,54,67,18,M
+628252,49.43824,0,Vallanad,Tuticorin,Srivaikuntam,8.7064,77.8217,212,28,44,1,54,67,18,M
+628301,49.42892,0,Dalavaipuram,Tuticorin,Thoothukkudi,8.8908,78.0044,276,10,17,196,23,27,3,F
+628302,49.3818,0,Muramban,Tuticorin,Ottapidaram,8.9,77.9392,276,10,17,196,23,27,3,F
+628303,49.35899,0,Puvani,Tuticorin,Ottapidaram,8.8274,77.8811,276,10,17,196,23,27,3,F
+628304,49.31987,0,Tattaparai,Tuticorin,Thoothukkudi,8.8908,78.0044,212,28,44,1,54,67,18,M
+628401,49.3161,0,Otapidaram,Tuticorin,Ottapidaram,8.9075,78.0217,212,28,44,1,54,67,18,M
+628402,49.30255,0,Nainapuram,Tuticorin,Ottapidaram,8.8908,78.0044,276,10,17,196,23,27,3,F
+628501,49.28915,0,Kovilpatti Town,Tuticorin,Kovilpatti,10.5136,77.9534,276,10,17,196,23,27,3,F
+628502,49.28223,0,Lingampatti,Tuticorin,Kovilpatti,8.8908,78.0044,276,10,17,196,23,27,3,F
+628503,49.23907,0,Alampatti,Tuticorin,Kovilpatti,8.8908,78.0044,212,28,44,1,54,67,18,M
+628552,49.22841,0,Kalugumalai,Tuticorin,Kovilpatti,9.1494,77.7057,212,28,44,1,54,67,18,M
+628601,49.21206,0,Srivaikuntam H.O,Tuticorin,Srivaikuntam,8.5768,77.8769,212,28,44,1,54,67,18,M
+628612,49.2117,0,Alwartirunagari,Tuticorin,Tiruchendur,8.5957,77.959,212,28,44,1,54,67,18,M
+628613,49.18859,0,Kattarimangalam,Tuticorin,Satankulam,8.5251,77.9044,212,28,44,1,54,67,18,M
+628614,49.13482,0,Kadayanodaiai,Tuticorin,Tiruchendur,8.545,77.8664,276,10,17,196,23,27,3,F
+628615,49.13039,0,Karungulam,Tuticorin,Srivaikuntam,8.6405,77.8517,276,10,17,196,23,27,3,F
+628616,49.12904,0,Mukuperi,Tuticorin,Satankulam,8.545,77.8664,276,10,17,196,23,27,3,F
+628617,49.12498,0,Vellamadam,Tuticorin,Satankulam,8.8908,78.0044,212,28,44,1,54,67,18,M
+628618,49.1039,0,Neivilai,Tuticorin,"",8.545,77.8664,212,28,44,1,54,67,18,M
+628619,49.09829,0,Alwarkarkulam,Tuticorin,Srivaikuntam,8.658,77.873,212,28,44,1,54,67,18,M
+628620,49.08662,0,Perur,Tuticorin,Srivaikuntam,8.6417,77.9468,276,10,17,196,23,27,3,F
+628621,49.07919,0,Ariyanayagipuram,Tuticorin,Rivaikuntam,9.1675,77.7382,276,10,17,196,23,27,3,F
+628622,49.05862,0,Ramanujampudur,Tuticorin,Srivaikuntam,8.5755,77.8111,276,10,17,196,23,27,3,F
+628623,49.05055,0,Kurangani,Tuticorin,Tiruchendur,8.6177,77.9959,276,10,17,196,23,27,3,F
+628653,49.04581,0,Naduvakurichi,Tuticorin,Satankulam,8.3718,77.9141,276,10,17,196,23,27,3,F
+628656,49.0204,0,Puthantharuvai,Tuticorin,"",8.4205,77.948,212,28,44,1,54,67,18,M
+628701,49.00075,0,Karuvelampadu,Tuticorin,Satankulam,8.5032,77.9142,212,28,44,1,54,67,18,M
+628702,48.97801,0,Subbarayapuram,Tuticorin,Sathankulam,8.4348,77.9466,212,28,44,1,54,67,18,M
+628703,48.9535,0,Alagappapuram,Tuticorin,Sathankulam,8.5913,78.0491,276,10,17,196,23,27,3,F
+628704,48.91323,0,Pudukulam,Tuticorin,Satankulam,8.8908,78.0044,276,10,17,196,23,27,3,F
+628712,48.87696,0,Sivagnanapuram,Tuticorin,Otapidaram,9.0552,78.09,212,28,44,1,54,67,18,M
+628714,48.86237,0,Kottali,Tuticorin,Kovilpatti,8.908,77.8416,276,10,17,196,23,27,3,F
+628716,48.81256,0,Villiseri,Tuticorin,Kovilpatti,8.8908,78.0044,212,28,44,1,54,67,18,M
+628718,48.80404,0,Nagampatti,Tuticorin,Otapidaram,9.0004,77.9505,212,28,44,1,54,67,18,M
+628720,48.78125,0,Koppampatti,Tuticorin,Kovilpatti,8.8908,78.0044,212,28,44,1,54,67,18,M
+628721,48.75502,0,Alagappapuram,Tuticorin,"",8.5913,78.0491,276,10,17,196,23,27,3,F
+628722,48.72538,0,Kurukkuchalai,Tuticorin,Ottapidaram,8.9299,78.0872,276,10,17,196,23,27,3,F
+628751,48.72188,0,Pandaravilai,Tuticorin,Srivaikuntam,8.6564,77.9956,276,10,17,196,23,27,3,F
+628752,48.71844,0,Perungulam (Tuticorin),Tuticorin,"",8.6413,77.9985,212,28,44,1,54,67,18,M
+628753,48.71776,0,Sivagalai,Tuticorin,Srivaikuntam,8.6491,77.9978,212,28,44,1,54,67,18,M
+628801,48.71699,0,Korkai,Tuticorin,Srivaikuntam,8.6395,78.058,212,28,44,1,54,67,18,M
+628802,48.70462,0,Arumugamangalam,Tuticorin,Srivaikuntam,8.6483,78.0421,212,28,44,1,54,67,18,M
+628809,48.68426,0,Vittilapuram,Tuticorin,Srivaikuntam,9.0172,78.0136,212,28,44,1,54,67,18,M
+628851,48.67371,0,Pudupatti,Tuticorin,Srivaikuntam,8.8908,78.0044,212,28,44,1,54,67,18,M
+628901,48.65756,0,Tattaneri,Tuticorin,Vilathikulam,9.0898,78.2624,276,10,17,196,23,27,3,F
+628902,48.64736,0,Perilovanpatti,Tuticorin,Ettayapuram,9.189,78.0891,276,10,17,196,23,27,3,F
+628903,48.62577,0,Vaippar,Tuticorin,Kovilpatti,9.0239,78.2467,212,28,44,1,54,67,18,M
+628904,48.60163,0,Vedapatti,Tuticorin,Vilathikulam,8.8908,78.0044,276,10,17,196,23,27,3,F
+628905,48.56198,0,Sivalarpatti,Tuticorin,Vilathikulam (kol),9.3129,78.1309,276,10,17,196,23,27,3,F
+628906,48.49401,0,Vembar,Tuticorin,Vilathikulam (kol),9.0815,78.3633,212,28,44,1,54,67,18,M
+628907,48.48809,0,Vilathikulam,Tuticorin,Vilathikulam (kol),9.1323,78.1664,276,10,17,196,23,27,3,F
+628908,48.44594,0,Pungavarnatham,Tuticorin,Ettaiyapuram,9.3266,78.1336,276,10,17,196,23,27,3,F
+628952,48.42604,0,Athikulam,Tuticorin,Kovilpatti,9.3266,78.1336,212,28,44,1,54,67,18,M
+627001,48.4081,0,Viraraghavapuram,Tirunelveli,Tirunelveli,8.5335,77.8517,545,27,37,392,32,51,6,F
+627002,48.37169,0,Kulavanickerpuram,Tirunelveli,Palayamkottai,8.5335,77.8517,545,27,37,392,32,51,6,F
+627003,48.35795,0,Vannarpettai,Tirunelveli,Palayamkottai,8.5335,77.8517,545,27,37,392,32,51,6,F
+627004,48.35739,0,Tirunelveli Pettai,Tirunelveli,Tirunelveli,8.5335,77.8517,545,27,37,392,32,51,6,F
+627005,48.357,0,Melapalayam (Tirunelveli),Tirunelveli,Palayamkottai,8.7008,77.7066,545,27,37,392,32,51,6,F
+627006,48.35529,0,Melathiru Vengadanathapuram,Tirunelveli,Tirunelveli,8.5335,77.8517,545,27,37,392,32,51,6,F
+627007,48.31773,0,Reddiarpatti,Tirunelveli,Palayankottai,8.3663,77.9969,545,27,37,392,32,51,6,F
+627008,48.29173,0,Gandhinagar (Tirunelveli),Tirunelveli,Tirunelveli,8.5335,77.8517,545,27,37,392,32,51,6,F
+627009,48.28928,0,Tirunelveli Collectorate,Tirunelveli,Palayamkottai,8.5335,77.8517,545,27,37,392,32,51,6,F
+627010,48.28593,0,Vaduganpatti,Tirunelveli,Tirunelveli,8.7551,77.6036,545,27,37,392,32,51,6,F
+627011,48.27745,0,Krishnapuram,Tirunelveli,Palayankottai,8.6874,77.8008,545,27,37,392,32,51,6,F
+627012,48.24836,0,Vellalankulam,Tirunelveli,Tirunelveli,8.7681,77.6267,545,27,37,392,32,51,6,F
+627101,48.23668,0,Rajakkamangalam,Tirunelveli,Nanguneri,8.7987,77.542,545,27,37,392,32,51,6,F
+627102,48.20552,0,Vadukatchimadil,Tirunelveli,Nanguneri,8.4553,77.5869,545,27,37,392,32,51,6,F
+627103,48.1915,0,Kodaiseri,Tirunelveli,Nanguneri,8.4645,77.6073,363,44,66,7,104,109,33,M
+627104,48.16881,0,Idindakarai,Tirunelveli,Radhapuram,8.1772,77.7431,363,44,66,7,104,109,33,M
+627105,48.14547,0,Kavalkinaru,Tirunelveli,Radhapuram,8.3854,77.5778,363,44,66,7,104,109,33,M
+627106,48.14408,0,Perumanal,Tirunelveli,Radhapuram,8.7987,77.542,363,44,66,7,104,109,33,M
+627107,48.13676,0,Mavadi,Tirunelveli,Nanguneri,8.4309,77.6714,363,44,66,7,104,109,33,M
+627108,48.12503,0,Kannanallur,Tirunelveli,Nanguneri,8.4233,77.6881,363,44,66,7,104,109,33,M
+627109,48.09307,0,Panagudi,Tirunelveli,Radhapuram,10.4684,79.846,363,44,66,7,104,109,33,M
+627110,48.0773,0,Pappankulam,Tirunelveli,Nanguneri,8.4628,77.7584,363,44,66,7,104,109,33,M
+627111,48.0736,0,Kakkarai,Tirunelveli,Radhapuram,8.7987,77.542,545,27,37,392,32,51,6,F
+627112,48.05013,0,Duraikudiyiruppu,Tirunelveli,Radhapuram,8.349,77.6797,545,27,37,392,32,51,6,F
+627113,48.03093,0,Soundarapandiapuram,Tirunelveli,Radhapuram,8.4037,77.6871,545,27,37,392,32,51,6,F
+627114,48.02189,0,Jacobpuram,Tirunelveli,Radhapuram,8.2068,77.6014,363,44,66,7,104,109,33,M
+627115,47.99237,0,Tirukurungudi,Tirunelveli,Ambasamudram,8.4365,77.5657,363,44,66,7,104,109,33,M
+627116,47.98723,0,Koliyankulam,Tirunelveli,Radhapuram,8.2311,77.6338,363,44,66,7,104,109,33,M
+627117,47.95503,0,Anaikulam,Tirunelveli,Radhapuram,9.0079,77.4532,363,44,66,7,104,109,33,M
+627118,47.92641,0,Venkatarayapuram,Tirunelveli,Nanguneri,8.4467,77.8308,363,44,66,7,104,109,33,M
+627119,47.90733,0,Vijayanarayanam Naval Base,Tirunelveli,Nanguneri,8.4037,77.6871,363,44,66,7,104,109,33,M
+627120,47.90372,0,Settikulam,Tirunelveli,Radhapuram,8.7987,77.542,363,44,66,7,104,109,33,M
+627127,47.90287,0,Kuttapuli,Tirunelveli,Radhapuram,8.1468,77.599,363,44,66,7,104,109,33,M
+627133,47.89325,0,Perungudi,Tirunelveli,Radhapuram,8.2792,77.6031,363,44,66,7,104,109,33,M
+627151,47.88246,0,Kovaikulam,Tirunelveli,Nanguneri,8.5998,77.7348,363,44,66,7,104,109,33,M
+627152,47.87749,0,Karandaneri,Tirunelveli,Nenguneri,8.5528,77.6844,545,27,37,392,32,51,6,F
+627201,47.84966,0,Kattarankulam,Tirunelveli,Tirunelveli,8.9086,77.6823,363,44,66,7,104,109,33,M
+627202,47.77798,0,Kaduvetti,Tirunelveli,Tirunelveli,8.9104,77.5787,545,27,37,392,32,51,6,F
+627351,47.7607,0,Burkitmanagaram,Tirunelveli,Palayamkottai,8.7586,77.8126,545,27,37,392,32,51,6,F
+627352,47.74117,0,Seliyanallur,Tirunelveli,"",8.9022,77.7098,363,44,66,7,104,109,33,M
+627353,47.71119,0,Kizhanatham,Tirunelveli,Palayankottai,8.738,77.746,363,44,66,7,104,109,33,M
+627354,47.69283,0,Ambalam,Tirunelveli,Nanguneri,8.5227,77.7267,363,44,66,7,104,109,33,M
+627355,47.6725,0,Kundakulam,Tirunelveli,Nanguneri,8.4965,77.7619,363,44,66,7,104,109,33,M
+627356,47.64935,0,Munnirpallam,Tirunelveli,Palayankottai,8.6849,77.6987,545,27,37,392,32,51,6,F
+627357,47.64714,0,Karaiyiruppu,Tirunelveli,Tirunelveli,8.7638,77.7178,545,27,37,392,32,51,6,F
+627358,47.62784,0,Senthimanagalam,Tirunelveli,Tirunelveli,9.0617,77.6974,363,44,66,7,104,109,33,M
+627359,47.62138,0,Palamadai,Tirunelveli,Tirunelveli,8.8539,77.6828,363,44,66,7,104,109,33,M
+627401,47.61413,0,Ambasamudram H.O,Tirunelveli,Ambasamudram,8.8359,77.5981,363,44,66,7,104,109,33,M
+627412,47.60482,0,Merku Alwarkurichi,Tirunelveli,Ambasamudram,8.9974,77.641,545,27,37,392,32,51,6,F
+627413,47.57353,0,Rengasamudram,Tirunelveli,Ambasamudram,8.9974,77.641,545,27,37,392,32,51,6,F
+627414,47.54623,0,Karisalpatti,Tirunelveli,Ambasamudram,8.6085,77.5861,363,44,66,7,104,109,33,M
+627415,47.53522,0,Kadayam,Tirunelveli,Ambasamudram,8.8204,77.3729,363,44,66,7,104,109,33,M
+627416,47.51707,0,Vairavikulam,Tirunelveli,Ambasamudram,8.6783,77.44,545,27,37,392,32,51,6,F
+627417,47.49329,0,Kuniyur,Tirunelveli,Ambasamudram,8.6794,77.5533,363,44,66,7,104,109,33,M
+627418,47.48465,0,Karuthapillaiyur,Tirunelveli,Ambasamudram,8.9974,77.641,363,44,66,7,104,109,33,M
+627420,47.47942,0,Manjolai,Tirunelveli,Ambasamudram,8.6747,77.5439,363,44,66,7,104,109,33,M
+627421,47.47507,0,Aladiyur,Tirunelveli,Ambasamudram,8.6805,77.4285,363,44,66,7,104,109,33,M
+627422,47.47296,0,Papanasam Mills,Tirunelveli,Ambasamudram,8.6747,77.5439,363,44,66,7,104,109,33,M
+627423,47.47133,0,Pappankulam,Tirunelveli,Ambasamudram,8.8107,77.7635,363,44,66,7,104,109,33,M
+627424,47.45649,0,Manthiyoor,Tirunelveli,Ambasamudram,8.6747,77.5439,363,44,66,7,104,109,33,M
+627425,47.44659,0,Uchankulam,Tirunelveli,Ambasamudram,8.7157,77.4043,363,44,66,7,104,109,33,M
+627426,47.40895,0,Vellankuli,Tirunelveli,Ambasamudram,8.6917,77.4931,545,27,37,392,32,51,6,F
+627427,47.39136,0,Nalumukku,Tirunelveli,Ambasamudram,8.6747,77.5439,363,44,66,7,104,109,33,M
+627428,47.37488,0,Agasthiyarpatti,Tirunelveli,Ambasamudram,8.6747,77.5439,363,44,66,7,104,109,33,M
+627451,47.37318,0,Gopalasamudram,Tirunelveli,Ambasamudram,8.6747,77.6379,363,44,66,7,104,109,33,M
+627452,47.37127,0,Melaseval,Tirunelveli,Ambasamudram,8.6736,77.6112,363,44,66,7,104,109,33,M
+627453,47.36779,0,Pattamadai,Tirunelveli,Ambasamudram,8.6726,77.5845,363,44,66,7,104,109,33,M
+627501,47.3444,0,Kalakad,Tirunelveli,Nanguneri,8.5138,77.5494,545,27,37,392,32,51,6,F
+627502,47.28926,0,Idaiyankulam,Tirunelveli,Nanguneri,8.6047,77.5999,545,27,37,392,32,51,6,F
+627601,47.26737,0,Singamparai,Tirunelveli,Ambasamudram,8.7506,77.5323,363,44,66,7,104,109,33,M
+627602,47.26005,0,Idaikal,Tirunelveli,Ambasamudram,9.0361,77.3369,545,27,37,392,32,51,6,F
+627603,47.25658,0,Vadakku Ariyanayagipuram Petta,Tirunelveli,Ambasamudram,8.9144,77.6748,545,27,37,392,32,51,6,F
+627604,47.25594,0,Narasinganallur,Tirunelveli,Tirunelveli,8.7004,77.6535,545,27,37,392,32,51,6,F
+627651,47.25314,0,Kuttam,Tirunelveli,Radhapuram,8.3202,77.9384,363,44,66,7,104,109,33,M
+627652,47.24097,0,Vijaya Achampadu,Tirunelveli,Radhapuram,8.406,77.8277,363,44,66,7,104,109,33,M
+627654,47.21832,0,Urumankulam,Tirunelveli,Radhapuram,8.2992,77.8138,545,27,37,392,32,51,6,F
+627657,47.21003,0,Karaichithupudur,Tirunelveli,Radhapuram,8.4873,77.7183,545,27,37,392,32,51,6,F
+627713,47.18452,0,Sippiparai,Tirunelveli,Virudhunagar,9.2397,77.7268,363,44,66,7,104,109,33,M
+627719,47.17237,0,Karisalkulam,Tirunelveli,Sankarankovil,9.3419,77.5782,363,44,66,7,104,109,33,M
+627751,47.15654,0,Kadayanallur Pettai,Tirunelveli,Tenkasi,9.0764,77.3409,545,27,37,392,32,51,6,F
+627753,47.14261,0,Perumbattur,Tirunelveli,Sankarankovil,9.3719,77.5856,363,44,66,7,104,109,33,M
+627754,47.11752,0,Chiambarapuram,Tirunelveli,Sankarankovil,8.9912,77.494,545,27,37,392,32,51,6,F
+627755,47.08021,0,Nagaram,Tirunelveli,Sivigiri,8.7987,77.542,363,44,66,7,104,109,33,M
+627756,46.99466,0,Sankarankovil H.O,Tirunelveli,Sankarankovil,9.4451,77.6777,363,44,66,7,104,109,33,M
+627757,46.98958,0,Devipattinam,Tirunelveli,Sivagiri,8.7987,77.542,363,44,66,7,104,109,33,M
+627759,46.96796,0,Krishnapuram (TVL),Tirunelveli,Tenkasi,9.4451,77.6777,545,27,37,392,32,51,6,F
+627760,46.96669,0,Gudalur,Tirunelveli,Sivagiri,9.2745,77.4592,545,27,37,392,32,51,6,F
+627761,46.9493,0,Panaiyur,Tirunelveli,Sankarankovil,9.2602,77.4943,363,44,66,7,104,109,33,M
+627764,46.92686,0,Rayagiri,Tirunelveli,Sivagiri,9.3037,77.4475,363,44,66,7,104,109,33,M
+627802,46.91633,0,Kasimajorpuram,Tirunelveli,Tenkasi,8.9303,77.2695,363,44,66,7,104,109,33,M
+627803,46.89699,0,Kuthukalvalasai,Tirunelveli,Tenkasi,8.9914,77.2946,363,44,66,7,104,109,33,M
+627804,46.88438,0,Kodikurichi,Tirunelveli,Tenkasi,9.2784,77.5741,545,27,37,392,32,51,6,F
+627805,46.88013,0,Kottakulam,Tirunelveli,Tenkasi,8.7987,77.542,545,27,37,392,32,51,6,F
+627806,46.86958,0,Vellakal,Tirunelveli,Virakeralampudur,9.2784,77.5741,545,27,37,392,32,51,6,F
+627807,46.85453,0,Panpuli,Tirunelveli,Sengottai,9.0214,77.2502,363,44,66,7,104,109,33,M
+627808,46.84593,0,Mettur,Tirunelveli,Ambasamudram,8.8652,77.3666,363,44,66,7,104,109,33,M
+627809,46.79142,0,Melur,Tirunelveli,Shenkottai,8.5481,77.591,363,44,66,7,104,109,33,M
+627811,46.7834,0,Tenkasi H.O,Tirunelveli,Tenkasi,11.2589,79.7156,545,27,37,392,32,51,6,F
+627812,46.78259,0,Vadakarai (Tirunelveli),Tirunelveli,Sengottai,11.2589,79.7156,545,27,37,392,32,51,6,F
+627813,46.78057,0,Karkudi,Tirunelveli,Sengottai,8.7987,77.542,545,27,37,392,32,51,6,F
+627814,46.7692,0,Gunaramanallur,Tirunelveli,Tenkasi,11.2589,79.7156,363,44,66,7,104,109,33,M
+627818,46.74311,0,Melagaram,Tirunelveli,Tenkasi,8.7987,77.542,363,44,66,7,104,109,33,M
+627851,46.74239,0,Andipatti,Tirunelveli,Alangulam,8.7987,77.542,363,44,66,7,104,109,33,M
+627852,46.69475,0,Urmelalagian,Tirunelveli,Tenkasi,9.0032,77.3449,545,27,37,392,32,51,6,F
+627853,46.6536,0,Ayyanarkulam,Tirunelveli,Alangulam,8.89,77.5313,363,44,66,7,104,109,33,M
+627854,46.62457,0,Kavalakurichi,Tirunelveli,Virakeralampudur,9.0532,77.5938,363,44,66,7,104,109,33,M
+627856,46.59189,0,Poigai,Tirunelveli,Tenkasi,9.0336,77.388,545,27,37,392,32,51,6,F
+627857,46.57395,0,Serndamangalam,Tirunelveli,Sankarankovil,8.7987,77.542,545,27,37,392,32,51,6,F
+627858,46.55617,0,Sundapandiapuram,Tirunelveli,Tenkasi,9.0209,77.5591,545,27,37,392,32,51,6,F
+627859,46.55302,0,Surandai,Tirunelveli,Virakeralampudur,8.9757,77.4192,363,44,66,7,104,109,33,M
+627860,46.51302,0,Melamarudappapuram,Tirunelveli,Virakeralampudur,8.3718,77.9141,363,44,66,7,104,109,33,M
+627861,46.46741,0,Vadi,Tirunelveli,Virakeralampudur,8.7987,77.542,545,27,37,392,32,51,6,F
+627862,46.45287,0,Ariyanayagipuram,Tirunelveli,Sankarankovil,8.3718,77.9141,363,44,66,7,104,109,33,M
+627951,46.42688,0,Devarkulam,Tirunelveli,Sankarankovil,8.9619,77.6356,363,44,66,7,104,109,33,M
+627953,46.40483,0,Melanilithanallur,Tirunelveli,Sankarankovil,8.9619,77.6356,545,27,37,392,32,51,6,F
+629001,46.34148,0,Nagercoil Town,Kanyakumari,Agastheeswaram,8.1519,77.5585,339,53,128,1,81,56,20,M
+629002,46.28168,0,Kottar,Kanyakumari,Agastheeswaram,8.1733,77.4377,472,24,55,324,41,26,2,F
+629003,46.26846,0,Vetturnimadam,Kanyakumari,Agastheeswaram,8.1671,77.465,472,24,55,324,41,26,2,F
+629004,46.26061,0,Nagercoil Industrial Estate,Kanyakumari,Agastheeswaram,8.1671,77.465,472,24,55,324,41,26,2,F
+629101,46.25917,0,Alancholai,Kanyakumari,Vilavancode,8.4393,77.3313,472,24,55,324,41,26,2,F
+629102,46.24543,0,Kodayarkilthangal,Kanyakumari,Kalkulam,8.4393,77.3313,339,53,128,1,81,56,20,M
+629151,46.24371,0,Arumanai,Kanyakumari,Kalkulam,8.367,77.2433,472,24,55,324,41,26,2,F
+629152,46.23636,0,Vellachiparai,Kanyakumari,Vilavancode,8.8335,77.3921,472,24,55,324,41,26,2,F
+629153,46.21407,0,Kaliakkavilai,Kanyakumari,Vilavancode,8.8335,77.3921,339,53,128,1,81,56,20,M
+629154,46.20518,0,Kanjampuram,Kanyakumari,Vilavancode,8.8335,77.3921,472,24,55,324,41,26,2,F
+629155,46.196,0,Kanjiracode,Kanyakumari,Vilavancode,8.8335,77.3921,472,24,55,324,41,26,2,F
+629156,46.19318,0,Kappiyarai,Kanyakumari,Vilavancode,8.8335,77.3921,472,24,55,324,41,26,2,F
+629157,46.19022,0,Pottetty,Kanyakumari,Vilavancode,10.3953,77.8671,472,24,55,324,41,26,2,F
+629158,46.16213,0,Kannanore,Kanyakumari,Kalkulam,8.8335,77.3921,339,53,128,1,81,56,20,M
+629159,46.13269,0,Alanchi,Kanyakumari,Kalkulam,8.1972,77.2358,339,53,128,1,81,56,20,M
+629160,46.11613,0,Kollangodu,Kanyakumari,Vilavancode,8.3099,77.2568,472,24,55,324,41,26,2,F
+629161,46.1094,0,Kulasekharam,Kanyakumari,Kalkulam,8.3632,77.2978,472,24,55,324,41,26,2,F
+629162,46.08498,0,Kappukadu,Kanyakumari,Vilavancode,8.3099,77.2568,339,53,128,1,81,56,20,M
+629163,46.0815,0,Kuzhithurai,Kanyakumari,Vilavancode,8.3179,77.1919,339,53,128,1,81,56,20,M
+629164,46.02567,0,Manalikarai,Kanyakumari,Kalkulam,8.2922,77.3215,472,24,55,324,41,26,2,F
+629165,46.01583,0,Gnaramvilai,Kanyakumari,Vilavancode,8.3081,77.2214,339,53,128,1,81,56,20,M
+629166,45.99302,0,Mekkamandapam,Kanyakumari,Kalkulam,8.3099,77.2568,339,53,128,1,81,56,20,M
+629167,45.97585,0,Mulagumoodu,Kanyakumari,Kalkulam,8.3099,77.2568,339,53,128,1,81,56,20,M
+629168,45.95566,0,Pacode,Kanyakumari,Vilavancode,8.3099,77.2568,472,24,55,324,41,26,2,F
+629169,45.93586,0,Palliyadi,Kanyakumari,Kalkulam,8.2683,77.2513,472,24,55,324,41,26,2,F
+629170,45.92809,0,Alampara,Kanyakumari,Vilavancode,8.3403,77.3452,472,24,55,324,41,26,2,F
+629171,45.91414,0,Munchirai,Kanyakumari,Vilavancode,8.3403,77.3452,472,24,55,324,41,26,2,F
+629172,45.90118,0,Methukummal,Kanyakumari,Vilavancode,8.3403,77.3452,472,24,55,324,41,26,2,F
+629173,45.89802,0,Thengapattanam,Kanyakumari,Vilavancode,8.3403,77.3452,472,24,55,324,41,26,2,F
+629174,45.89732,0,Thiruvithancode,Kanyakumari,Kalkulam,8.3403,77.3452,472,24,55,324,41,26,2,F
+629175,45.89084,0,Puliyurkurichi,Kanyakumari,Kalkulam,8.3069,77.3614,472,24,55,324,41,26,2,F
+629176,45.88045,0,Thuthur,Kanyakumari,Vilavancode,8.3403,77.3452,339,53,128,1,81,56,20,M
+629177,45.87576,0,Tiruvattar,Kanyakumari,Kalkulam,8.3307,77.2673,339,53,128,1,81,56,20,M
+629178,45.86106,0,Mangalakunnu,Kanyakumari,Vilavancode,8.3403,77.3452,339,53,128,1,81,56,20,M
+629179,45.86057,0,Unnamalakada,Kanyakumari,Vilavancode,8.3403,77.3452,472,24,55,324,41,26,2,F
+629180,45.8552,0,Kumaracoil,Kanyakumari,Kalkulam,8.2215,77.3611,472,24,55,324,41,26,2,F
+629193,45.84164,0,Keezhkulam,Kanyakumari,Vilavancode,8.4393,77.3313,472,24,55,324,41,26,2,F
+629201,45.82703,0,Santhapuram,Kanyakumari,Agastheeswaram,8.1256,77.3203,472,24,55,324,41,26,2,F
+629202,45.81051,0,Azhikkal,Kanyakumari,Kalkulam,8.1256,77.3203,472,24,55,324,41,26,2,F
+629203,45.80867,0,Friday Market,Kanyakumari,Kalkulam,8.1256,77.3203,472,24,55,324,41,26,2,F
+629204,45.79948,0,Kalpadi,Kanyakumari,Kalkulam,8.3069,77.3614,472,24,55,324,41,26,2,F
+629251,45.798,0,Colachel,Kanyakumari,Kalkulam,8.1794,77.2582,339,53,128,1,81,56,20,M
+629252,45.79141,0,Manavalakurichi,Kanyakumari,Kalkulam,8.1478,77.3055,339,53,128,1,81,56,20,M
+629301,45.78197,0,Kumarapuram,Kanyakumari,Agastheeswaram,8.1769,77.5047,472,24,55,324,41,26,2,F
+629302,45.76749,0,Madavalayam,Kanyakumari,Thovala,8.2278,77.4825,472,24,55,324,41,26,2,F
+629401,45.75679,0,James Town,Kanyakumari,Agastheeswaram,8.1519,77.5585,472,24,55,324,41,26,2,F
+629402,45.74665,0,Eraviputhur,Kanyakumari,"",8.1512,77.5345,472,24,55,324,41,26,2,F
+629403,45.74089,0,Kulasekharapuram,Kanyakumari,Agasteeswaram,8.1437,77.4957,472,24,55,324,41,26,2,F
+629501,45.73087,0,Mangavilai,Kanyakumari,Agastheeswaram,8.115,77.41,339,53,128,1,81,56,20,M
+629502,45.70614,0,Ganapathipuram,Kanyakumari,Agastheeswaram,8.3069,77.3614,339,53,128,1,81,56,20,M
+629601,45.69973,0,Pallam,Kanyakumari,Agastheeswaram,8.0991,77.4344,339,53,128,1,81,56,20,M
+629602,45.68734,0,Melamanakudy,Kanyakumari,Agastheeswaram,8.0991,77.4344,339,53,128,1,81,56,20,M
+629701,45.67914,0,Agasteeswaram,Kanyakumari,Agastheeswaram,8.1546,77.493,339,53,128,1,81,56,20,M
+629702,45.66235,0,Leepuram,Kanyakumari,Agastheeswaram,8.0997,77.5411,339,53,128,1,81,56,20,M
+629703,45.6356,0,Kottaram,Kanyakumari,Agastheeswaram,8.2081,77.4503,472,24,55,324,41,26,2,F
+629704,45.63022,0,Terur,Kanyakumari,Agasteeswaram,8.1733,77.4651,472,24,55,324,41,26,2,F
+629801,45.58564,0,Vembanur,Kanyakumari,Kalkulam,8.3069,77.3614,472,24,55,324,41,26,2,F
+629802,45.575,0,Lekshmipuram,Kanyakumari,Kalkulam,8.202,77.3469,472,24,55,324,41,26,2,F
+629803,45.56181,0,Bethelpuram,Kanyakumari,Kalkulam,8.202,77.3469,472,24,55,324,41,26,2,F
+629804,45.55012,0,Thickanamcode,Kanyakumari,Kalkulam,8.202,77.3469,472,24,55,324,41,26,2,F
+629809,45.53613,0,Karankad,Kanyakumari,Kalkulam,8.2011,77.3461,472,24,55,324,41,26,2,F
+629810,45.53152,0,Kandanvilai,Kanyakumari,Kalkulam,8.2068,77.3281,472,24,55,324,41,26,2,F
+629851,45.53067,0,Thadikarankonam,Kanyakumari,Thovala,8.3113,77.4262,472,24,55,324,41,26,2,F
+629852,45.47474,0,Isanthimangalam,Kanyakumari,Thovalai,8.3113,77.4262,472,24,55,324,41,26,2,F
+629901,45.47079,0,Erachakulam,Kanyakumari,Thovalai,8.231,77.4331,472,24,55,324,41,26,2,F
+635111,45.46071,0,Bommahalli,Dharmapuri,Palakkodu,12.3114,78.1709,141,30,29,1,31,24,26,M
+635201,45.44726,0,Bendrahalli,Dharmapuri,Dharmapuri,12.2642,78.3223,141,30,29,1,31,24,26,M
+635202,45.43213,0,Pulidikarai,Dharmapuri,Dharmapuri,12.2033,78.2735,141,30,29,1,31,24,26,M
+635205,45.38019,0,Kovilur,Dharmapuri,Palakkodu,12.0969,78.1958,244,8,20,169,26,19,2,F
+635301,45.33211,0,Regadahalli,Dharmapuri,Pappireddipatti,12.0198,78.2603,141,30,29,1,31,24,26,M
+635302,45.311,0,Kurubarahalli,Dharmapuri,Pappireddipatti,12.044,78.3595,141,30,29,1,31,24,26,M
+635303,45.28406,0,Maniyambadi,Dharmapuri,Pappireddipatti,12.1225,78.2834,244,8,20,169,26,19,2,F
+635305,45.25389,0,Gobichettipalayam,Dharmapuri,Harur,12.0969,78.1958,244,8,20,169,26,19,2,F
+636352,45.23398,0,Kammampatti,Dharmapuri,Dharmapuri,11.9068,77.9945,141,30,29,1,31,24,26,M
+636701,45.22983,0,Hale Dharmapuri,Dharmapuri,Dharmapuri,12.1588,78.1636,141,30,29,1,31,24,26,M
+636704,45.21111,0,Settikarai,Dharmapuri,Dharmapuri,12.1373,78.1869,244,8,20,169,26,19,2,F
+636705,45.17265,0,Vennampatti,Dharmapuri,Dharmapuri,12.0969,78.1958,244,8,20,169,26,19,2,F
+636803,45.14215,0,Makkanur,Dharmapuri,Dharmapuri,12.0969,78.1958,141,30,29,1,31,24,26,M
+636804,45.12008,0,Mademangalam,Dharmapuri,Dharmapuri,12.075,78.1525,141,30,29,1,31,24,26,M
+636805,45.09119,0,Mahendramangalam,Dharmapuri,Palacode,12.4121,78.0629,141,30,29,1,31,24,26,M
+636806,45.04283,0,Marandahalli,Dharmapuri,Palacode,12.3883,78.0032,244,8,20,169,26,19,2,F
+636807,45.03832,0,Balajangamanahalli,Dharmapuri,Dharmapuri,12.0666,78.0849,244,8,20,169,26,19,2,F
+636808,45.02303,0,Sunnampatti,Dharmapuri,Palacode,12.0969,78.1958,244,8,20,169,26,19,2,F
+636809,44.94656,0,Palavadi,Dharmapuri,Pennagaram,12.182,78.0649,244,8,20,169,26,19,2,F
+636810,44.86088,0,Senganur,Dharmapuri,Pennagaram,12.092,77.9051,244,8,20,169,26,19,2,F
+636811,44.80836,0,Perumbalai,Dharmapuri,Pennagaram,11.9635,77.9375,141,30,29,1,31,24,26,M
+636812,44.79502,0,Nammanadahalli,Dharmapuri,Palacode,12.0782,77.9422,141,30,29,1,31,24,26,M
+636813,44.79138,0,Biliyanur Agraharam,Dharmapuri,Pennagaram,12.1341,77.9743,244,8,20,169,26,19,2,F
+636902,44.77424,0,Mobiripatti,Dharmapuri,Harur,12.0718,78.4751,244,8,20,169,26,19,2,F
+636903,44.76369,0,Kalasapadi,Dharmapuri,Harur,12.0969,78.1958,244,8,20,169,26,19,2,F
+636904,44.71099,0,Menisi,Dharmapuri,Pappireddipatti,11.9759,78.3647,141,30,29,1,31,24,26,M
+636905,44.7072,0,Venkatasamudram,Dharmapuri,Pappireddipatti,11.9277,78.3488,244,8,20,169,26,19,2,F
+635001,44.60059,0,Dowlatabad,Krishnagiri,Krishnagiri,12.5758,78.2512,120,22,22,3,37,26,10,M
+635002,44.59698,0,Peddanapalli,Krishnagiri,Krishnagiri,12.5914,78.2487,120,22,22,3,37,26,10,M
+635101,44.57352,0,Kurumpatti,Krishnagiri,Krishnagiri,12.489,78.0327,211,3,47,130,8,19,4,F
+635102,44.56142,0,Urigam,Krishnagiri,Denkanikotta,12.3065,77.617,211,3,47,130,8,19,4,F
+635103,44.5368,0,Baliganapalli,Krishnagiri,Hosur,12.8738,77.9266,120,22,22,3,37,26,10,M
+635104,44.52248,0,Venkatasamudram,Krishnagiri,Pochampalli,12.4949,78.3917,120,22,22,3,37,26,10,M
+635105,44.47186,0,Gudisadanapalli,Krishnagiri,Hosur,12.8097,78.0456,211,3,47,130,8,19,4,F
+635106,44.4322,0,Bannihalli,Krishnagiri,Krishnagiri,12.3923,78.1813,120,22,22,3,37,26,10,M
+635107,44.40708,0,Bikkanapalli,Krishnagiri,Denkanikotta,12.4387,77.7946,211,3,47,130,8,19,4,F
+635108,44.34216,0,Kandikuppam,Krishnagiri,Krishnagiri,12.5456,78.3098,120,22,22,3,37,26,10,M
+635109,44.31729,0,Venkatesapuram,Krishnagiri,Hosur,12.6133,77.9667,211,3,47,130,8,19,4,F
+635110,44.27998,0,Nagondapalli,Krishnagiri,Hosur,12.6682,77.784,120,22,22,3,37,26,10,M
+635112,44.24152,0,Thimmapuram,Krishnagiri,Krishnagiri,12.489,78.0327,120,22,22,3,37,26,10,M
+635113,44.17588,0,Nagamangalam,Krishnagiri,Denkanikotta,12.5668,77.9398,211,3,47,130,8,19,4,F
+635114,44.13281,0,Saragapalli,Krishnagiri,Hosur,12.6126,77.7487,120,22,22,3,37,26,10,M
+635115,44.1186,0,Kodipalli,Krishnagiri,Krishnagiri,12.6215,78.1913,120,22,22,3,37,26,10,M
+635116,44.05462,0,Odayandahalli,Krishnagiri,Denkanikotta,12.4875,78.0218,120,22,22,3,37,26,10,M
+635117,44.05193,0,Peddachigaralapalli,Krishnagiri,Hosur,12.7481,78.031,211,3,47,130,8,19,4,F
+635118,44.02244,0,Gummalapuram,Krishnagiri,Denkanikotta,12.6549,77.6663,211,3,47,130,8,19,4,F
+635119,43.95554,0,Uddanapalli,Krishnagiri,Hosur,12.6082,77.9376,211,3,47,130,8,19,4,F
+635120,43.93929,0,Naralapalli,Krishnagiri,Krishnagiri,12.6485,78.2423,120,22,22,3,37,26,10,M
+635121,43.90602,0,Kottur,Krishnagiri,Krishnagiri,12.602,78.2801,120,22,22,3,37,26,10,M
+635122,43.84999,0,Moramadugu,Krishnagiri,Krishnagiri,12.4818,78.1222,211,3,47,130,8,19,4,F
+635123,43.80592,0,Papparapatti,Krishnagiri,Pochampalli,12.2794,78.2672,211,3,47,130,8,19,4,F
+635124,43.76569,0,Belathur,Krishnagiri,Hosur,12.5786,78.1851,211,3,47,130,8,19,4,F
+635126,43.75694,0,Begepalli,Krishnagiri,Hosur,12.7879,77.8019,211,3,47,130,8,19,4,F
+635130,43.74655,0,Doripalli,Krishnagiri,Hosur,12.7172,77.9673,211,3,47,130,8,19,4,F
+635203,43.73554,0,Kavandanur,Krishnagiri,Pochampalli,12.3698,78.435,120,22,22,3,37,26,10,M
+635204,43.70202,0,Velampatti,Krishnagiri,Pochampalli,12.203,78.4164,211,3,47,130,8,19,4,F
+635206,43.66565,0,Mahadevagollahalli,Krishnagiri,Pochampalli,12.3999,78.3448,211,3,47,130,8,19,4,F
+635207,43.64454,0,Marampatti,Krishnagiri,Uttangarai,12.2766,78.5739,211,3,47,130,8,19,4,F
+635304,43.6248,0,Anandur,Krishnagiri,Uttangarai,12.2616,78.3755,120,22,22,3,37,26,10,M
+635306,43.59573,0,Kodamandapatti,Krishnagiri,Uttangarai,12.489,78.0327,120,22,22,3,37,26,10,M
+635307,43.58598,0,Mittapalli,Krishnagiri,Uttangarai,12.5293,78.3101,211,3,47,130,8,19,4,F
+641001,43.47884,0,Coimbatore Bazaar,Coimbatore,Coimbatore South,10.9214,77.3026,757,21,61,581,47,37,10,F
+641002,43.45979,0,Rathinasabapathy Puram H.O,Coimbatore,Coimbatore South,10.9214,77.3026,757,21,61,581,47,37,10,F
+641003,43.43567,0,Lawley Road,Coimbatore,Coimbatore South,10.9214,77.3026,757,21,61,581,47,37,10,F
+641004,43.43234,0,Peelamedu,Coimbatore,Coimbatore South,11.0333,77,757,21,61,581,47,37,10,F
+641005,43.42538,0,Singanallur,Coimbatore,Coimbatore South,10.999,77.0324,757,21,61,581,47,37,10,F
+641006,43.42418,0,Krishnarayapuram,Coimbatore,Coimbatore North,10.8911,77.0331,757,21,61,581,47,37,10,F
+641007,43.40589,0,Vedapatti,Coimbatore,Coimbatore South,10.8745,76.9756,442,78,86,9,143,82,24,M
+641008,43.37941,0,Kuniamuthur,Coimbatore,Coimbatore South,10.9214,77.3026,442,78,86,9,143,82,24,M
+641009,43.3737,0,Ramnagar Coimbatore,Coimbatore,Coimbatore South,10.9214,77.3026,442,78,86,9,143,82,24,M
+641010,43.36782,0,Madampatti,Coimbatore,Coimbatore South,10.9681,76.8612,442,78,86,9,143,82,24,M
+641011,43.35498,0,Saibaba Mission,Coimbatore,Coimbatore North,11.0167,76.9707,442,78,86,9,143,82,24,M
+641012,43.35217,0,Tatabad,Coimbatore,Coimbatore South,11.0167,76.9707,442,78,86,9,143,82,24,M
+641013,43.34506,0,Govt.College Of Technology,Coimbatore,Coimbatore South,11.0167,76.9707,757,21,61,581,47,37,10,F
+641014,43.34279,0,Coimbatore Tidel Park,Coimbatore,Coimbatore,11.0167,76.9707,757,21,61,581,47,37,10,F
+641015,43.34,0,Uppilipalayam,Coimbatore,Coimbatore South,11.0167,76.9707,757,21,61,581,47,37,10,F
+641016,43.3336,0,Ondipudur,Coimbatore,Coimbatore South,11.0047,77.0493,757,21,61,581,47,37,10,F
+641017,43.29646,0,Pannimadai,Coimbatore,Coimbatore North,11.0823,76.9164,757,21,61,581,47,37,10,F
+641018,43.28292,0,Coimbatore Central,Coimbatore,Coimbatore South,11.0167,76.9707,757,21,61,581,47,37,10,F
+641019,43.26642,0,Coimbatore Press Colony,Coimbatore,Coimbatore North,11.0167,76.9707,757,21,61,581,47,37,10,F
+641020,43.25985,0,Sri Ramakrishna Vidyalaya,Coimbatore,Coimbatore North,11.0386,76.9807,757,21,61,581,47,37,10,F
+641021,43.24505,0,Eachanari,Coimbatore,Coimbatore South,11.0386,76.9807,757,21,61,581,47,37,10,F
+641022,43.23837,0,Idigarai,Coimbatore,Coimbatore North,11.1184,76.969,757,21,61,581,47,37,10,F
+641023,43.23341,0,Podanur,Coimbatore,Coimbatore South,10.9588,76.9924,757,21,61,581,47,37,10,F
+641024,43.21407,0,Sundarapuram,Coimbatore,Coimbatore South,11.0386,76.9807,442,78,86,9,143,82,24,M
+641025,43.20675,0,Edayarpalayam,Coimbatore,Coimbatore North,11.0386,76.9807,442,78,86,9,143,82,24,M
+641026,43.19488,0,Komarapalayam Coimbatore,Coimbatore,Coimbatore South,11.0386,76.9807,442,78,86,9,143,82,24,M
+641027,43.17517,0,Rathinapuri,Coimbatore,Coimbatore North,11.0386,76.9807,442,78,86,9,143,82,24,M
+641028,43.17256,0,Sowripalayam,Coimbatore,Coimbatore South,11.0386,76.9807,442,78,86,9,143,82,24,M
+641029,43.15825,0,Vellakinar,Coimbatore,Coimbatore North,11.0386,76.9807,442,78,86,9,143,82,24,M
+641030,43.14849,0,Kavundampalayam,Coimbatore,Coimbatore North,10.8745,76.9756,757,21,61,581,47,37,10,F
+641031,43.14572,0,Narasimhanaickenpalayam,Coimbatore,Coimbatore North,11.1173,76.9363,757,21,61,581,47,37,10,F
+641032,43.14266,0,Othakkalmandapam,Coimbatore,Coimbatore South,10.8423,77.0079,757,21,61,581,47,37,10,F
+641033,43.10872,0,Neelikonampalayam,Coimbatore,Coimbatore South,11.0329,77.2503,757,21,61,581,47,37,10,F
+641034,43.09859,0,Tudiyalur,Coimbatore,Coimbatore North,11.0816,76.9446,757,21,61,581,47,37,10,F
+641035,43.09091,0,Saravanampatti,Coimbatore,Coimbatore South,10.8745,76.9756,757,21,61,581,47,37,10,F
+641036,43.08532,0,Nanjundapuram,Coimbatore,Coimbatore South,11.1173,77.0488,757,21,61,581,47,37,10,F
+641037,43.08348,0,Pappanaickenpalayam,Coimbatore,Coimbatore South,11.0329,77.2503,757,21,61,581,47,37,10,F
+641038,43.08308,0,Kuppakonanpudur,Coimbatore,Coimbatore North,11.0329,77.2503,757,21,61,581,47,37,10,F
+641039,43.08298,0,Telungupalayam,Coimbatore,Coimbatore South,11.0329,77.2503,757,21,61,581,47,37,10,F
+641040,43.08257,0,Subramaniapuram.,Coimbatore,"",10.9111,77.0415,757,21,61,581,47,37,10,F
+641041,43.08184,0,Vadavalli,Coimbatore,Coimbatore,10.88,77.1539,757,21,61,581,47,37,10,F
+641042,43.08036,0,Kovaipudur,Coimbatore,Coimbatore South,10.9421,76.929,757,21,61,581,47,37,10,F
+641043,43.07848,0,Sahs College,Coimbatore,Coimbatore North,10.9111,77.0415,757,21,61,581,47,37,10,F
+641044,43.07093,0,Siddhapudur,Coimbatore,Coimbatore South,10.9111,77.0415,757,21,61,581,47,37,10,F
+641045,43.06121,0,Puliyakulam,Coimbatore,Coimbatore South,10.9111,77.0415,757,21,61,581,47,37,10,F
+641046,43.05077,0,Marudamalai,Coimbatore,Coimbatore North,10.9111,77.0415,757,21,61,581,47,37,10,F
+641047,43.04798,0,Gudalur-coimbatore,Coimbatore,Coimbatore North,10.9111,77.0415,757,21,61,581,47,37,10,F
+641048,43.0462,0,Kalapatti,Coimbatore,Coimbatore South,10.9111,77.0415,757,21,61,581,47,37,10,F
+641049,43.04044,0,Chinnavedampatti,Coimbatore,Coimbatore North,10.9111,77.0415,757,21,61,581,47,37,10,F
+641050,43.03626,0,Malumichampatti,Coimbatore,Coimbatore,10.9996,77.1255,757,21,61,581,47,37,10,F
+641062,43.02628,0,Nilambur,Coimbatore,Coimbatore South,11.059,77.0838,757,21,61,581,47,37,10,F
+641101,43.0047,0,Tenkarai,Coimbatore,Coimbatore North,10.8745,76.9756,757,21,61,581,47,37,10,F
+641103,42.9833,0,Irugur,Coimbatore,Palladam,11.0178,77.0629,757,21,61,581,47,37,10,F
+641104,42.92888,0,Marudur,Coimbatore,Mettupalayam,11.2346,76.9064,757,21,61,581,47,37,10,F
+641105,42.89476,0,Madukkarai,Coimbatore,Coimbatore South,10.9057,76.9634,757,21,61,581,47,37,10,F
+641107,42.8608,0,Ganesapuram,Coimbatore,Coimbatore South,10.8745,76.9756,757,21,61,581,47,37,10,F
+641108,42.80704,0,Anaikatti,Coimbatore,Coimbatore North,11.1162,76.7549,757,21,61,581,47,37,10,F
+641109,42.79806,0,Devarayapuram,Coimbatore,Coimbatore South,10.7601,76.9916,757,21,61,581,47,37,10,F
+641110,42.76823,0,Vellamadai,Coimbatore,Coimbatore North,11.1623,76.9973,757,21,61,581,47,37,10,F
+641111,42.75634,0,Vellalore,Coimbatore,Coimbatore South,10.9775,77.026,757,21,61,581,47,37,10,F
+641112,42.73161,0,Ettimadai,Coimbatore,Coimbatore South,10.8911,76.9087,757,21,61,581,47,37,10,F
+641113,42.72429,0,Medur,Coimbatore,Mettupalayam,10.8745,76.9756,757,21,61,581,47,37,10,F
+641114,42.68708,0,Semmedu,Coimbatore,Coimbatore North,10.9562,76.7594,757,21,61,581,47,37,10,F
+641201,42.68339,0,Chettipalayam,Coimbatore,Coimbatore South,10.9125,77.037,757,21,61,581,47,37,10,F
+641202,42.66336,0,Mettubavi,Coimbatore,Pollachi,10.8404,77.122,757,21,61,581,47,37,10,F
+641301,42.64352,0,Mettupalayam Bazaar,Coimbatore,Mettupalayam,11.4579,77.5996,757,21,61,581,47,37,10,F
+641302,42.64228,0,Sirumugai,Coimbatore,Mettupalayam,11.3214,77.0052,757,21,61,581,47,37,10,F
+641305,42.59405,0,Mahadevapuram,Coimbatore,Mettupalayam,10.8745,76.9756,442,78,86,9,143,82,24,M
+641401,42.58677,0,Kadampadi,Coimbatore,Palladam,10.8745,76.9756,442,78,86,9,143,82,24,M
+641402,42.58439,0,Sulur,Coimbatore,Mettupalayam,11.0243,77.1257,442,78,86,9,143,82,24,M
+641407,42.5821,0,Arasur,Coimbatore,Palladam,11.0866,77.1146,757,21,61,581,47,37,10,F
+641601,42.58191,0,Tirupur H.O,Coimbatore,Tirupur,11.0099,77.3289,757,21,61,581,47,37,10,F
+641602,42.58145,0,Pn Road,Coimbatore,Tiruppur,11.0099,77.3289,757,21,61,581,47,37,10,F
+641603,42.57067,0,Sirupuluvapatti,Coimbatore,Tiruppur,10.8745,76.9756,757,21,61,581,47,37,10,F
+641604,42.56263,0,Maruduraiyanvalasu,Coimbatore,Tiruppur,10.8745,76.9756,757,21,61,581,47,37,10,F
+641606,42.54237,0,Muthanampalayam,Coimbatore,Tirupur,10.8892,77.2168,757,21,61,581,47,37,10,F
+641652,42.49335,0,15 Velampalayam,Coimbatore,Tiruppur,11.1657,77.3712,757,21,61,581,47,37,10,F
+641653,42.48587,0,Nagammapudur,Coimbatore,Mettupalayam,11.2319,77.1157,757,21,61,581,47,37,10,F
+641654,42.44662,0,Palangarai,Coimbatore,Avanashi,10.8745,76.9756,442,78,86,9,143,82,24,M
+641655,42.34857,0,Pappankulam,Coimbatore,Avanashi,10.8745,76.9756,757,21,61,581,47,37,10,F
+641658,42.32111,0,Karadibavi,Coimbatore,Palladam,10.8745,76.9756,757,21,61,581,47,37,10,F
+641659,42.30854,0,Chennappachettipudur,Coimbatore,Mettupalayam,11.16,77.1154,757,21,61,581,47,37,10,F
+641662,42.28288,0,Sukkampalayam,Coimbatore,Palladam,10.8745,76.9756,442,78,86,9,143,82,24,M
+641663,42.25768,0,Samalapuram,Coimbatore,Tiruppur,10.8745,76.9756,757,21,61,581,47,37,10,F
+641664,42.22278,0,Naranapuram,Coimbatore,Palladam,11.1508,77.0559,757,21,61,581,47,37,10,F
+641665,42.18079,0,Alagumalai,Coimbatore,Tiruppur,10.8745,76.9756,757,21,61,581,47,37,10,F
+641666,42.16251,0,Perumanallur,Coimbatore,Tirupur,10.8745,76.9756,442,78,86,9,143,82,24,M
+641667,42.1497,0,Doddampatti,Coimbatore,Palladam,10.8745,76.9756,442,78,86,9,143,82,24,M
+641668,42.13985,0,Somanur,Coimbatore,Mettupalayam,11.0845,77.1891,442,78,86,9,143,82,24,M
+641669,42.12223,0,Chandrapuram,Coimbatore,Palladam,11.1697,77.1297,442,78,86,9,143,82,24,M
+641670,42.07637,0,Karavalur,Coimbatore,Mettupalayam,10.8745,76.9756,442,78,86,9,143,82,24,M
+641671,42.0636,0,Kammalapatti,Coimbatore,Palladam,10.8489,77.2473,442,78,86,9,143,82,24,M
+641687,42.01947,0,Andipalayam,Coimbatore,Tiruppur,10.8745,76.9756,757,21,61,581,47,37,10,F
+641697,42.01482,0,Pogalur,Coimbatore,Avanashi,10.8745,76.9756,757,21,61,581,47,37,10,F
+642001,42.00758,0,Gandhi Market (Coimbatore),Coimbatore,Pollachi,10.6498,77,757,21,61,581,47,37,10,F
+642002,41.96969,0,Mahalinga Puram,Coimbatore,Pollachi,10.6498,77,757,21,61,581,47,37,10,F
+642003,41.94656,0,Unjavelampatti,Coimbatore,Pollachi,10.6605,77.0533,757,21,61,581,47,37,10,F
+642004,41.93806,0,Akilandapuram,Coimbatore,Pollachi,10.6237,76.9631,757,21,61,581,47,37,10,F
+642005,41.92963,0,Devambadi,Coimbatore,Pollachi,10.6903,76.9075,757,21,61,581,47,37,10,F
+642006,41.92202,0,Suleeswaran Patti,Coimbatore,Pollachi,10.6498,77,757,21,61,581,47,37,10,F
+642007,41.92176,0,Angalakurichi,Coimbatore,Pollachi,10.6498,77,757,21,61,581,47,37,10,F
+642101,41.9186,0,Aliyar Nagar,Coimbatore,Pollachi,10.3341,77.2037,757,21,61,581,47,37,10,F
+642102,41.91544,0,Amaravathi Nagar,Coimbatore,Udamalpet,10.4348,77.2914,757,21,61,581,47,37,10,F
+642103,41.91413,0,Marappagoundenpudur,Coimbatore,Pollachi,10.3341,77.2037,757,21,61,581,47,37,10,F
+642104,41.88956,0,Anaimalai,Coimbatore,Pollachi,10.583,76.9344,442,78,86,9,143,82,24,M
+642105,41.86955,0,Mount Stuart,Coimbatore,Valparai,10.3341,77.2037,442,78,86,9,143,82,24,M
+642106,41.8681,0,Cinchona East,Coimbatore,Valparai,10.3341,77.2037,442,78,86,9,143,82,24,M
+642107,41.85881,0,Gomangalam,Coimbatore,Udamalpet,10.6336,77.1611,442,78,86,9,143,82,24,M
+642108,41.82808,0,Paralai,Coimbatore,Valparai,10.3341,77.2037,442,78,86,9,143,82,24,M
+642109,41.81712,0,Sokkanur,Coimbatore,Pollachi,10.8745,76.9756,442,78,86,9,143,82,24,M
+642110,41.77044,0,Devarayapuram,Coimbatore,Pollachi,10.7601,76.9916,442,78,86,9,143,82,24,M
+642111,41.75041,0,Krishnapuram (Coimbatore),Coimbatore,Udamalpet,11.0299,76.9632,442,78,86,9,143,82,24,M
+642112,41.73771,0,Jallipatti,Coimbatore,Udamalpet,11.0299,76.9632,442,78,86,9,143,82,24,M
+642114,41.73014,0,Malayandipattinam,Coimbatore,Pollachi,11.0299,76.9632,757,21,61,581,47,37,10,F
+642117,41.7275,0,Nallamudi,Coimbatore,Valparai,11.0299,76.9632,757,21,61,581,47,37,10,F
+642120,41.71967,0,Virugalpatti,Coimbatore,Pollachi,10.8745,76.9756,757,21,61,581,47,37,10,F
+642122,41.6763,0,Pulankinar,Coimbatore,Udamalpet,10.8745,76.9756,757,21,61,581,47,37,10,F
+642123,41.66146,0,Thondamuthur,Coimbatore,Pollachi,10.9908,76.8418,757,21,61,581,47,37,10,F
+642125,41.65368,0,Sholayar Nagar,Coimbatore,Valparai,10.7456,77.1038,757,21,61,581,47,37,10,F
+642126,41.64646,0,Eripalayam,Coimbatore,Udumalaipettai,10.7456,77.1038,757,21,61,581,47,37,10,F
+642127,41.6395,0,Urulikkal,Coimbatore,Valparai,10.3269,76.9512,442,78,86,9,143,82,24,M
+642128,41.5931,0,Venkatesa Mills,Coimbatore,Udumalaipettai,10.7456,77.1038,442,78,86,9,143,82,24,M
+642129,41.58982,0,Vettaikaran Pudur,Coimbatore,Pollachi,10.7456,77.1038,442,78,86,9,143,82,24,M
+642130,41.57528,0,Vellamalai,Coimbatore,Valparai,10.8745,76.9756,442,78,86,9,143,82,24,M
+642132,41.56537,0,Valavadi,Coimbatore,Udumalaipettai,10.5195,76.9127,442,78,86,9,143,82,24,M
+642133,41.55689,0,Sarkarpathi,Coimbatore,Udumalaipettai,10.4814,76.8698,442,78,86,9,143,82,24,M
+642134,41.54607,0,Somandurai,Coimbatore,Pollachi,10.5691,76.9894,442,78,86,9,143,82,24,M
+642154,41.54503,0,Pukkulam,Coimbatore,Udamalpet,10.8745,76.9756,442,78,86,9,143,82,24,M
+642201,41.5245,0,Gudimangalam,Coimbatore,Udamalpet,10.8745,76.9756,442,78,86,9,143,82,24,M
+642202,41.5146,0,Sirukalandai,Coimbatore,Pollachi,10.7794,77.1264,442,78,86,9,143,82,24,M
+642203,41.50334,0,Vedapatti,Coimbatore,Udamalpet,10.8745,76.9756,442,78,86,9,143,82,24,M
+642204,41.48087,0,Pappankulam,Coimbatore,Udamalpet,10.8745,76.9756,442,78,86,9,143,82,24,M
+642205,41.43488,0,Ammapatti,Coimbatore,Udumalaipettai,10.7201,76.9582,757,21,61,581,47,37,10,F
+642207,41.40956,0,Ravanapuram,Coimbatore,Udamalpet,10.8745,76.9756,442,78,86,9,143,82,24,M
